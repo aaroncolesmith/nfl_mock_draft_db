@@ -1,4 +1,292 @@
 pick,team,team_img,player,player_details,source,date,team_pick
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,CBS,2021-04-18,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,CBS,2021-04-18,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,CBS,2021-04-18,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,CBS,2021-04-18,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,IOL | OregonPOPULAR,CBS,2021-04-18,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,CBS,2021-04-18,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | AlabamaPOPULAR,CBS,2021-04-18,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,IOL | Northwestern,CBS,2021-04-18,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,CBS,2021-04-18,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,CBS,2021-04-18,Pick 10 - Dallas Cowboys
+11,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Trey Lance,QB | North Dakota State,CBS,2021-04-18,Pick 11 - New England Patriots
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devonta Smith,WR | AlabamaPOPULAR,CBS,2021-04-18,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,IOL | Virginia TechPOPULAR,CBS,2021-04-18,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jaelan Phillips,EDGE | Miami (FL),CBS,2021-04-18,Pick 14 - Minnesota Vikings
+15,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,CBS,2021-04-18,Pick 15 - New York Giants
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaycee Horn,CB | South CarolinaPOPULAR,CBS,2021-04-18,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Greg Newsome II,CB | Northwestern,CBS,2021-04-18,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Zaven Collins,EDGE | Tulsa,CBS,2021-04-18,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Alijah Vera-Tucker,IOL | USC,CBS,2021-04-18,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Teven Jenkins,IOL | Oklahoma State,CBS,2021-04-18,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Azeez Ojulari,EDGE | Georgia,CBS,2021-04-18,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Kwity Paye,EDGE | Michigan,CBS,2021-04-18,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Caleb Farley,CB | Virginia Tech,CBS,2021-04-18,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Travis Etienne,RB | Clemson,CBS,2021-04-18,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,CBS,2021-04-18,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jamin Davis,LB | Kentucky,CBS,2021-04-18,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Gregory Rousseau,EDGE | Miami (FL),CBS,2021-04-18,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Asante Samuel Jr.,CB | Florida State,CBS,2021-04-18,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Christian Barmore,DL | Alabama,CBS,2021-04-18,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,CBS,2021-04-18,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jalen Mayfield,IOL | MichiganPOPULAR,CBS,2021-04-18,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jayson Oweh,EDGE | Penn State,CBS,2021-04-18,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,NBC Sports Philadelphia,2021-04-18,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,NBC Sports Philadelphia,2021-04-18,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,NBC Sports Philadelphia,2021-04-18,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,NBC Sports Philadelphia,2021-04-18,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,NBC Sports Philadelphia,2021-04-18,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,NBC Sports Philadelphia,2021-04-18,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | AlabamaPOPULAR,NBC Sports Philadelphia,2021-04-18,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Patrick Surtain II,CB | Alabama,NBC Sports Philadelphia,2021-04-18,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,NBC Sports Philadelphia,2021-04-18,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaycee Horn,CB | South Carolina,NBC Sports Philadelphia,2021-04-18,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaelan Phillips,EDGE | Miami (FL),NBC Sports Philadelphia,2021-04-18,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Caleb Farley,CB | Virginia Tech,NBC Sports Philadelphia,2021-04-18,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Alijah Vera-Tucker,IOL | USC,NBC Sports Philadelphia,2021-04-18,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Rashawn Slater,OT | Northwestern,NBC Sports Philadelphia,2021-04-18,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Trey Lance,QB | North Dakota State,NBC Sports Philadelphia,2021-04-18,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Devonta Smith,WR | Alabama,NBC Sports Philadelphia,2021-04-18,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Micah Parsons,LB | Penn State,NBC Sports Philadelphia,2021-04-18,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Azeez Ojulari,EDGE | Georgia,NBC Sports Philadelphia,2021-04-18,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Rashod Bateman,WR | MinnesotaPOPULAR,NBC Sports Philadelphia,2021-04-18,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Christian Darrisaw,OT | Virginia Tech,NBC Sports Philadelphia,2021-04-18,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Teven Jenkins,OT | Oklahoma State,NBC Sports Philadelphia,2021-04-18,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Greg Newsome II,CB | Northwestern,NBC Sports Philadelphia,2021-04-18,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zaven Collins,LB | Tulsa,NBC Sports Philadelphia,2021-04-18,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,NBC Sports Philadelphia,2021-04-18,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jalen Mayfield,OT | Michigan,NBC Sports Philadelphia,2021-04-18,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,NBC Sports Philadelphia,2021-04-18,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Trevon Moehrig-Woodard,S | TCU,NBC Sports Philadelphia,2021-04-18,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Elijah Moore,WR | Mississippi,NBC Sports Philadelphia,2021-04-18,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Creed Humphrey,IOL | Oklahoma,NBC Sports Philadelphia,2021-04-18,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Javonte Williams,RB | North Carolina,NBC Sports Philadelphia,2021-04-18,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Samuel Cosmi,OT | Texas,NBC Sports Philadelphia,2021-04-18,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kwity Paye,EDGE | Michigan,NBC Sports Philadelphia,2021-04-18,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Horseshoe Heroes,2021-04-18,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Horseshoe Heroes,2021-04-18,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,Horseshoe Heroes,2021-04-18,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,Horseshoe Heroes,2021-04-18,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Horseshoe Heroes,2021-04-18,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,Horseshoe Heroes,2021-04-18,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devonta Smith,WR | Alabama,Horseshoe Heroes,2021-04-18,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,Horseshoe Heroes,2021-04-18,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Trey Lance,QB | North Dakota State,Horseshoe Heroes,2021-04-18,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,Horseshoe Heroes,2021-04-18,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Kwity Paye,EDGE | MichiganPOPULAR,Horseshoe Heroes,2021-04-18,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,Horseshoe Heroes,2021-04-18,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Alijah Vera-Tucker,OT | USC,Horseshoe Heroes,2021-04-18,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Gregory Rousseau,EDGE | Miami (FL)POPULAR,Horseshoe Heroes,2021-04-18,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Mac Jones,QB | AlabamaPOPULAR,Horseshoe Heroes,2021-04-18,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaycee Horn,CB | South CarolinaPOPULAR,Horseshoe Heroes,2021-04-18,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Micah Parsons,LB | Penn State,Horseshoe Heroes,2021-04-18,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Najee Harris,RB | AlabamaPOPULAR,Horseshoe Heroes,2021-04-18,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Christian Darrisaw,OT | Virginia Tech,Horseshoe Heroes,2021-04-18,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Farley,CB | Virginia Tech,Horseshoe Heroes,2021-04-18,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Samuel Cosmi,OT | TexasPOPULAR,Horseshoe Heroes,2021-04-18,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Jaelan Phillips,EDGE | Miami (FL),Horseshoe Heroes,2021-04-18,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Greg Newsome II,CB | Northwestern,Horseshoe Heroes,2021-04-18,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Teven Jenkins,OT | Oklahoma StatePOPULAR,Horseshoe Heroes,2021-04-18,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Alex Leatherwood,OT | Alabama,Horseshoe Heroes,2021-04-18,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,Horseshoe Heroes,2021-04-18,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Rashod Bateman,WR | Minnesota,Horseshoe Heroes,2021-04-18,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Kadarius Toney,WR | FloridaPOPULAR,Horseshoe Heroes,2021-04-18,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Rondale Moore,WR | PurduePOPULAR,Horseshoe Heroes,2021-04-18,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jayson Oweh,EDGE | Penn State,Horseshoe Heroes,2021-04-18,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Landon Dickerson,IOL | Alabama,Horseshoe Heroes,2021-04-18,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,Horseshoe Heroes,2021-04-18,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,NFL Spin Zone,2021-04-18,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,NFL Spin Zone,2021-04-18,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,NFL Spin Zone,2021-04-18,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,NFL Spin Zone,2021-04-18,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Ja'Marr Chase,WR | LSU,NFL Spin Zone,2021-04-18,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Devonta Smith,WR | Alabama,NFL Spin Zone,2021-04-18,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | AlabamaPOPULAR,NFL Spin Zone,2021-04-18,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Penei Sewell,OT | Oregon,NFL Spin Zone,2021-04-18,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,NFL Spin Zone,2021-04-18,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,NFL Spin Zone,2021-04-18,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,NFL Spin Zone,2021-04-18,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaycee Horn,CB | South Carolina,NFL Spin Zone,2021-04-18,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Rashawn Slater,OT | Northwestern,NFL Spin Zone,2021-04-18,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,IOL | USC,NFL Spin Zone,2021-04-18,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Rashod Bateman,WR | Minnesota,NFL Spin Zone,2021-04-18,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Najee Harris,RB | Alabama,NFL Spin Zone,2021-04-18,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Christian Darrisaw,OT | West Virginia,NFL Spin Zone,2021-04-18,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Azeez Ojulari,EDGE | Georgia,NFL Spin Zone,2021-04-18,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Trey Lance,QB | North Dakota State,NFL Spin Zone,2021-04-18,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Greg Newsome II,CB | Northwestern,NFL Spin Zone,2021-04-18,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Elijah Moore,WR | Mississippi,NFL Spin Zone,2021-04-18,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Caleb Farley,CB | Virginia Tech,NFL Spin Zone,2021-04-18,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Jaelan Phillips,EDGE | Miami (FL),NFL Spin Zone,2021-04-18,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Teven Jenkins,OT | Oklahoma StatePOPULAR,NFL Spin Zone,2021-04-18,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,NFL Spin Zone,2021-04-18,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,NFL Spin Zone,2021-04-18,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kwity Paye,EDGE | Michigan,NFL Spin Zone,2021-04-18,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Kadarius Toney,WR | FloridaPOPULAR,NFL Spin Zone,2021-04-18,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Terrace Marshall Jr.,WR | LSU,NFL Spin Zone,2021-04-18,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Eric Stokes,CB | Georgia,NFL Spin Zone,2021-04-18,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Samuel Cosmi,OT | Texas,NFL Spin Zone,2021-04-18,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,NFL Spin Zone,2021-04-18,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Pro Football Network,2021-04-18,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Pro Football Network,2021-04-18,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,Pro Football Network,2021-04-18,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Trey Lance,QB | North Dakota State,Pro Football Network,2021-04-18,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Pro Football Network,2021-04-18,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,Pro Football Network,2021-04-18,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Ja'Marr Chase,WR | LSU,Pro Football Network,2021-04-18,Pick 7 - Detroit Lions
+8,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Mac Jones,QB | Alabama,Pro Football Network,2021-04-18,Pick 8 - New England Patriots
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,Pro Football Network,2021-04-18,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaycee Horn,CB | South Carolina,Pro Football Network,2021-04-18,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,Pro Football Network,2021-04-18,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,Pro Football Network,2021-04-18,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Rashawn Slater,OT | Northwestern,Pro Football Network,2021-04-18,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Patrick Surtain II,CB | Alabama,Pro Football Network,2021-04-18,Pick 14 - Minnesota Vikings
+15,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Christian Darrisaw,OT | Virginia Tech,Pro Football Network,2021-04-18,Pick 15 - Carolina Panthers
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Devonta Smith,WR | Alabama,Pro Football Network,2021-04-18,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Alijah Vera-Tucker,IOL | USC,Pro Football Network,2021-04-18,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Najee Harris,RB | AlabamaPOPULAR,Pro Football Network,2021-04-18,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Rashod Bateman,WR | MinnesotaPOPULAR,Pro Football Network,2021-04-18,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Samuel Cosmi,OT | Texas,Pro Football Network,2021-04-18,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Kwity Paye,EDGE | Michigan,Pro Football Network,2021-04-18,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Greg Newsome II,CB | Northwestern,Pro Football Network,2021-04-18,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Teven Jenkins,OT | Oklahoma State,Pro Football Network,2021-04-18,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Creed Humphrey,IOL | Oklahoma,Pro Football Network,2021-04-18,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,Pro Football Network,2021-04-18,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jaelan Phillips,EDGE | Miami (FL),Pro Football Network,2021-04-18,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Azeez Ojulari,EDGE | Georgia,Pro Football Network,2021-04-18,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Zaven Collins,LB | Tulsa,Pro Football Network,2021-04-18,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jamin Davis,LB | Kentucky,Pro Football Network,2021-04-18,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Ronnie Perkins,EDGE | OklahomaRARE,Pro Football Network,2021-04-18,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Liam Eichenberg,OT | Notre Dame,Pro Football Network,2021-04-18,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,Pro Football Network,2021-04-18,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Tankathon,2021-04-18,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Tankathon,2021-04-18,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,Tankathon,2021-04-18,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,Tankathon,2021-04-18,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Tankathon,2021-04-18,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,Tankathon,2021-04-18,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devonta Smith,WR | Alabama,Tankathon,2021-04-18,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,Tankathon,2021-04-18,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,Tankathon,2021-04-18,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,Tankathon,2021-04-18,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaylen Waddle,WR | Alabama,Tankathon,2021-04-18,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Micah Parsons,EDGE | Penn State,Tankathon,2021-04-18,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,Tankathon,2021-04-18,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kwity Paye,EDGE | Michigan,Tankathon,2021-04-18,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Trey Lance,QB | North Dakota State,Tankathon,2021-04-18,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaycee Horn,CB | South CarolinaPOPULAR,Tankathon,2021-04-18,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jeremiah Owusu-Koramoah,EDGE | Notre DamePOPULAR,Tankathon,2021-04-18,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jaelan Phillips,EDGE | Miami (FL),Tankathon,2021-04-18,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Teven Jenkins,OT | Oklahoma State,Tankathon,2021-04-18,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Farley,CB | Virginia Tech,Tankathon,2021-04-18,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Zaven Collins,EDGE | Tulsa,Tankathon,2021-04-18,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Greg Newsome II,CB | Northwestern,Tankathon,2021-04-18,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Alijah Vera-Tucker,IOL | USC,Tankathon,2021-04-18,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,Tankathon,2021-04-18,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,Tankathon,2021-04-18,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Christian Barmore,DL | Alabama,Tankathon,2021-04-18,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Azeez Ojulari,EDGE | Georgia,Tankathon,2021-04-18,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Rashod Bateman,WR | Minnesota,Tankathon,2021-04-18,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kadarius Toney,WR | Florida,Tankathon,2021-04-18,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Gregory Rousseau,EDGE | Miami (FL),Tankathon,2021-04-18,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Samuel Cosmi,OT | Texas,Tankathon,2021-04-18,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jayson Oweh,EDGE | Penn State,Tankathon,2021-04-18,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,The Sports Bank,2021-04-18,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,The Sports Bank,2021-04-18,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,The Sports Bank,2021-04-18,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Trey Lance,QB | North Dakota State,The Sports Bank,2021-04-18,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Ja'Marr Chase,WR | LSU,The Sports Bank,2021-04-18,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,The Sports Bank,2021-04-18,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | AlabamaPOPULAR,The Sports Bank,2021-04-18,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,IOL | Northwestern,The Sports Bank,2021-04-18,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Mac Jones,QB | Alabama,The Sports Bank,2021-04-18,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,The Sports Bank,2021-04-18,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Devonta Smith,WR | Alabama,The Sports Bank,2021-04-18,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Zaven Collins,DL | Tulsa,The Sports Bank,2021-04-18,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Penei Sewell,OT | Oregon,The Sports Bank,2021-04-18,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Gregory Rousseau,DL | Miami (FL)POPULAR,The Sports Bank,2021-04-18,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Christian Barmore,DL | Alabama,The Sports Bank,2021-04-18,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Greg Newsome II,CB | Northwestern,The Sports Bank,2021-04-18,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Micah Parsons,LB | Penn State,The Sports Bank,2021-04-18,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kwity Paye,EDGE | Michigan,The Sports Bank,2021-04-18,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Alex Leatherwood,OT | Alabama,The Sports Bank,2021-04-18,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rashod Bateman,WR | Minnesota,The Sports Bank,2021-04-18,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Caleb Farley,CB | Virginia Tech,The Sports Bank,2021-04-18,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Azeez Ojulari,EDGE | GeorgiaPOPULAR,The Sports Bank,2021-04-18,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kadarius Toney,WR | Florida,The Sports Bank,2021-04-18,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,The Sports Bank,2021-04-18,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Carlos Basham Jr.,DL | Wake ForestRARE,The Sports Bank,2021-04-18,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,The Sports Bank,2021-04-18,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaylen Twyman,DL | PittsburghRARE,The Sports Bank,2021-04-18,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jalen Mayfield,OT | Michigan,The Sports Bank,2021-04-18,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jaycee Horn,CB | South Carolina,The Sports Bank,2021-04-18,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Liam Eichenberg,OT | Notre Dame,The Sports Bank,2021-04-18,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Samuel Cosmi,OT | Texas,The Sports Bank,2021-04-18,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Rondale Moore,WR | Purdue,The Sports Bank,2021-04-18,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,CBS,2021-04-17,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,CBS,2021-04-17,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,CBS,2021-04-17,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,CBS,2021-04-17,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Ja'Marr Chase,WR | LSU,CBS,2021-04-17,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Penei Sewell,IOL | Oregon,CBS,2021-04-17,Pick 6 - Miami Dolphins
+7,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Trey Lance,QB | North Dakota State,CBS,2021-04-17,Pick 7 - Denver Broncos
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,IOL | Northwestern,CBS,2021-04-17,Pick 8 - Carolina Panthers
+9,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devonta Smith,WR | Alabama,CBS,2021-04-17,Pick 9 - Detroit Lions
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,CBS,2021-04-17,Pick 10 - Dallas Cowboys
+11,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Mac Jones,QB | Alabama,CBS,2021-04-17,Pick 11 - New England Patriots
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,CBS,2021-04-17,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jaycee Horn,CB | South Carolina,CBS,2021-04-17,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,IOL | USC,CBS,2021-04-17,Pick 14 - Minnesota Vikings
+15,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,CBS,2021-04-17,Pick 15 - New York Giants
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Caleb Farley,CB | Virginia Tech,CBS,2021-04-17,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Kwity Paye,EDGE | Michigan,CBS,2021-04-17,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Zaven Collins,EDGE | Tulsa,CBS,2021-04-17,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,CBS,2021-04-17,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rondale Moore,WR | Purdue,CBS,2021-04-17,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Christian Darrisaw,IOL | Virginia Tech,CBS,2021-04-17,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Elijah Moore,WR | Mississippi,CBS,2021-04-17,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Azeez Ojulari,EDGE | Georgia,CBS,2021-04-17,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jayson Oweh,EDGE | Penn State,CBS,2021-04-17,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,CBS,2021-04-17,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jamin Davis,LB | Kentucky,CBS,2021-04-17,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaelan Phillips,EDGE | Miami (FL),CBS,2021-04-17,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Rashod Bateman,WR | Minnesota,CBS,2021-04-17,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Teven Jenkins,IOL | Oklahoma State,CBS,2021-04-17,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Greg Newsome II,CB | Northwestern,CBS,2021-04-17,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jalen Mayfield,IOL | MichiganPOPULAR,CBS,2021-04-17,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,CBS,2021-04-17,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Mile High Report,2021-04-17,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Justin Fields,QB | Ohio State,Mile High Report,2021-04-17,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Zach Wilson,QB | BYU,Mile High Report,2021-04-17,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Trey Lance,QB | North Dakota State,Mile High Report,2021-04-17,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Mile High Report,2021-04-17,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,Mile High Report,2021-04-17,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Patrick Surtain II,CB | Alabama,Mile High Report,2021-04-17,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,Mile High Report,2021-04-17,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Teven Jenkins,OT | Oklahoma State,Mile High Report,2021-04-17,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaycee Horn,CB | Alabama,Mile High Report,2021-04-17,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ja'Marr Chase,WR | LSU,Mile High Report,2021-04-17,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,Mile High Report,2021-04-17,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,Mile High Report,2021-04-17,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,IOL | USC,Mile High Report,2021-04-17,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Mac Jones,QB | AlabamaPOPULAR,Mile High Report,2021-04-17,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Azeez Ojulari,EDGE | Georgia,Mile High Report,2021-04-17,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Devonta Smith,WR | Alabama,Mile High Report,2021-04-17,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Micah Parsons,LB | Penn State,Mile High Report,2021-04-17,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Trevon Moehrig-Woodard,S | TCU,Mile High Report,2021-04-17,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Greg Newsome II,CB | Northwestern,Mile High Report,2021-04-17,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Kwity Paye,EDGE | Michigan,Mile High Report,2021-04-17,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Rashod Bateman,WR | Minnesota,Mile High Report,2021-04-17,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Jaelan Phillips,EDGE | Miami (FL),Mile High Report,2021-04-17,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Liam Eichenberg,OT | Notre Dame,Mile High Report,2021-04-17,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Samuel Cosmi,OT | Texas,Mile High Report,2021-04-17,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jayson Oweh,EDGE | Penn State,Mile High Report,2021-04-17,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Christian Barmore,DL | Alabama,Mile High Report,2021-04-17,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,Mile High Report,2021-04-17,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Elijah Moore,WR | Mississippi,Mile High Report,2021-04-17,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Caleb Farley,CB | Virginia Tech,Mile High Report,2021-04-17,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Alex Leatherwood,OT | Alabama,Mile High Report,2021-04-17,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Landon Dickerson,IOL | Alabama,Mile High Report,2021-04-17,Pick 32 - Tampa Bay Buccaneers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,The Huddle,2021-04-16,Pick 1 - Jacksonville Jaguars
 2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,The Huddle,2021-04-16,Pick 2 - New York Jets
 3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Trey Lance,QB | North Dakota State,The Huddle,2021-04-16,Pick 3 - San Francisco 49Ers
@@ -125,6 +413,70 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jaelan Phillips,EDGE | Miami (FL),Cleveland.com,2021-04-16,Pick 30 - Buffalo Bills
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Alex Leatherwood,OT | Alabama,Cleveland.com,2021-04-16,Pick 31 - Kansas City Chiefs
 32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,Cleveland.com,2021-04-16,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Around The Block,2021-04-16,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Around The Block,2021-04-16,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,Around The Block,2021-04-16,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Trey Lance,QB | North Dakota State,Around The Block,2021-04-16,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Around The Block,2021-04-16,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,Around The Block,2021-04-16,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Ja'Marr Chase,WR | LSU,Around The Block,2021-04-16,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,Around The Block,2021-04-16,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Mac Jones,QB | Alabama,Around The Block,2021-04-16,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaycee Horn,CB | South Carolina,Around The Block,2021-04-16,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,Around The Block,2021-04-16,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devonta Smith,WR | AlabamaPOPULAR,Around The Block,2021-04-16,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,Around The Block,2021-04-16,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Patrick Surtain II,CB | Alabama,Around The Block,2021-04-16,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Caleb Farley,CB | Virginia Tech,Around The Block,2021-04-16,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaylen Waddle,WR | Alabama,Around The Block,2021-04-16,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Christian Barmore,DL | Alabama,Around The Block,2021-04-16,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Teven Jenkins,OT | Oklahoma State,Around The Block,2021-04-16,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,Around The Block,2021-04-16,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rashod Bateman,WR | Minnesota,Around The Block,2021-04-16,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Alijah Vera-Tucker,IOL | USC,Around The Block,2021-04-16,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Kwity Paye,EDGE | Michigan,Around The Block,2021-04-16,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Najee Harris,RB | Alabama,Around The Block,2021-04-16,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Javonte Williams,RB | North Carolina,Around The Block,2021-04-16,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,Around The Block,2021-04-16,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Greg Newsome II,CB | Northwestern,Around The Block,2021-04-16,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Landon Dickerson,IOL | Alabama,Around The Block,2021-04-16,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Terrace Marshall Jr.,WR | LSU,Around The Block,2021-04-16,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Ifeatu Melifonwu,CB | SyracuseRARE,Around The Block,2021-04-16,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Azeez Ojulari,EDGE | Georgia,Around The Block,2021-04-16,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jamin Davis,LB | Kentucky,Around The Block,2021-04-16,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jaelan Phillips,EDGE | Miami (FL),Around The Block,2021-04-16,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,4 For 4,2021-04-15,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,4 For 4,2021-04-15,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,4 For 4,2021-04-15,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,4 For 4,2021-04-15,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Ja'Marr Chase,WR | LSU,4 For 4,2021-04-15,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Penei Sewell,OT | Oregon,4 For 4,2021-04-15,Pick 6 - Miami Dolphins
+7,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Trey Lance,QB | North Dakota State,4 For 4,2021-04-15,Pick 7 - New England Patriots
+8,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Justin Fields,QB | Ohio State,4 For 4,2021-04-15,Pick 8 - Washington Football Team
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Rashawn Slater,OT | Northwestern,4 For 4,2021-04-15,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,4 For 4,2021-04-15,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,4 For 4,2021-04-15,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devonta Smith,WR | AlabamaPOPULAR,4 For 4,2021-04-15,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,4 For 4,2021-04-15,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,IOL | USC,4 For 4,2021-04-15,Pick 14 - Minnesota Vikings
+15,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | Alabama,4 For 4,2021-04-15,Pick 15 - Detroit Lions
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaycee Horn,CB | South CarolinaPOPULAR,4 For 4,2021-04-15,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Kwity Paye,EDGE | Michigan,4 For 4,2021-04-15,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jaelan Phillips,EDGE | Miami (FL),4 For 4,2021-04-15,Pick 18 - Miami Dolphins
+19,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Caleb Farley,CB | Virginia Tech,4 For 4,2021-04-15,Pick 19 - Carolina Panthers
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Teven Jenkins,OT | Oklahoma State,4 For 4,2021-04-15,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Samuel Cosmi,OT | TexasPOPULAR,4 For 4,2021-04-15,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Azeez Ojulari,EDGE | GeorgiaPOPULAR,4 For 4,2021-04-15,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,4 For 4,2021-04-15,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,4 For 4,2021-04-15,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Gregory Rousseau,EDGE | Miami (FL),4 For 4,2021-04-15,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Rashod Bateman,WR | Minnesota,4 For 4,2021-04-15,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Terrace Marshall Jr.,WR | LSUPOPULAR,4 For 4,2021-04-15,Pick 27 - Baltimore Ravens
+28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Christian Barmore,DL | Alabama,4 For 4,2021-04-15,Pick 28 - New Orleans Saints
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Greg Newsome II,CB | Northwestern,4 For 4,2021-04-15,Pick 29 - Green Bay Packers
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jayson Oweh,EDGE | Penn State,4 For 4,2021-04-15,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Liam Eichenberg,OT | Notre Dame,4 For 4,2021-04-15,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Alex Leatherwood,OT | Alabama,4 For 4,2021-04-15,Pick 32 - Tampa Bay Buccaneers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Cowboys Coffee Talk,2021-04-15,Pick 1 - Jacksonville Jaguars
 2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Cowboys Coffee Talk,2021-04-15,Pick 2 - New York Jets
 3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,Cowboys Coffee Talk,2021-04-15,Pick 3 - San Francisco 49Ers
@@ -477,6 +829,38 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Asante Samuel Jr.,CB | Florida StatePOPULAR,NBC Sports,2021-04-14,Pick 30 - Buffalo Bills
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Dillon Radunz,OT | North Dakota State,NBC Sports,2021-04-14,Pick 31 - Kansas City Chiefs
 32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,NBC Sports,2021-04-14,Pick 32 - Tampa Bay Buccaneers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,NBC Sports Washington,2021-04-14,Pick 1 - Jacksonville Jaguars
+2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,NBC Sports Washington,2021-04-14,Pick 2 - New York Jets
+3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,NBC Sports Washington,2021-04-14,Pick 3 - San Francisco 49Ers
+4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,NBC Sports Washington,2021-04-14,Pick 4 - Atlanta Falcons
+5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,NBC Sports Washington,2021-04-14,Pick 5 - Cincinnati Bengals
+6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,NBC Sports Washington,2021-04-14,Pick 6 - Miami Dolphins
+7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Justin Fields,QB | Ohio State,NBC Sports Washington,2021-04-14,Pick 7 - Detroit Lions
+8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,NBC Sports Washington,2021-04-14,Pick 8 - Carolina Panthers
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Trey Lance,QB | North Dakota State,NBC Sports Washington,2021-04-14,Pick 9 - Denver Broncos
+10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,NBC Sports Washington,2021-04-14,Pick 10 - Dallas Cowboys
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Devonta Smith,WR | Alabama,NBC Sports Washington,2021-04-14,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,NBC Sports Washington,2021-04-14,Pick 12 - Philadelphia Eagles
+13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,NBC Sports Washington,2021-04-14,Pick 13 - Los Angeles Chargers
+14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kwity Paye,EDGE | Michigan,NBC Sports Washington,2021-04-14,Pick 14 - Minnesota Vikings
+15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Micah Parsons,LB | Penn State,NBC Sports Washington,2021-04-14,Pick 15 - New England Patriots
+16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaycee Horn,CB | South CarolinaPOPULAR,NBC Sports Washington,2021-04-14,Pick 16 - Arizona Cardinals
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Alijah Vera-Tucker,IOL | USC,NBC Sports Washington,2021-04-14,Pick 17 - Las Vegas Raiders
+18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jaelan Phillips,EDGE | Miami (FL),NBC Sports Washington,2021-04-14,Pick 18 - Miami Dolphins
+19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,NBC Sports Washington,2021-04-14,Pick 19 - Washington Football Team
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Teven Jenkins,OT | Oklahoma State,NBC Sports Washington,2021-04-14,Pick 20 - Chicago Bears
+21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Gregory Rousseau,EDGE | Miami (FL),NBC Sports Washington,2021-04-14,Pick 21 - Indianapolis Colts
+22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Greg Newsome II,CB | Northwestern,NBC Sports Washington,2021-04-14,Pick 22 - Tennessee Titans
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Caleb Farley,CB | Virginia Tech,NBC Sports Washington,2021-04-14,Pick 23 - New York Jets
+24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jalen Mayfield,OT | Michigan,NBC Sports Washington,2021-04-14,Pick 24 - Pittsburgh Steelers
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,NBC Sports Washington,2021-04-14,Pick 25 - Jacksonville Jaguars
+26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jamin Davis,LB | Kentucky,NBC Sports Washington,2021-04-14,Pick 26 - Cleveland Browns
+27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kadarius Toney,WR | Florida,NBC Sports Washington,2021-04-14,Pick 27 - Baltimore Ravens
+28,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Rashod Bateman,WR | Minnesota,NBC Sports Washington,2021-04-14,Pick 28 - Green Bay Packers
+29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Zaven Collins,EDGE | Tulsa,NBC Sports Washington,2021-04-14,Pick 29 - New Orleans Saints
+30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jayson Oweh,EDGE | Penn State,NBC Sports Washington,2021-04-14,Pick 30 - Buffalo Bills
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Samuel Cosmi,OT | Texas,NBC Sports Washington,2021-04-14,Pick 31 - Kansas City Chiefs
+32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,NBC Sports Washington,2021-04-14,Pick 32 - Tampa Bay Buccaneers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,CBS,2021-04-14,Pick 1 - Jacksonville Jaguars
 2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,CBS,2021-04-14,Pick 2 - New York Jets
 3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,CBS,2021-04-14,Pick 3 - San Francisco 49Ers
@@ -733,387 +1117,3 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Javonte Williams,RB | North Carolina,Primetime Sports Talk,2021-04-14,Pick 30 - Buffalo Bills
 31,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Asante Samuel Jr.,CB | Florida State,Primetime Sports Talk,2021-04-14,Pick 31 - Philadelphia Eagles
 32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jayson Oweh,EDGE | Penn State,Primetime Sports Talk,2021-04-14,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Loaded Box Podcast,2021-04-14,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Loaded Box Podcast,2021-04-14,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Trey Lance,QB | North Dakota State,Loaded Box Podcast,2021-04-14,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Penei Sewell,IOL | Oregon,Loaded Box Podcast,2021-04-14,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Ja'Marr Chase,WR | LSU,Loaded Box Podcast,2021-04-14,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,Loaded Box Podcast,2021-04-14,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Justin Fields,QB | Ohio State,Loaded Box Podcast,2021-04-14,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,IOL | Northwestern,Loaded Box Podcast,2021-04-14,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Micah Parsons,LB | Penn State,Loaded Box Podcast,2021-04-14,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,Loaded Box Podcast,2021-04-14,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Azeez Ojulari,EDGE | Georgia,Loaded Box Podcast,2021-04-14,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devonta Smith,WR | AlabamaPOPULAR,Loaded Box Podcast,2021-04-14,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,IOL | Virginia TechPOPULAR,Loaded Box Podcast,2021-04-14,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,IOL | USC,Loaded Box Podcast,2021-04-14,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jaylen Waddle,WR | Alabama,Loaded Box Podcast,2021-04-14,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaycee Horn,CB | South CarolinaPOPULAR,Loaded Box Podcast,2021-04-14,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jeremiah Owusu-Koramoah,LB | Notre DamePOPULAR,Loaded Box Podcast,2021-04-14,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kwity Paye,EDGE | Michigan,Loaded Box Podcast,2021-04-14,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Mac Jones,QB | Alabama,Loaded Box Podcast,2021-04-14,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Greg Newsome II,CB | Northwestern,Loaded Box Podcast,2021-04-14,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Jaelan Phillips,EDGE | Miami (FL),Loaded Box Podcast,2021-04-14,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Caleb Farley,CB | Virginia Tech,Loaded Box Podcast,2021-04-14,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Jamin Davis,LB | Kentucky,Loaded Box Podcast,2021-04-14,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,Loaded Box Podcast,2021-04-14,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,Loaded Box Podcast,2021-04-14,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Rashod Bateman,WR | Minnesota,Loaded Box Podcast,2021-04-14,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Terrace Marshall Jr.,WR | LSUPOPULAR,Loaded Box Podcast,2021-04-14,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Zaven Collins,LB | Tulsa,Loaded Box Podcast,2021-04-14,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Teven Jenkins,IOL | Oklahoma State,Loaded Box Podcast,2021-04-14,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Travis Etienne,RB | Clemson,Loaded Box Podcast,2021-04-14,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jalen Mayfield,IOL | MichiganPOPULAR,Loaded Box Podcast,2021-04-14,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,Loaded Box Podcast,2021-04-14,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,NFL Trade Rumors,2021-04-14,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,NFL Trade Rumors,2021-04-14,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,NFL Trade Rumors,2021-04-14,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Trey Lance,QB | North Dakota State,NFL Trade Rumors,2021-04-14,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Ja'Marr Chase,WR | LSU,NFL Trade Rumors,2021-04-14,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,NFL Trade Rumors,2021-04-14,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Penei Sewell,OT | Oregon,NFL Trade Rumors,2021-04-14,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,IOL | Northwestern,NFL Trade Rumors,2021-04-14,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,NFL Trade Rumors,2021-04-14,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,NFL Trade Rumors,2021-04-14,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,NFL Trade Rumors,2021-04-14,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,NFL Trade Rumors,2021-04-14,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jaycee Horn,CB | South Carolina,NFL Trade Rumors,2021-04-14,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kwity Paye,DL | Michigan,NFL Trade Rumors,2021-04-14,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Devonta Smith,WR | Alabama,NFL Trade Rumors,2021-04-14,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Caleb Farley,CB | Virginia Tech,NFL Trade Rumors,2021-04-14,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Christian Darrisaw,OT | Virginia Tech,NFL Trade Rumors,2021-04-14,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Zaven Collins,LB | Tulsa,NFL Trade Rumors,2021-04-14,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,NFL Trade Rumors,2021-04-14,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Kadarius Toney,WR | Florida,NFL Trade Rumors,2021-04-14,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Jaelan Phillips,DL | Miami (FL),NFL Trade Rumors,2021-04-14,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Teven Jenkins,OT | Oklahoma State,NFL Trade Rumors,2021-04-14,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Alijah Vera-Tucker,IOL | USC,NFL Trade Rumors,2021-04-14,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,NFL Trade Rumors,2021-04-14,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jayson Oweh,DL | Penn State,NFL Trade Rumors,2021-04-14,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Gregory Rousseau,DL | Miami (FL),NFL Trade Rumors,2021-04-14,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Azeez Ojulari,EDGE | Georgia,NFL Trade Rumors,2021-04-14,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Greg Newsome II,CB | Northwestern,NFL Trade Rumors,2021-04-14,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Samuel Cosmi,OT | Texas,NFL Trade Rumors,2021-04-14,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Eric Stokes,CB | Georgia,NFL Trade Rumors,2021-04-14,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Terrace Marshall Jr.,WR | LSU,NFL Trade Rumors,2021-04-14,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,NFL Trade Rumors,2021-04-14,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Sporting News,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Sporting News,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,Sporting News,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Trey Lance,QB | North Dakota State,Sporting News,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Sporting News,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,Sporting News,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devonta Smith,WR | Alabama,Sporting News,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Caleb Farley,CB | Virginia Tech,Sporting News,2021-04-13,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,Sporting News,2021-04-13,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,Sporting News,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rashawn Slater,OT | Northwestern,Sporting News,2021-04-13,Pick 11 - New York Giants
-12,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,Sporting News,2021-04-13,Pick 12 - Miami Dolphins
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jaylen Waddle,WR | Alabama,Sporting News,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,OT | USC,Sporting News,2021-04-13,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Micah Parsons,LB | Penn State,Sporting News,2021-04-13,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Gregory Rousseau,EDGE | Miami (FL),Sporting News,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jeremiah Owusu-Koramoah,EDGE | Notre DamePOPULAR,Sporting News,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kwity Paye,EDGE | Michigan,Sporting News,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Christian Darrisaw,OT | Virginia Tech,Sporting News,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Kadarius Toney,WR | Florida,Sporting News,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Samuel Cosmi,OT | TexasPOPULAR,Sporting News,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Teven Jenkins,OT | Oklahoma State,Sporting News,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Jaycee Horn,CB | South Carolina,Sporting News,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,Sporting News,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Christian Barmore,DL | Alabama,Sporting News,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Azeez Ojulari,EDGE | Georgia,Sporting News,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaelan Phillips,EDGE | Miami (FL),Sporting News,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Joseph Ossai,EDGE | Texas,Sporting News,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jalen Mayfield,OT | Michigan,Sporting News,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jayson Oweh,EDGE | Penn State,Sporting News,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Greg Newsome II,CB | Northwestern,Sporting News,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Levi Onwuzurike,DL | Washington,Sporting News,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Tankathon,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Tankathon,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,Tankathon,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,Tankathon,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Tankathon,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,Tankathon,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devonta Smith,WR | Alabama,Tankathon,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Patrick Surtain II,CB | Alabama,Tankathon,2021-04-13,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,Tankathon,2021-04-13,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaycee Horn,CB | South Carolina,Tankathon,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaylen Waddle,WR | Alabama,Tankathon,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Rashawn Slater,OT | Northwestern,Tankathon,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,Tankathon,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kwity Paye,EDGE | Michigan,Tankathon,2021-04-13,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Trey Lance,QB | North Dakota State,Tankathon,2021-04-13,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Caleb Farley,CB | Virginia Tech,Tankathon,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Micah Parsons,EDGE | Penn State,Tankathon,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jaelan Phillips,EDGE | Miami (FL),Tankathon,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,EDGE | Notre Dame,Tankathon,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Teven Jenkins,OT | Oklahoma State,Tankathon,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Gregory Rousseau,EDGE | Miami (FL),Tankathon,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Azeez Ojulari,EDGE | GeorgiaPOPULAR,Tankathon,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Alijah Vera-Tucker,IOL | USC,Tankathon,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Najee Harris,RB | Alabama,Tankathon,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,Tankathon,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Zaven Collins,EDGE | TulsaPOPULAR,Tankathon,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Rashod Bateman,WR | Minnesota,Tankathon,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Greg Newsome II,CB | Northwestern,Tankathon,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kadarius Toney,WR | Florida,Tankathon,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Christian Barmore,DL | Alabama,Tankathon,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Samuel Cosmi,OT | Texas,Tankathon,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jayson Oweh,EDGE | Penn State,Tankathon,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Action Network,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Action Network,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,Action Network,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Justin Fields,QB | Ohio State,Action Network,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Action Network,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,Action Network,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | AlabamaPOPULAR,Action Network,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Kyle Pitts,TE | Florida,Action Network,2021-04-13,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Trey Lance,QB | North Dakota State,Action Network,2021-04-13,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,Action Network,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rashawn Slater,OT | Northwestern,Action Network,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devonta Smith,WR | AlabamaPOPULAR,Action Network,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,Action Network,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,OT | USC,Action Network,2021-04-13,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Micah Parsons,LB | Penn State,Action Network,2021-04-13,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jaycee Horn,CB | South CarolinaPOPULAR,Action Network,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Teven Jenkins,OT | Oklahoma State,Action Network,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kwity Paye,EDGE | Michigan,Action Network,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,Action Network,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Samuel Cosmi,OT | Texas,Action Network,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Caleb Farley,CB | Virginia Tech,Action Network,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Jaelan Phillips,EDGE | Miami (FL),Action Network,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Azeez Ojulari,EDGE | Georgia,Action Network,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Greg Newsome II,CB | Northwestern,Action Network,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevon Moehrig-Woodard,S | TCUPOPULAR,Action Network,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Zaven Collins,LB | TulsaPOPULAR,Action Network,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Gregory Rousseau,EDGE | Miami (FL),Action Network,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Rashod Bateman,WR | Minnesota,Action Network,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kadarius Toney,WR | Florida,Action Network,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jayson Oweh,EDGE | Penn State,Action Network,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Landon Dickerson,IOL | Alabama,Action Network,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,Action Network,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,CBS,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,CBS,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,CBS,2021-04-13,Pick 3 - San Francisco 49Ers
-4,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Trey Lance,QB | North Dakota State,CBS,2021-04-13,Pick 4 - New England Patriots
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,IOL | OregonPOPULAR,CBS,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,CBS,2021-04-13,Pick 6 - Miami Dolphins
-7,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,CBS,2021-04-13,Pick 7 - Denver Broncos
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Ja'Marr Chase,WR | LSU,CBS,2021-04-13,Pick 8 - Carolina Panthers
-9,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | Alabama,CBS,2021-04-13,Pick 9 - Detroit Lions
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,CBS,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaelan Phillips,EDGE | Miami (FL),CBS,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devonta Smith,WR | AlabamaPOPULAR,CBS,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Rashawn Slater,IOL | Northwestern,CBS,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jaycee Horn,CB | South Carolina,CBS,2021-04-13,Pick 14 - Las Vegas Raiders
-15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Micah Parsons,LB | Penn State,CBS,2021-04-13,Pick 15 - Atlanta Falcons
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Kadarius Toney,WR | Florida,CBS,2021-04-13,Pick 16 - Arizona Cardinals
-17,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Christian Darrisaw,IOL | Virginia Tech,CBS,2021-04-13,Pick 17 - Minnesota Vikings
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kwity Paye,EDGE | Michigan,CBS,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,CBS,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Alijah Vera-Tucker,IOL | USCPOPULAR,CBS,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Azeez Ojulari,EDGE | Georgia,CBS,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Elijah Moore,WR | Mississippi,CBS,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Teven Jenkins,IOL | Oklahoma State,CBS,2021-04-13,Pick 23 - New York Jets
-24,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Greg Newsome II,S | Northwestern,CBS,2021-04-13,Pick 24 - Green Bay Packers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Christian Barmore,DL | Alabama,CBS,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Asante Samuel Jr.,CB | Florida State,CBS,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Trevon Moehrig-Woodard,S | TCU,CBS,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Caleb Farley,CB | Virginia Tech,CBS,2021-04-13,Pick 28 - New Orleans Saints
-29,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Alex Leatherwood,IOL | Alabama,CBS,2021-04-13,Pick 29 - Pittsburgh Steelers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Travis Etienne,RB | Clemson,CBS,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jayson Oweh,EDGE | Penn State,CBS,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Landon Dickerson,IOL | Alabama,CBS,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Yahoo Sports,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Yahoo Sports,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,Yahoo Sports,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Trey Lance,QB | North Dakota State,Yahoo Sports,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Kyle Pitts,TE | Florida,Yahoo Sports,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,Yahoo Sports,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Penei Sewell,OT | Oregon,Yahoo Sports,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Patrick Surtain II,CB | Alabama,Yahoo Sports,2021-04-13,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Justin Fields,QB | Ohio State,Yahoo Sports,2021-04-13,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Rashawn Slater,OT | Northwestern,Yahoo Sports,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Micah Parsons,LB | Penn State,Yahoo Sports,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaycee Horn,CB | South Carolina,Yahoo Sports,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,Yahoo Sports,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kwity Paye,EDGE | Michigan,Yahoo Sports,2021-04-13,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jaylen Waddle,WR | Alabama,Yahoo Sports,2021-04-13,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Devonta Smith,WR | Alabama,Yahoo Sports,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Teven Jenkins,OT | Oklahoma State,Yahoo Sports,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jaelan Phillips,EDGE | Miami (FL),Yahoo Sports,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Zaven Collins,LB | Tulsa,Yahoo Sports,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Kadarius Toney,WR | Florida,Yahoo Sports,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Alijah Vera-Tucker,IOL | USC,Yahoo Sports,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Elijah Moore,WR | Mississippi,Yahoo Sports,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Jeremiah Owusu-Koramoah,S | Notre Dame,Yahoo Sports,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Landon Dickerson,IOL | Alabama,Yahoo Sports,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Christian Barmore,DL | Alabama,Yahoo Sports,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Greg Newsome II,CB | Northwestern,Yahoo Sports,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Azeez Ojulari,EDGE | Georgia,Yahoo Sports,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Davis Mills,QB | StanfordRARE,Yahoo Sports,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Caleb Farley,CB | Virginia Tech,Yahoo Sports,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jayson Oweh,EDGE | Penn State,Yahoo Sports,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Terrace Marshall Jr.,WR | LSU,Yahoo Sports,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Najee Harris,RB | Alabama,Yahoo Sports,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,The Big Lead,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,The Big Lead,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,The Big Lead,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,The Big Lead,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,The Big Lead,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,The Big Lead,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devonta Smith,WR | Alabama,The Big Lead,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Patrick Surtain II,CB | Alabama,The Big Lead,2021-04-13,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Trey Lance,QB | North Dakota State,The Big Lead,2021-04-13,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaycee Horn,CB | South Carolina,The Big Lead,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaylen Waddle,WR | Alabama,The Big Lead,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Micah Parsons,LB | Penn State,The Big Lead,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Rashawn Slater,OT | Northwestern,The Big Lead,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Christian Darrisaw,OT | Virginia Tech,The Big Lead,2021-04-13,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Justin Fields,QB | Ohio State,The Big Lead,2021-04-13,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Caleb Farley,CB | Virginia Tech,The Big Lead,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Trevon Moehrig-Woodard,S | TCU,The Big Lead,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Gregory Rousseau,EDGE | Miami (FL),The Big Lead,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,The Big Lead,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Alijah Vera-Tucker,OT | USCPOPULAR,The Big Lead,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Kwity Paye,DL | Michigan,The Big Lead,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Kadarius Toney,WR | Florida,The Big Lead,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Azeez Ojulari,EDGE | Georgia,The Big Lead,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Travis Etienne,RB | Clemson,The Big Lead,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Teven Jenkins,OT | Oklahoma State,The Big Lead,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jaelan Phillips,EDGE | Miami (FL),The Big Lead,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Terrace Marshall Jr.,WR | LSUPOPULAR,The Big Lead,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Greg Newsome II,CB | Northwestern,The Big Lead,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Elijah Moore,WR | Mississippi,The Big Lead,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Zaven Collins,EDGE | Tulsa,The Big Lead,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jalen Mayfield,OT | MichiganPOPULAR,The Big Lead,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Christian Barmore,DL | AlabamaPOPULAR,The Big Lead,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Mockout,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Mockout,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,Mockout,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,Mockout,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,Mockout,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,Mockout,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jaylen Waddle,WR | AlabamaPOPULAR,Mockout,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,Mockout,2021-04-13,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Trey Lance,QB | North Dakota State,Mockout,2021-04-13,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,Mockout,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Devonta Smith,WR | Alabama,Mockout,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaycee Horn,CB | South Carolina,Mockout,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,Mockout,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Alijah Vera-Tucker,OT | USC,Mockout,2021-04-13,Pick 14 - Minnesota Vikings
-15,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Mac Jones,QB | Alabama,Mockout,2021-04-13,Pick 15 - Washington Football Team
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Caleb Farley,CB | Virginia Tech,Mockout,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jeremiah Owusu-Koramoah,LB | Notre DamePOPULAR,Mockout,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Najee Harris,RB | AlabamaPOPULAR,Mockout,2021-04-13,Pick 18 - Miami Dolphins
-19,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Micah Parsons,LB | Penn State,Mockout,2021-04-13,Pick 19 - New England Patriots
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rashod Bateman,WR | Minnesota,Mockout,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Kwity Paye,EDGE | Michigan,Mockout,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Greg Newsome II,CB | Northwestern,Mockout,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Travis Etienne,RB | ClemsonPOPULAR,Mockout,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Creed Humphrey,IOL | Oklahoma,Mockout,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Christian Barmore,DL | Alabama,Mockout,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Joseph Ossai,EDGE | Texas,Mockout,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Azeez Ojulari,EDGE | Georgia,Mockout,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Zaven Collins,LB | Tulsa,Mockout,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Terrace Marshall Jr.,WR | LSU,Mockout,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jayson Oweh,EDGE | Penn State,Mockout,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Teven Jenkins,OT | Oklahoma State,Mockout,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Gregory Rousseau,EDGE | Miami (FL),Mockout,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,Sharp Football Analysis,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,Sharp Football Analysis,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mac Jones,QB | Alabama,Sharp Football Analysis,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,Sharp Football Analysis,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Ja'Marr Chase,WR | LSU,Sharp Football Analysis,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Penei Sewell,OT | Oregon,Sharp Football Analysis,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Justin Fields,QB | Ohio State,Sharp Football Analysis,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,Sharp Football Analysis,2021-04-13,Pick 8 - Carolina Panthers
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Christian Darrisaw,OT | Virginia Tech,Sharp Football Analysis,2021-04-13,Pick 9 - Denver Broncos
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,Sharp Football Analysis,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Devonta Smith,WR | Alabama,Sharp Football Analysis,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,Sharp Football Analysis,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jaycee Horn,CB | South Carolina,Sharp Football Analysis,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jaelan Phillips,EDGE | Miami (FL),Sharp Football Analysis,2021-04-13,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Trey Lance,QB | North Dakota State,Sharp Football Analysis,2021-04-13,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Christian Barmore,DL | Alabama,Sharp Football Analysis,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Teven Jenkins,OT | Oklahoma State,Sharp Football Analysis,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kwity Paye,EDGE | Michigan,Sharp Football Analysis,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Zaven Collins,LB | Tulsa,Sharp Football Analysis,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Elijah Moore,WR | Mississippi,Sharp Football Analysis,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Samuel Cosmi,OT | TexasPOPULAR,Sharp Football Analysis,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Greg Newsome II,CB | Northwestern,Sharp Football Analysis,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Micah Parsons,LB | Penn State,Sharp Football Analysis,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Landon Dickerson,IOL | Alabama,Sharp Football Analysis,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,Sharp Football Analysis,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Caleb Farley,CB | Virginia Tech,Sharp Football Analysis,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Azeez Ojulari,EDGE | Georgia,Sharp Football Analysis,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Rashod Bateman,WR | Minnesota,Sharp Football Analysis,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Terrace Marshall Jr.,WR | LSU,Sharp Football Analysis,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Gregory Rousseau,EDGE | Miami (FL),Sharp Football Analysis,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Alex Leatherwood,OT | Alabama,Sharp Football Analysis,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Rondale Moore,WR | Purdue,Sharp Football Analysis,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,SI,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,SI,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Trey Lance,QB | North Dakota State,SI,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Mac Jones,QB | Alabama,SI,2021-04-13,Pick 4 - Denver Broncos
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,SI,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kyle Pitts,TE | Florida,SI,2021-04-13,Pick 6 - Miami Dolphins
-7,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Ja'Marr Chase,WR | LSU,SI,2021-04-13,Pick 7 - Detroit Lions
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,SI,2021-04-13,Pick 8 - Carolina Panthers
-9,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Patrick Surtain II,CB | Alabama,SI,2021-04-13,Pick 9 - Atlanta Falcons
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaycee Horn,S | South Carolina,SI,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Alijah Vera-Tucker,IOL | USC,SI,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaylen Waddle,WR | Alabama,SI,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Christian Darrisaw,OT | Virginia TechPOPULAR,SI,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kwity Paye,EDGE | Michigan,SI,2021-04-13,Pick 14 - Minnesota Vikings
-15,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Justin Fields,QB | Ohio State,SI,2021-04-13,Pick 15 - New England Patriots
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Devonta Smith,WR | Alabama,SI,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Micah Parsons,LB | Penn State,SI,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Trevon Moehrig-Woodard,S | TCU,SI,2021-04-13,Pick 18 - Miami Dolphins
-19,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Teven Jenkins,OT | Oklahoma State,SI,2021-04-13,Pick 19 - Washington Football Team
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Farley,CB | Virginia Tech,SI,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Jaelan Phillips,EDGE | Miami (FL),SI,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Eric Stokes,CB | Georgia,SI,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Azeez Ojulari,EDGE | Georgia,SI,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Samuel Cosmi,OT | Texas,SI,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Daviyon Nixon,DL | IowaRARE,SI,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jayson Oweh,EDGE | Penn State,SI,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Rashod Bateman,WR | Minnesota,SI,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Rondale Moore,WR | Purdue,SI,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jeremiah Owusu-Koramoah,LB | Notre Dame,SI,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Greg Newsome II,CB | Northwestern,SI,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Liam Eichenberg,OT | Notre Dame,SI,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Asante Samuel Jr.,CB | Florida State,SI,2021-04-13,Pick 32 - Tampa Bay Buccaneers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Trevor Lawrence,QB | ClemsonPOPULAR,NFL.com,2021-04-13,Pick 1 - Jacksonville Jaguars
-2,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Zach Wilson,QB | BYUPOPULAR,NFL.com,2021-04-13,Pick 2 - New York Jets
-3,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Justin Fields,QB | Ohio StatePOPULAR,NFL.com,2021-04-13,Pick 3 - San Francisco 49Ers
-4,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Kyle Pitts,TE | FloridaPOPULAR,NFL.com,2021-04-13,Pick 4 - Atlanta Falcons
-5,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Penei Sewell,OT | OregonPOPULAR,NFL.com,2021-04-13,Pick 5 - Cincinnati Bengals
-6,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Ja'Marr Chase,WR | LSUPOPULAR,NFL.com,2021-04-13,Pick 6 - Miami Dolphins
-7,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Mac Jones,QB | Alabama,NFL.com,2021-04-13,Pick 7 - New England Patriots
-8,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Rashawn Slater,OT | Northwestern,NFL.com,2021-04-13,Pick 8 - Carolina Panthers
-9,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Trey Lance,QB | North Dakota State,NFL.com,2021-04-13,Pick 9 - Washington Football Team
-10,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Patrick Surtain II,CB | AlabamaPOPULAR,NFL.com,2021-04-13,Pick 10 - Dallas Cowboys
-11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaylen Waddle,WR | Alabama,NFL.com,2021-04-13,Pick 11 - New York Giants
-12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devonta Smith,WR | AlabamaPOPULAR,NFL.com,2021-04-13,Pick 12 - Philadelphia Eagles
-13,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jaycee Horn,CB | South Carolina,NFL.com,2021-04-13,Pick 13 - Los Angeles Chargers
-14,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jaelan Phillips,EDGE | Miami (FL),NFL.com,2021-04-13,Pick 14 - Minnesota Vikings
-15,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Micah Parsons,LB | Penn State,NFL.com,2021-04-13,Pick 15 - Detroit Lions
-16,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Caleb Farley,CB | Virginia Tech,NFL.com,2021-04-13,Pick 16 - Arizona Cardinals
-17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jeremiah Owusu-Koramoah,LB | Notre DamePOPULAR,NFL.com,2021-04-13,Pick 17 - Las Vegas Raiders
-18,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Najee Harris,RB | AlabamaPOPULAR,NFL.com,2021-04-13,Pick 18 - Miami Dolphins
-19,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Jalen Mayfield,OT | Michigan,NFL.com,2021-04-13,Pick 19 - Denver Broncos
-20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Greg Newsome II,CB | Northwestern,NFL.com,2021-04-13,Pick 20 - Chicago Bears
-21,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Christian Darrisaw,OT | Virginia Tech,NFL.com,2021-04-13,Pick 21 - Indianapolis Colts
-22,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Gregory Rousseau,EDGE | Miami (FL),NFL.com,2021-04-13,Pick 22 - Tennessee Titans
-23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Travis Etienne,RB | ClemsonPOPULAR,NFL.com,2021-04-13,Pick 23 - New York Jets
-24,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Azeez Ojulari,EDGE | Georgia,NFL.com,2021-04-13,Pick 24 - Pittsburgh Steelers
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jevon Holland,S | OregonRARE,NFL.com,2021-04-13,Pick 25 - Jacksonville Jaguars
-26,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Kwity Paye,EDGE | Michigan,NFL.com,2021-04-13,Pick 26 - Cleveland Browns
-27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Terrace Marshall Jr.,WR | LSUPOPULAR,NFL.com,2021-04-13,Pick 27 - Baltimore Ravens
-28,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Asante Samuel Jr.,CB | Florida State,NFL.com,2021-04-13,Pick 28 - New Orleans Saints
-29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Rondale Moore,WR | PurduePOPULAR,NFL.com,2021-04-13,Pick 29 - Green Bay Packers
-30,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Alijah Vera-Tucker,IOL | USC,NFL.com,2021-04-13,Pick 30 - Buffalo Bills
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jayson Oweh,EDGE | Penn State,NFL.com,2021-04-13,Pick 31 - Kansas City Chiefs
-32,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Trevon Moehrig-Woodard,S | TCU,NFL.com,2021-04-13,Pick 32 - Tampa Bay Buccaneers
