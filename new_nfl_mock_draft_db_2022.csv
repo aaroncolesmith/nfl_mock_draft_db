@@ -1,4 +1,68 @@
 pick,team,team_img,player,player_details,source,date,team_pick
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kayvon Thibodeaux,EDGE | OregonPOPULAR,San Diego Union Tribune,2022-01-13,Pick 1 - Jacksonville Jaguars
+2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,San Diego Union Tribune,2022-01-13,Pick 2 - Detroit Lions
+3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Evan Neal,OT | AlabamaPOPULAR,San Diego Union Tribune,2022-01-13,Pick 3 - Houston Texans
+4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,San Diego Union Tribune,2022-01-13,Pick 4 - New York Jets
+5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,George Karlaftis,EDGE | PurduePOPULAR,San Diego Union Tribune,2022-01-13,Pick 5 - New York Giants
+6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Kenny Pickett,QB | PittsburghPOPULAR,San Diego Union Tribune,2022-01-13,Pick 6 - Carolina Panthers
+7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ikem Ekwonu,OT | NC State,San Diego Union Tribune,2022-01-13,Pick 7 - New York Giants
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,David Ojabo,EDGE | Michigan,San Diego Union Tribune,2022-01-13,Pick 8 - Atlanta Falcons
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Matt Corral,QB | MississippiPOPULAR,San Diego Union Tribune,2022-01-13,Pick 9 - Denver Broncos
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Derek Stingley Jr.,CB | LSU,San Diego Union Tribune,2022-01-13,Pick 10 - New York Jets
+11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Garrett Wilson,WR | Ohio State,San Diego Union Tribune,2022-01-13,Pick 11 - Washington Football Team
+12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,San Diego Union Tribune,2022-01-13,Pick 12 - Minnesota Vikings
+13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Devin Lloyd,LB | Utah,San Diego Union Tribune,2022-01-13,Pick 13 - Cleveland Browns
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi StatePOPULAR,San Diego Union Tribune,2022-01-13,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Drake London,WR | USC,San Diego Union Tribune,2022-01-13,Pick 15 - Philadelphia Eagles
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,San Diego Union Tribune,2022-01-13,Pick 16 - Philadelphia Eagles
+17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Davis,DL | GeorgiaPOPULAR,San Diego Union Tribune,2022-01-13,Pick 17 - Los Angeles Chargers
+18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,San Diego Union Tribune,2022-01-13,Pick 18 - New Orleans Saints
+19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jaquan Brisker,S | Penn State,San Diego Union Tribune,2022-01-13,Pick 19 - Philadelphia Eagles
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Sam Howell,QB | North Carolina,San Diego Union Tribune,2022-01-13,Pick 20 - Pittsburgh Steelers
+21,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Tyler Linderbaum,IOL | Iowa,San Diego Union Tribune,2022-01-13,Pick 21 - Cincinnati Bengals
+22,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | Florida,San Diego Union Tribune,2022-01-13,Pick 22 - New England Patriots
+23,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kenyon Green,IOL | Texas A&M,San Diego Union Tribune,2022-01-13,Pick 23 - Miami Dolphins
+24,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Treylon Burks,WR | Arkansas,San Diego Union Tribune,2022-01-13,Pick 24 - Las Vegas Raiders
+25,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jermaine Johnson,EDGE | Florida State,San Diego Union Tribune,2022-01-13,Pick 25 - Buffalo Bills
+26,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Chris Olave,WR | Ohio State,San Diego Union Tribune,2022-01-13,Pick 26 - Arizona Cardinals
+27,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Trent McDuffie,CB | Washington,San Diego Union Tribune,2022-01-13,Pick 27 - Tennessee Titans
+28,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Roger McCreary,CB | Auburn,San Diego Union Tribune,2022-01-13,Pick 28 - Detroit Lions
+29,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Battle,S | AlabamaRARE,San Diego Union Tribune,2022-01-13,Pick 29 - Dallas Cowboys
+30,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jahan Dotson,WR | Penn State,San Diego Union Tribune,2022-01-13,Pick 30 - Kansas City Chiefs
+31,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Cameron Thomas,EDGE | San Diego StateRARE,San Diego Union Tribune,2022-01-13,Pick 31 - Tampa Bay Buccaneers
+32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,David Bell,WR | PurduePOPULAR,San Diego Union Tribune,2022-01-13,Pick 32 - Green Bay Packers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,IOL | Alabama,CBS,2022-01-13,Pick 1 - Jacksonville Jaguars
+2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,DL | Oregon,CBS,2022-01-13,Pick 2 - Detroit Lions
+3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Derek Stingley Jr.,CB | LSU,CBS,2022-01-13,Pick 3 - Houston Texans
+4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Aidan Hutchinson,DL | Michigan,CBS,2022-01-13,Pick 4 - New York Jets
+5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,George Karlaftis,DL | PurduePOPULAR,CBS,2022-01-13,Pick 5 - New York Giants
+6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Charles Cross,IOL | Mississippi State,CBS,2022-01-13,Pick 6 - Carolina Panthers
+7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ikem Ekwonu,OT | NC State,CBS,2022-01-13,Pick 7 - New York Giants
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Garrett Wilson,WR | Ohio State,CBS,2022-01-13,Pick 8 - Atlanta Falcons
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Matt Corral,QB | MississippiPOPULAR,CBS,2022-01-13,Pick 9 - Denver Broncos
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,CBS,2022-01-13,Pick 10 - New York Jets
+11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Kenny Pickett,QB | Pittsburgh,CBS,2022-01-13,Pick 11 - Washington Football Team
+12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Malik Willis,QB | Liberty,CBS,2022-01-13,Pick 12 - Minnesota Vikings
+13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Tyler Linderbaum,IOL | Iowa,CBS,2022-01-13,Pick 13 - Cleveland Browns
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Davis,DL | Georgia,CBS,2022-01-13,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devin Lloyd,LB | Utah,CBS,2022-01-13,Pick 15 - Philadelphia Eagles
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Drake Jackson,LB | USC,CBS,2022-01-13,Pick 16 - Philadelphia Eagles
+17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Chris Olave,WR | Ohio State,CBS,2022-01-13,Pick 17 - Los Angeles Chargers
+18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,CBS,2022-01-13,Pick 18 - New Orleans Saints
+19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Andrew Booth Jr.,CB | Clemson,CBS,2022-01-13,Pick 19 - Philadelphia Eagles
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Trevor Penning,IOL | Northern IowaPOPULAR,CBS,2022-01-13,Pick 20 - Pittsburgh Steelers
+21,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Ahmad Gardner,CB | Cincinnati,CBS,2022-01-13,Pick 21 - New England Patriots
+22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Nakobe Dean,LB | Georgia,CBS,2022-01-13,Pick 22 - Miami Dolphins
+23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Drake London,WR | USC,CBS,2022-01-13,Pick 23 - Las Vegas Raiders
+24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Trent McDuffie,S | WashingtonPOPULAR,CBS,2022-01-13,Pick 24 - Arizona Cardinals
+25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Kaiir Elam,CB | Florida,CBS,2022-01-13,Pick 25 - Cincinnati Bengals
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Kenyon Green,IOL | Texas A&M,CBS,2022-01-13,Pick 26 - Buffalo Bills
+27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Travon Walker,DL | Georgia,CBS,2022-01-13,Pick 27 - Detroit Lions
+28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jahan Dotson,WR | Penn State,CBS,2022-01-13,Pick 28 - Dallas Cowboys
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,David Ojabo,LB | Michigan,CBS,2022-01-13,Pick 29 - Kansas City Chiefs
+30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Treylon Burks,WR | Arkansas,CBS,2022-01-13,Pick 30 - Tampa Bay Buccaneers
+31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,George Pickens,WR | GeorgiaRARE,CBS,2022-01-13,Pick 31 - Tennessee Titans
+32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kingsley Enagbare,LB | South Carolina,CBS,2022-01-13,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kayvon Thibodeaux,EDGE | OregonPOPULAR,Athlon Sports,2022-01-13,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,Athlon Sports,2022-01-13,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Ikem Ekwonu,IOL | NC State,Athlon Sports,2022-01-13,Pick 3 - Houston Texans
@@ -31,6 +95,38 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Andrew Booth Jr.,CB | Clemson,Athlon Sports,2022-01-13,Pick 30 - Kansas City Chiefs
 31,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Devonte Wyatt,DL | GeorgiaRARE,Athlon Sports,2022-01-13,Pick 31 - Tampa Bay Buccaneers
 32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,David Bell,WR | PurduePOPULAR,Athlon Sports,2022-01-13,Pick 32 - Green Bay Packers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,OT | Alabama,Player Profiler,2022-01-13,Pick 1 - Jacksonville Jaguars
+2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,Player Profiler,2022-01-13,Pick 2 - Detroit Lions
+3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kayvon Thibodeaux,EDGE | Oregon,Player Profiler,2022-01-13,Pick 3 - Houston Texans
+4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Ikem Ekwonu,OT | NC State,Player Profiler,2022-01-13,Pick 4 - New York Jets
+5,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Kenny Pickett,QB | Pittsburgh,Player Profiler,2022-01-13,Pick 5 - Pittsburgh Steelers
+6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Sam Howell,QB | North Carolina,Player Profiler,2022-01-13,Pick 6 - Carolina Panthers
+7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Charles Cross,OT | Mississippi State,Player Profiler,2022-01-13,Pick 7 - New York Giants
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,David Ojabo,EDGE | Michigan,Player Profiler,2022-01-13,Pick 8 - Atlanta Falcons
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Trevor Penning,OT | Northern Iowa,Player Profiler,2022-01-13,Pick 9 - Denver Broncos
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,George Karlaftis,EDGE | Purdue,Player Profiler,2022-01-13,Pick 10 - New York Jets
+11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Kyle Hamilton,S | Notre Dame,Player Profiler,2022-01-13,Pick 11 - Washington Football Team
+12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Derek Stingley Jr.,CB | LSU,Player Profiler,2022-01-13,Pick 12 - Minnesota Vikings
+13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jordan Davis,DL | Georgia,Player Profiler,2022-01-13,Pick 13 - Cleveland Browns
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kaiir Elam,CB | Florida,Player Profiler,2022-01-13,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Ahmad Gardner,CB | Cincinnati,Player Profiler,2022-01-13,Pick 15 - Philadelphia Eagles
+16,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Matt Corral,QB | Mississippi,Player Profiler,2022-01-13,Pick 16 - Denver Broncos
+17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Garrett Wilson,WR | Ohio State,Player Profiler,2022-01-13,Pick 17 - Los Angeles Chargers
+18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Malik Willis,QB | Liberty,Player Profiler,2022-01-13,Pick 18 - New Orleans Saints
+19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,Player Profiler,2022-01-13,Pick 19 - Philadelphia Eagles
+20,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Tyler Linderbaum,IOL | Iowa,Player Profiler,2022-01-13,Pick 20 - New York Giants
+21,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Devin Lloyd,LB | Utah,Player Profiler,2022-01-13,Pick 21 - New England Patriots
+22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Darian Kinnard,OT | Kentucky,Player Profiler,2022-01-13,Pick 22 - Miami Dolphins
+23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Chris Olave,WR | Ohio StatePOPULAR,Player Profiler,2022-01-13,Pick 23 - Las Vegas Raiders
+24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Andrew Booth Jr.,CB | Clemson,Player Profiler,2022-01-13,Pick 24 - Arizona Cardinals
+25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Derion Kendrick,CB | Georgia,Player Profiler,2022-01-13,Pick 25 - Cincinnati Bengals
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,DeMarvin Leal,DL | Texas A&MPOPULAR,Player Profiler,2022-01-13,Pick 26 - Buffalo Bills
+27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Treylon Burks,WR | Arkansas,Player Profiler,2022-01-13,Pick 27 - Detroit Lions
+28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Brandon Smith,LB | Penn StateRARE,Player Profiler,2022-01-13,Pick 28 - Dallas Cowboys
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jameson Williams,WR | Alabama,Player Profiler,2022-01-13,Pick 29 - Kansas City Chiefs
+30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jermaine Johnson,EDGE | Florida State,Player Profiler,2022-01-13,Pick 30 - Tampa Bay Buccaneers
+31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Christian Harris,LB | Alabama,Player Profiler,2022-01-13,Pick 31 - Tennessee Titans
+32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,George Pickens,WR | GeorgiaRARE,Player Profiler,2022-01-13,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kayvon Thibodeaux,EDGE | OregonPOPULAR,For The Win,2022-01-12,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,For The Win,2022-01-12,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Derek Stingley Jr.,CB | LSU,For The Win,2022-01-12,Pick 3 - Houston Texans
@@ -77,14 +173,14 @@ pick,team,team_img,player,player_details,source,date,team_pick
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Garrett Wilson,WR | Ohio State,CBS,2022-01-12,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Chris Olave,WR | Ohio State,CBS,2022-01-12,Pick 13 - Cleveland Browns
 14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Ahmad Gardner,CB | Cincinnati,CBS,2022-01-12,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | IowaPOPULAR,CBS,2022-01-12,Pick 15 - Philadelphia Eagles
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | Iowa,CBS,2022-01-12,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Andrew Booth Jr.,CB | Clemson,CBS,2022-01-12,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,David Ojabo,LB | Michigan,CBS,2022-01-12,Pick 17 - Los Angeles Chargers
 18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Treylon Burks,WR | ArkansasPOPULAR,CBS,2022-01-12,Pick 18 - New Orleans Saints
 19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,George Karlaftis,DL | Purdue,CBS,2022-01-12,Pick 19 - Philadelphia Eagles
 20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Desmond Ridder,QB | Cincinnati,CBS,2022-01-12,Pick 20 - Pittsburgh Steelers
 21,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | FloridaPOPULAR,CBS,2022-01-12,Pick 21 - New England Patriots
-22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Bernhard Raimann,IOL | Central MichiganRARE,CBS,2022-01-12,Pick 22 - Miami Dolphins
+22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Bernhard Raimann,IOL | Central Michigan,CBS,2022-01-12,Pick 22 - Miami Dolphins
 23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Trent McDuffie,S | Washington,CBS,2022-01-12,Pick 23 - Las Vegas Raiders
 24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Drake London,WR | USC,CBS,2022-01-12,Pick 24 - Arizona Cardinals
 25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Kenyon Green,IOL | Texas A&M,CBS,2022-01-12,Pick 25 - Cincinnati Bengals
@@ -152,13 +248,45 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Jameson Williams,WR | Alabama,Fox Sports,2022-01-12,Pick 23 - Las Vegas Raiders
 24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Trent McDuffie,CB | WashingtonPOPULAR,Fox Sports,2022-01-12,Pick 24 - Arizona Cardinals
 25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Roger McCreary,CB | AuburnPOPULAR,Fox Sports,2022-01-12,Pick 25 - Cincinnati Bengals
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jahan Dotson,WR | Penn StatePOPULAR,Fox Sports,2022-01-12,Pick 26 - Buffalo Bills
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jahan Dotson,WR | Penn State,Fox Sports,2022-01-12,Pick 26 - Buffalo Bills
 27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Malik Willis,QB | Liberty,Fox Sports,2022-01-12,Pick 27 - Detroit Lions
 28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Martin Emerson,CB | Mississippi StateRARE,Fox Sports,2022-01-12,Pick 28 - Dallas Cowboys
 29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Chris Olave,WR | Ohio State,Fox Sports,2022-01-12,Pick 29 - Kansas City Chiefs
 30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Andrew Booth Jr.,CB | Clemson,Fox Sports,2022-01-12,Pick 30 - Tampa Bay Buccaneers
 31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Skyy Moore,WR | Western MichiganRARE,Fox Sports,2022-01-12,Pick 31 - Tennessee Titans
 32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,DeMarvin Leal,DL | Texas A&M,Fox Sports,2022-01-12,Pick 32 - Green Bay Packers
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,OT | Alabama,Pro Football Network,2022-01-12,Pick 1 - Jacksonville Jaguars
+2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Pro Football Network,2022-01-12,Pick 2 - Detroit Lions
+3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kyle Hamilton,S | Notre Dame,Pro Football Network,2022-01-12,Pick 3 - Houston Texans
+4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Andrew Booth Jr.,CB | Clemson,Pro Football Network,2022-01-12,Pick 4 - New York Jets
+5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ikem Ekwonu,OT | NC State,Pro Football Network,2022-01-12,Pick 5 - New York Giants
+6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Kenyon Green,IOL | Texas A&M,Pro Football Network,2022-01-12,Pick 6 - Carolina Panthers
+7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,David Ojabo,EDGE | MichiganPOPULAR,Pro Football Network,2022-01-12,Pick 7 - New York Giants
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Aidan Hutchinson,EDGE | Michigan,Pro Football Network,2022-01-12,Pick 8 - Atlanta Falcons
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Matt Corral,QB | MississippiPOPULAR,Pro Football Network,2022-01-12,Pick 9 - Denver Broncos
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,George Karlaftis,EDGE | Purdue,Pro Football Network,2022-01-12,Pick 10 - New York Jets
+11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Sam Howell,QB | Washington,Pro Football Network,2022-01-12,Pick 11 - Washington Football Team
+12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Derek Stingley Jr.,CB | LSU,Pro Football Network,2022-01-12,Pick 12 - Minnesota Vikings
+13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Garrett Wilson,WR | Ohio State,Pro Football Network,2022-01-12,Pick 13 - Cleveland Browns
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi StatePOPULAR,Pro Football Network,2022-01-12,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devin Lloyd,LB | Utah,Pro Football Network,2022-01-12,Pick 15 - Philadelphia Eagles
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Ahmad Gardner,CB | CincinnatiPOPULAR,Pro Football Network,2022-01-12,Pick 16 - Philadelphia Eagles
+17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,DeMarvin Leal,DL | Texas A&M,Pro Football Network,2022-01-12,Pick 17 - Los Angeles Chargers
+18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,Pro Football Network,2022-01-12,Pick 18 - New Orleans Saints
+19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Treylon Burks,WR | Arkansas,Pro Football Network,2022-01-12,Pick 19 - Philadelphia Eagles
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Kenny Pickett,QB | Pittsburgh,Pro Football Network,2022-01-12,Pick 20 - Pittsburgh Steelers
+21,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | FloridaPOPULAR,Pro Football Network,2022-01-12,Pick 21 - New England Patriots
+22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Tyler Linderbaum,IOL | Iowa,Pro Football Network,2022-01-12,Pick 22 - Miami Dolphins
+23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Chris Olave,WR | Ohio StatePOPULAR,Pro Football Network,2022-01-12,Pick 23 - Las Vegas Raiders
+24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jermaine Johnson,EDGE | Florida State,Pro Football Network,2022-01-12,Pick 24 - Arizona Cardinals
+25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trevor Penning,OT | Northern Iowa,Pro Football Network,2022-01-12,Pick 25 - Cincinnati Bengals
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Derion Kendrick,CB | Georgia,Pro Football Network,2022-01-12,Pick 26 - Buffalo Bills
+27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Drake London,WR | USCPOPULAR,Pro Football Network,2022-01-12,Pick 27 - Detroit Lions
+28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Davis,DL | Georgia,Pro Football Network,2022-01-12,Pick 28 - Dallas Cowboys
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Travon Walker,DL | GeorgiaPOPULAR,Pro Football Network,2022-01-12,Pick 29 - Kansas City Chiefs
+30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Roger McCreary,CB | Auburn,Pro Football Network,2022-01-12,Pick 30 - Tampa Bay Buccaneers
+31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Nakobe Dean,LB | Georgia,Pro Football Network,2022-01-12,Pick 31 - Tennessee Titans
+32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,David Bell,WR | PurduePOPULAR,Pro Football Network,2022-01-12,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kayvon Thibodeaux,DL | OregonPOPULAR,USA Today,2022-01-12,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,DL | MichiganPOPULAR,USA Today,2022-01-12,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Evan Neal,OT | AlabamaPOPULAR,USA Today,2022-01-12,Pick 3 - Houston Texans
@@ -189,40 +317,8 @@ pick,team,team_img,player,player_details,source,date,team_pick
 28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Daxton Hill,S | Michigan,USA Today,2022-01-12,Pick 28 - Dallas Cowboys
 29,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,DeMarvin Leal,DL | Texas A&M,USA Today,2022-01-12,Pick 29 - Tampa Bay Buccaneers
 30,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jameson Williams,WR | Alabama,USA Today,2022-01-12,Pick 30 - Kansas City Chiefs
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Bernhard Raimann,OT | Central MichiganRARE,USA Today,2022-01-12,Pick 31 - Tennessee Titans
+31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Bernhard Raimann,OT | Central Michigan,USA Today,2022-01-12,Pick 31 - Tennessee Titans
 32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Treylon Burks,WR | Arkansas,USA Today,2022-01-12,Pick 32 - Green Bay Packers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,OT | Alabama,Pro Football Network,2022-01-12,Pick 1 - Jacksonville Jaguars
-2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Pro Football Network,2022-01-12,Pick 2 - Detroit Lions
-3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kyle Hamilton,S | Notre Dame,Pro Football Network,2022-01-12,Pick 3 - Houston Texans
-4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Andrew Booth Jr.,CB | Clemson,Pro Football Network,2022-01-12,Pick 4 - New York Jets
-5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ikem Ekwonu,OT | NC State,Pro Football Network,2022-01-12,Pick 5 - New York Giants
-6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Kenyon Green,IOL | Texas A&M,Pro Football Network,2022-01-12,Pick 6 - Carolina Panthers
-7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,David Ojabo,EDGE | MichiganPOPULAR,Pro Football Network,2022-01-12,Pick 7 - New York Giants
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Aidan Hutchinson,EDGE | Michigan,Pro Football Network,2022-01-12,Pick 8 - Atlanta Falcons
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Matt Corral,QB | MississippiPOPULAR,Pro Football Network,2022-01-12,Pick 9 - Denver Broncos
-10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,George Karlaftis,EDGE | Purdue,Pro Football Network,2022-01-12,Pick 10 - New York Jets
-11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Sam Howell,QB | Washington,Pro Football Network,2022-01-12,Pick 11 - Washington Football Team
-12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Derek Stingley Jr.,CB | LSU,Pro Football Network,2022-01-12,Pick 12 - Minnesota Vikings
-13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Garrett Wilson,WR | Ohio State,Pro Football Network,2022-01-12,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi State,Pro Football Network,2022-01-12,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devin Lloyd,LB | Utah,Pro Football Network,2022-01-12,Pick 15 - Philadelphia Eagles
-16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Ahmad Gardner,CB | CincinnatiPOPULAR,Pro Football Network,2022-01-12,Pick 16 - Philadelphia Eagles
-17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,DeMarvin Leal,DL | Texas A&M,Pro Football Network,2022-01-12,Pick 17 - Los Angeles Chargers
-18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,Pro Football Network,2022-01-12,Pick 18 - New Orleans Saints
-19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Treylon Burks,WR | Arkansas,Pro Football Network,2022-01-12,Pick 19 - Philadelphia Eagles
-20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Kenny Pickett,QB | Pittsburgh,Pro Football Network,2022-01-12,Pick 20 - Pittsburgh Steelers
-21,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | FloridaPOPULAR,Pro Football Network,2022-01-12,Pick 21 - New England Patriots
-22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Tyler Linderbaum,IOL | Iowa,Pro Football Network,2022-01-12,Pick 22 - Miami Dolphins
-23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Chris Olave,WR | Ohio StatePOPULAR,Pro Football Network,2022-01-12,Pick 23 - Las Vegas Raiders
-24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jermaine Johnson,EDGE | Florida State,Pro Football Network,2022-01-12,Pick 24 - Arizona Cardinals
-25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trevor Penning,OT | Northern Iowa,Pro Football Network,2022-01-12,Pick 25 - Cincinnati Bengals
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Derion Kendrick,CB | Georgia,Pro Football Network,2022-01-12,Pick 26 - Buffalo Bills
-27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Drake London,WR | USCPOPULAR,Pro Football Network,2022-01-12,Pick 27 - Detroit Lions
-28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Davis,DL | Georgia,Pro Football Network,2022-01-12,Pick 28 - Dallas Cowboys
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Travon Walker,DL | GeorgiaPOPULAR,Pro Football Network,2022-01-12,Pick 29 - Kansas City Chiefs
-30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Roger McCreary,CB | Auburn,Pro Football Network,2022-01-12,Pick 30 - Tampa Bay Buccaneers
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Nakobe Dean,LB | Georgia,Pro Football Network,2022-01-12,Pick 31 - Tennessee Titans
-32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,David Bell,WR | PurduePOPULAR,Pro Football Network,2022-01-12,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,OT | Alabama,Drafttek,2022-01-12,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,Drafttek,2022-01-12,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kayvon Thibodeaux,EDGE | Oregon,Drafttek,2022-01-12,Pick 3 - Houston Texans
@@ -236,7 +332,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Kenny Pickett,QB | Pittsburgh,Drafttek,2022-01-12,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,Drafttek,2022-01-12,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Drake London,WR | USC,Drafttek,2022-01-12,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&MPOPULAR,Drafttek,2022-01-12,Pick 14 - Baltimore Ravens
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&M,Drafttek,2022-01-12,Pick 14 - Baltimore Ravens
 15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,David Ojabo,EDGE | Michigan,Drafttek,2022-01-12,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Garrett Wilson,WR | Ohio State,Drafttek,2022-01-12,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Chris Olave,WR | Ohio State,Drafttek,2022-01-12,Pick 17 - Los Angeles Chargers
@@ -268,7 +364,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Ahmad Gardner,CB | Cincinnati,Walter Football,2022-01-12,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jermaine Johnson,DL | Florida State,Walter Football,2022-01-12,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Garrett Wilson,WR | Ohio State,Walter Football,2022-01-12,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi State,Walter Football,2022-01-12,Pick 14 - Baltimore Ravens
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi StatePOPULAR,Walter Football,2022-01-12,Pick 14 - Baltimore Ravens
 15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Kyle Hamilton,S | Notre Dame,Walter Football,2022-01-12,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Trent McDuffie,CB | Washington,Walter Football,2022-01-12,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,DeMarvin Leal,DL | Texas A&M,Walter Football,2022-01-12,Pick 17 - Los Angeles Chargers
@@ -301,7 +397,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,Yardbarker,2022-01-11,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jameson Williams,WR | AlabamaPOPULAR,Yardbarker,2022-01-11,Pick 13 - Cleveland Browns
 14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Ikem Ekwonu,OT | NC State,Yardbarker,2022-01-11,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,Yardbarker,2022-01-11,Pick 15 - Philadelphia Eagles
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | GeorgiaPOPULAR,Yardbarker,2022-01-11,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Trent McDuffie,CB | Washington,Yardbarker,2022-01-11,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Chris Olave,WR | Ohio State,Yardbarker,2022-01-11,Pick 17 - Los Angeles Chargers
 18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Matt Corral,QB | Mississippi,Yardbarker,2022-01-11,Pick 18 - New Orleans Saints
@@ -332,11 +428,43 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Charles Cross,OT | Mississippi State,Barstool Sports,2022-01-11,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,Barstool Sports,2022-01-11,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Chris Olave,WR | Ohio State,Barstool Sports,2022-01-11,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&MPOPULAR,Barstool Sports,2022-01-11,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | IowaPOPULAR,Barstool Sports,2022-01-11,Pick 15 - Philadelphia Eagles
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&M,Barstool Sports,2022-01-11,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | Iowa,Barstool Sports,2022-01-11,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,David Ojabo,EDGE | Michigan,Barstool Sports,2022-01-11,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Davis,DL | GeorgiaPOPULAR,Barstool Sports,2022-01-11,Pick 17 - Los Angeles Chargers
 18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Matt Corral,QB | Mississippi,Barstool Sports,2022-01-11,Pick 18 - New Orleans Saints
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Aidan Hutchinson,DL | Michigan,The Huddle Report,2022-01-11,Pick 1 - Jacksonville Jaguars
+2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,DL | Oregon,The Huddle Report,2022-01-11,Pick 2 - Detroit Lions
+3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Derek Stingley Jr.,CB | LSU,The Huddle Report,2022-01-11,Pick 3 - Houston Texans
+4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Evan Neal,OT | Alabama,The Huddle Report,2022-01-11,Pick 4 - New York Jets
+5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ikem Ekwonu,IOL | NC State,The Huddle Report,2022-01-11,Pick 5 - New York Giants
+6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Kenny Pickett,QB | PittsburghPOPULAR,The Huddle Report,2022-01-11,Pick 6 - Carolina Panthers
+7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,David Ojabo,DL | MichiganPOPULAR,The Huddle Report,2022-01-11,Pick 7 - New York Giants
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Travon Walker,DL | Georgia,The Huddle Report,2022-01-11,Pick 8 - Atlanta Falcons
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,George Karlaftis,DL | Purdue,The Huddle Report,2022-01-11,Pick 9 - Denver Broncos
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,The Huddle Report,2022-01-11,Pick 10 - New York Jets
+11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Matt Corral,QB | Mississippi,The Huddle Report,2022-01-11,Pick 11 - Washington Football Team
+12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,The Huddle Report,2022-01-11,Pick 12 - Minnesota Vikings
+13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Treylon Burks,WR | Arkansas,The Huddle Report,2022-01-11,Pick 13 - Cleveland Browns
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kenyon Green,IOL | Texas A&M,The Huddle Report,2022-01-11,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | Iowa,The Huddle Report,2022-01-11,Pick 15 - Philadelphia Eagles
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,The Huddle Report,2022-01-11,Pick 16 - Philadelphia Eagles
+17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Davis,DL | GeorgiaPOPULAR,The Huddle Report,2022-01-11,Pick 17 - Los Angeles Chargers
+18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Charles Cross,OT | Mississippi State,The Huddle Report,2022-01-11,Pick 18 - New Orleans Saints
+19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Trent McDuffie,CB | Washington,The Huddle Report,2022-01-11,Pick 19 - Philadelphia Eagles
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,DeMarvin Leal,DL | Texas A&M,The Huddle Report,2022-01-11,Pick 20 - Pittsburgh Steelers
+21,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Garrett Wilson,WR | Ohio State,The Huddle Report,2022-01-11,Pick 21 - New England Patriots
+22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jaxson Kirkland,OT | WashingtonRARE,The Huddle Report,2022-01-11,Pick 22 - Miami Dolphins
+23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Andrew Booth Jr.,CB | Clemson,The Huddle Report,2022-01-11,Pick 23 - Las Vegas Raiders
+24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Roger McCreary,CB | Auburn,The Huddle Report,2022-01-11,Pick 24 - Arizona Cardinals
+25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trevor Penning,OT | Northern Iowa,The Huddle Report,2022-01-11,Pick 25 - Cincinnati Bengals
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Breece Hall,RB | Iowa StateRARE,The Huddle Report,2022-01-11,Pick 26 - Buffalo Bills
+27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Drake London,WR | USCPOPULAR,The Huddle Report,2022-01-11,Pick 27 - Detroit Lions
+28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Battle,S | AlabamaRARE,The Huddle Report,2022-01-11,Pick 28 - Dallas Cowboys
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jameson Williams,WR | Alabama,The Huddle Report,2022-01-11,Pick 29 - Kansas City Chiefs
+30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kaiir Elam,CB | Florida,The Huddle Report,2022-01-11,Pick 30 - Tampa Bay Buccaneers
+31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Devin Lloyd,LB | Utah,The Huddle Report,2022-01-11,Pick 31 - Tennessee Titans
+32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Chris Olave,WR | Ohio State,The Huddle Report,2022-01-11,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,OT | Alabama,SB Nation,2022-01-11,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,DL | MichiganPOPULAR,SB Nation,2022-01-11,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kyle Hamilton,S | Notre Dame,SB Nation,2022-01-11,Pick 3 - Houston Texans
@@ -369,38 +497,6 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Derion Kendrick,CB | Georgia,SB Nation,2022-01-11,Pick 30 - Tampa Bay Buccaneers
 31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Zion Johnson,IOL | Boston College,SB Nation,2022-01-11,Pick 31 - Tennessee Titans
 32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Drake London,WR | USC,SB Nation,2022-01-11,Pick 32 - Green Bay Packers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Aidan Hutchinson,DL | Michigan,The Huddle Report,2022-01-11,Pick 1 - Jacksonville Jaguars
-2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,DL | Oregon,The Huddle Report,2022-01-11,Pick 2 - Detroit Lions
-3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Derek Stingley Jr.,CB | LSU,The Huddle Report,2022-01-11,Pick 3 - Houston Texans
-4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Evan Neal,OT | Alabama,The Huddle Report,2022-01-11,Pick 4 - New York Jets
-5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ikem Ekwonu,IOL | NC State,The Huddle Report,2022-01-11,Pick 5 - New York Giants
-6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Kenny Pickett,QB | PittsburghPOPULAR,The Huddle Report,2022-01-11,Pick 6 - Carolina Panthers
-7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,David Ojabo,DL | MichiganPOPULAR,The Huddle Report,2022-01-11,Pick 7 - New York Giants
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Travon Walker,DL | Georgia,The Huddle Report,2022-01-11,Pick 8 - Atlanta Falcons
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,George Karlaftis,DL | Purdue,The Huddle Report,2022-01-11,Pick 9 - Denver Broncos
-10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,The Huddle Report,2022-01-11,Pick 10 - New York Jets
-11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Matt Corral,QB | Mississippi,The Huddle Report,2022-01-11,Pick 11 - Washington Football Team
-12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,The Huddle Report,2022-01-11,Pick 12 - Minnesota Vikings
-13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Treylon Burks,WR | Arkansas,The Huddle Report,2022-01-11,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kenyon Green,IOL | Texas A&M,The Huddle Report,2022-01-11,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | IowaPOPULAR,The Huddle Report,2022-01-11,Pick 15 - Philadelphia Eagles
-16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,The Huddle Report,2022-01-11,Pick 16 - Philadelphia Eagles
-17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Davis,DL | GeorgiaPOPULAR,The Huddle Report,2022-01-11,Pick 17 - Los Angeles Chargers
-18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Charles Cross,OT | Mississippi State,The Huddle Report,2022-01-11,Pick 18 - New Orleans Saints
-19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Trent McDuffie,CB | Washington,The Huddle Report,2022-01-11,Pick 19 - Philadelphia Eagles
-20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,DeMarvin Leal,DL | Texas A&M,The Huddle Report,2022-01-11,Pick 20 - Pittsburgh Steelers
-21,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Garrett Wilson,WR | Ohio State,The Huddle Report,2022-01-11,Pick 21 - New England Patriots
-22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jaxson Kirkland,OT | WashingtonRARE,The Huddle Report,2022-01-11,Pick 22 - Miami Dolphins
-23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Andrew Booth Jr.,CB | Clemson,The Huddle Report,2022-01-11,Pick 23 - Las Vegas Raiders
-24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Roger McCreary,CB | Auburn,The Huddle Report,2022-01-11,Pick 24 - Arizona Cardinals
-25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trevor Penning,OT | Northern Iowa,The Huddle Report,2022-01-11,Pick 25 - Cincinnati Bengals
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Breece Hall,RB | Iowa State,The Huddle Report,2022-01-11,Pick 26 - Buffalo Bills
-27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Drake London,WR | USCPOPULAR,The Huddle Report,2022-01-11,Pick 27 - Detroit Lions
-28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Battle,S | Alabama,The Huddle Report,2022-01-11,Pick 28 - Dallas Cowboys
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jameson Williams,WR | Alabama,The Huddle Report,2022-01-11,Pick 29 - Kansas City Chiefs
-30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kaiir Elam,CB | Florida,The Huddle Report,2022-01-11,Pick 30 - Tampa Bay Buccaneers
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Devin Lloyd,LB | Utah,The Huddle Report,2022-01-11,Pick 31 - Tennessee Titans
-32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Chris Olave,WR | Ohio State,The Huddle Report,2022-01-11,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Aidan Hutchinson,EDGE | Michigan,Cleveland.com,2022-01-11,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Cleveland.com,2022-01-11,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Evan Neal,OT | AlabamaPOPULAR,Cleveland.com,2022-01-11,Pick 3 - Houston Texans
@@ -458,7 +554,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Ikem Ekwonu,OT | NC State,Draft ID,2022-01-10,Pick 23 - Las Vegas Raiders
 24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Andrew Booth Jr.,CB | Clemson,Draft ID,2022-01-10,Pick 24 - Arizona Cardinals
 25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trent McDuffie,CB | Washington,Draft ID,2022-01-10,Pick 25 - Cincinnati Bengals
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Breece Hall,RB | Iowa State,Draft ID,2022-01-10,Pick 26 - Buffalo Bills
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Breece Hall,RB | Iowa StateRARE,Draft ID,2022-01-10,Pick 26 - Buffalo Bills
 27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Darian Kinnard,OT | Kentucky,Draft ID,2022-01-10,Pick 27 - Detroit Lions
 28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaquan Brisker,S | Penn StatePOPULAR,Draft ID,2022-01-10,Pick 28 - Dallas Cowboys
 29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Chris Olave,WR | Ohio State,Draft ID,2022-01-10,Pick 29 - Kansas City Chiefs
@@ -478,8 +574,8 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Malik Willis,QB | LibertyPOPULAR,SI,2022-01-10,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,SI,2022-01-10,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,DeMarvin Leal,DL | Texas A&M,SI,2022-01-10,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi State,SI,2022-01-10,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | IowaPOPULAR,SI,2022-01-10,Pick 15 - Philadelphia Eagles
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi StatePOPULAR,SI,2022-01-10,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | Iowa,SI,2022-01-10,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jordan Davis,DL | Georgia,SI,2022-01-10,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Garrett Wilson,WR | Ohio State,SI,2022-01-10,Pick 17 - Los Angeles Chargers
 18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Matt Corral,QB | Mississippi,SI,2022-01-10,Pick 18 - New Orleans Saints
@@ -510,8 +606,8 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Kenny Pickett,QB | Pittsburgh,Newsday,2022-01-10,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Andrew Booth Jr.,CB | ClemsonPOPULAR,Newsday,2022-01-10,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jameson Williams,WR | AlabamaPOPULAR,Newsday,2022-01-10,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi State,Newsday,2022-01-10,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,Newsday,2022-01-10,Pick 15 - Philadelphia Eagles
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Charles Cross,OT | Mississippi StatePOPULAR,Newsday,2022-01-10,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | GeorgiaPOPULAR,Newsday,2022-01-10,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Ahmad Gardner,CB | CincinnatiPOPULAR,Newsday,2022-01-10,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Davis,DL | GeorgiaPOPULAR,Newsday,2022-01-10,Pick 17 - Los Angeles Chargers
 18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Garrett Wilson,WR | Ohio State,Newsday,2022-01-10,Pick 18 - New Orleans Saints
@@ -706,7 +802,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Treylon Burks,WR | Arkansas,Pro Football Focus,2022-01-10,Pick 29 - Kansas City Chiefs
 30,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Desmond Ridder,QB | Cincinnati,Pro Football Focus,2022-01-10,Pick 30 - Detroit Lions
 31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Arnold Ebiketie,EDGE | Penn StateRARE,Pro Football Focus,2022-01-10,Pick 31 - Tennessee Titans
-32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Bernhard Raimann,OT | Central MichiganRARE,Pro Football Focus,2022-01-10,Pick 32 - Green Bay Packers
+32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Bernhard Raimann,OT | Central Michigan,Pro Football Focus,2022-01-10,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,OT | Alabama,NFL Mocks,2022-01-10,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,NFL Mocks,2022-01-10,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kayvon Thibodeaux,EDGE | Oregon,NFL Mocks,2022-01-10,Pick 3 - Houston Texans
@@ -720,7 +816,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Malik Willis,QB | LibertyPOPULAR,NFL Mocks,2022-01-10,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Andrew Booth Jr.,CB | ClemsonPOPULAR,NFL Mocks,2022-01-10,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jameson Williams,WR | AlabamaPOPULAR,NFL Mocks,2022-01-10,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&MPOPULAR,NFL Mocks,2022-01-10,Pick 14 - Baltimore Ravens
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&M,NFL Mocks,2022-01-10,Pick 14 - Baltimore Ravens
 15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Ahmad Gardner,CB | Cincinnati,NFL Mocks,2022-01-10,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Linderbaum,IOL | Iowa,NFL Mocks,2022-01-10,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Nakobe Dean,LB | Georgia,NFL Mocks,2022-01-10,Pick 17 - Los Angeles Chargers
@@ -784,9 +880,41 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Tyler Linderbaum,IOL | Iowa,College Football News,2022-01-10,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Andrew Booth Jr.,CB | ClemsonPOPULAR,College Football News,2022-01-10,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jameson Williams,WR | AlabamaPOPULAR,College Football News,2022-01-10,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&MPOPULAR,College Football News,2022-01-10,Pick 14 - Baltimore Ravens
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&M,College Football News,2022-01-10,Pick 14 - Baltimore Ravens
 15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Charles Cross,OT | Mississippi State,College Football News,2022-01-10,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,David Ojabo,DL | Michigan,College Football News,2022-01-10,Pick 16 - Philadelphia Eagles
+1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kayvon Thibodeaux,EDGE | OregonPOPULAR,Fantasy Pros,2022-01-10,Pick 1 - Jacksonville Jaguars
+2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,Fantasy Pros,2022-01-10,Pick 2 - Detroit Lions
+3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Evan Neal,OT | AlabamaPOPULAR,Fantasy Pros,2022-01-10,Pick 3 - Houston Texans
+4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,Fantasy Pros,2022-01-10,Pick 4 - New York Jets
+5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Charles Cross,OT | Mississippi State,Fantasy Pros,2022-01-10,Pick 5 - New York Giants
+6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Matt Corral,QB | Mississippi,Fantasy Pros,2022-01-10,Pick 6 - Carolina Panthers
+7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Tyler Linderbaum,IOL | Iowa,Fantasy Pros,2022-01-10,Pick 7 - New York Giants
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Derek Stingley Jr.,CB | LSU,Fantasy Pros,2022-01-10,Pick 8 - Atlanta Falcons
+9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Kenny Pickett,QB | Pittsburgh,Fantasy Pros,2022-01-10,Pick 9 - Denver Broncos
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Andrew Booth Jr.,CB | Clemson,Fantasy Pros,2022-01-10,Pick 10 - New York Jets
+11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Sam Howell,QB | North Carolina,Fantasy Pros,2022-01-10,Pick 11 - Washington Football Team
+12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Treylon Burks,WR | Arkansas,Fantasy Pros,2022-01-10,Pick 12 - Minnesota Vikings
+13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Garrett Wilson,WR | Ohio State,Fantasy Pros,2022-01-10,Pick 13 - Cleveland Browns
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Davis,DL | Georgia,Fantasy Pros,2022-01-10,Pick 14 - Baltimore Ravens
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | GeorgiaPOPULAR,Fantasy Pros,2022-01-10,Pick 15 - Philadelphia Eagles
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Daxton Hill,S | Michigan,Fantasy Pros,2022-01-10,Pick 16 - Philadelphia Eagles
+17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Ahmad Gardner,CB | Cincinnati,Fantasy Pros,2022-01-10,Pick 17 - Los Angeles Chargers
+18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,Fantasy Pros,2022-01-10,Pick 18 - New Orleans Saints
+19,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Malik Willis,QB | Liberty,Fantasy Pros,2022-01-10,Pick 19 - Pittsburgh Steelers
+20,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Chris Olave,WR | Ohio State,Fantasy Pros,2022-01-10,Pick 20 - Philadelphia Eagles
+21,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Ikem Ekwonu,OT | NC State,Fantasy Pros,2022-01-10,Pick 21 - Las Vegas Raiders
+22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kenyon Green,IOL | Texas A&MPOPULAR,Fantasy Pros,2022-01-10,Pick 22 - Miami Dolphins
+23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | Florida,Fantasy Pros,2022-01-10,Pick 23 - New England Patriots
+24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,DeMarvin Leal,DL | Texas A&M,Fantasy Pros,2022-01-10,Pick 24 - Arizona Cardinals
+25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Roger McCreary,CB | AuburnPOPULAR,Fantasy Pros,2022-01-10,Pick 25 - Cincinnati Bengals
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,David Ojabo,EDGE | Michigan,Fantasy Pros,2022-01-10,Pick 26 - Buffalo Bills
+27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Drake London,WR | USCPOPULAR,Fantasy Pros,2022-01-10,Pick 27 - Detroit Lions
+28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaquan Brisker,S | Penn StatePOPULAR,Fantasy Pros,2022-01-10,Pick 28 - Dallas Cowboys
+29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Wan'Dale Robinson,WR | KentuckyRARE,Fantasy Pros,2022-01-10,Pick 29 - Kansas City Chiefs
+30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,George Karlaftis,EDGE | Purdue,Fantasy Pros,2022-01-10,Pick 30 - Tampa Bay Buccaneers
+31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Trey McBride,TE | Colorado State,Fantasy Pros,2022-01-10,Pick 31 - Tennessee Titans
+32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,David Bell,WR | PurduePOPULAR,Fantasy Pros,2022-01-10,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Evan Neal,OT | Alabama,Bleacher Report,2022-01-10,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Bleacher Report,2022-01-10,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Aidan Hutchinson,EDGE | Michigan,Bleacher Report,2022-01-10,Pick 3 - Houston Texans
@@ -819,38 +947,6 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Logan Hall,DL | HoustonRARE,Bleacher Report,2022-01-10,Pick 30 - Tampa Bay Buccaneers
 31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Andrew Booth Jr.,CB | Clemson,Bleacher Report,2022-01-10,Pick 31 - Tennessee Titans
 32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Devonte Wyatt,DL | GeorgiaRARE,Bleacher Report,2022-01-10,Pick 32 - Green Bay Packers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kayvon Thibodeaux,EDGE | OregonPOPULAR,Fantasy Pros,2022-01-10,Pick 1 - Jacksonville Jaguars
-2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Aidan Hutchinson,EDGE | MichiganPOPULAR,Fantasy Pros,2022-01-10,Pick 2 - Detroit Lions
-3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Evan Neal,OT | AlabamaPOPULAR,Fantasy Pros,2022-01-10,Pick 3 - Houston Texans
-4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,Fantasy Pros,2022-01-10,Pick 4 - New York Jets
-5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Charles Cross,OT | Mississippi State,Fantasy Pros,2022-01-10,Pick 5 - New York Giants
-6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Matt Corral,QB | Mississippi,Fantasy Pros,2022-01-10,Pick 6 - Carolina Panthers
-7,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Tyler Linderbaum,IOL | Iowa,Fantasy Pros,2022-01-10,Pick 7 - New York Giants
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Derek Stingley Jr.,CB | LSU,Fantasy Pros,2022-01-10,Pick 8 - Atlanta Falcons
-9,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Kenny Pickett,QB | Pittsburgh,Fantasy Pros,2022-01-10,Pick 9 - Denver Broncos
-10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Andrew Booth Jr.,CB | Clemson,Fantasy Pros,2022-01-10,Pick 10 - New York Jets
-11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Sam Howell,QB | North Carolina,Fantasy Pros,2022-01-10,Pick 11 - Washington Football Team
-12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Treylon Burks,WR | Arkansas,Fantasy Pros,2022-01-10,Pick 12 - Minnesota Vikings
-13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Garrett Wilson,WR | Ohio State,Fantasy Pros,2022-01-10,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Davis,DL | Georgia,Fantasy Pros,2022-01-10,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,Fantasy Pros,2022-01-10,Pick 15 - Philadelphia Eagles
-16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Daxton Hill,S | Michigan,Fantasy Pros,2022-01-10,Pick 16 - Philadelphia Eagles
-17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Ahmad Gardner,CB | Cincinnati,Fantasy Pros,2022-01-10,Pick 17 - Los Angeles Chargers
-18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,Fantasy Pros,2022-01-10,Pick 18 - New Orleans Saints
-19,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Malik Willis,QB | Liberty,Fantasy Pros,2022-01-10,Pick 19 - Pittsburgh Steelers
-20,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Chris Olave,WR | Ohio State,Fantasy Pros,2022-01-10,Pick 20 - Philadelphia Eagles
-21,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Ikem Ekwonu,OT | NC State,Fantasy Pros,2022-01-10,Pick 21 - Las Vegas Raiders
-22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Kenyon Green,IOL | Texas A&MPOPULAR,Fantasy Pros,2022-01-10,Pick 22 - Miami Dolphins
-23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | Florida,Fantasy Pros,2022-01-10,Pick 23 - New England Patriots
-24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,DeMarvin Leal,DL | Texas A&M,Fantasy Pros,2022-01-10,Pick 24 - Arizona Cardinals
-25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Roger McCreary,CB | AuburnPOPULAR,Fantasy Pros,2022-01-10,Pick 25 - Cincinnati Bengals
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,David Ojabo,EDGE | Michigan,Fantasy Pros,2022-01-10,Pick 26 - Buffalo Bills
-27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Drake London,WR | USCPOPULAR,Fantasy Pros,2022-01-10,Pick 27 - Detroit Lions
-28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaquan Brisker,S | Penn StatePOPULAR,Fantasy Pros,2022-01-10,Pick 28 - Dallas Cowboys
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Wan'Dale Robinson,WR | KentuckyRARE,Fantasy Pros,2022-01-10,Pick 29 - Kansas City Chiefs
-30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,George Karlaftis,EDGE | Purdue,Fantasy Pros,2022-01-10,Pick 30 - Tampa Bay Buccaneers
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Trey McBride,TE | Colorado State,Fantasy Pros,2022-01-10,Pick 31 - Tennessee Titans
-32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,David Bell,WR | PurduePOPULAR,Fantasy Pros,2022-01-10,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Aidan Hutchinson,EDGE | Michigan,Fansided,2022-01-09,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Fansided,2022-01-09,Pick 2 - Detroit Lions
 3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Derek Stingley Jr.,CB | LSU,Fansided,2022-01-09,Pick 3 - Houston Texans
@@ -864,7 +960,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Matt Corral,QB | Mississippi,Fansided,2022-01-09,Pick 11 - Washington Football Team
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Andrew Booth Jr.,CB | ClemsonPOPULAR,Fansided,2022-01-09,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Garrett Wilson,WR | Ohio State,Fansided,2022-01-09,Pick 13 - Cleveland Browns
-14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&MPOPULAR,Fansided,2022-01-09,Pick 14 - Baltimore Ravens
+14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,DeMarvin Leal,DL | Texas A&M,Fansided,2022-01-09,Pick 14 - Baltimore Ravens
 15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Travon Walker,EDGE | Georgia,Fansided,2022-01-09,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Ahmad Gardner,CB | CincinnatiPOPULAR,Fansided,2022-01-09,Pick 16 - Philadelphia Eagles
 17,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Kenny Pickett,QB | Pittsburgh,Fansided,2022-01-09,Pick 17 - New Orleans Saints
@@ -881,7 +977,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Daxton Hill,S | Michigan,Fansided,2022-01-09,Pick 28 - Dallas Cowboys
 29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Chris Olave,WR | Ohio State,Fansided,2022-01-09,Pick 29 - Kansas City Chiefs
 30,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jameson Williams,WR | Alabama,Fansided,2022-01-09,Pick 30 - Tampa Bay Buccaneers
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Christian Harris,LB | AlabamaRARE,Fansided,2022-01-09,Pick 31 - Tennessee Titans
+31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Christian Harris,LB | Alabama,Fansided,2022-01-09,Pick 31 - Tennessee Titans
 32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jahan Dotson,WR | Penn State,Fansided,2022-01-09,Pick 32 - Green Bay Packers
 1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Aidan Hutchinson,EDGE | Michigan,Tankathon,2022-01-08,Pick 1 - Jacksonville Jaguars
 2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Tankathon,2022-01-08,Pick 2 - Detroit Lions
@@ -897,7 +993,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Ahmad Gardner,CB | Cincinnati,Tankathon,2022-01-08,Pick 12 - Minnesota Vikings
 13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Jameson Williams,WR | AlabamaPOPULAR,Tankathon,2022-01-08,Pick 13 - Cleveland Browns
 14,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Linderbaum,IOL | Iowa,Tankathon,2022-01-08,Pick 14 - Baltimore Ravens
-15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,Tankathon,2022-01-08,Pick 15 - Philadelphia Eagles
+15,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | GeorgiaPOPULAR,Tankathon,2022-01-08,Pick 15 - Philadelphia Eagles
 16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,David Ojabo,EDGE | Michigan,Tankathon,2022-01-08,Pick 16 - Philadelphia Eagles
 17,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,DeMarvin Leal,DL | Texas A&M,Tankathon,2022-01-08,Pick 17 - Los Angeles Chargers
 18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Chris Olave,WR | Ohio State,Tankathon,2022-01-08,Pick 18 - New Orleans Saints
@@ -908,7 +1004,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Devin Lloyd,LB | Utah,Tankathon,2022-01-08,Pick 23 - Las Vegas Raiders
 24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jordan Davis,DL | Georgia,Tankathon,2022-01-08,Pick 24 - Arizona Cardinals
 25,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trevor Penning,OT | Northern Iowa,Tankathon,2022-01-08,Pick 25 - Cincinnati Bengals
-26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jahan Dotson,WR | Penn StatePOPULAR,Tankathon,2022-01-08,Pick 26 - Buffalo Bills
+26,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jahan Dotson,WR | Penn State,Tankathon,2022-01-08,Pick 26 - Buffalo Bills
 27,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Sam Howell,QB | North Carolina,Tankathon,2022-01-08,Pick 27 - Detroit Lions
 28,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Kaiir Elam,CB | Florida,Tankathon,2022-01-08,Pick 28 - Dallas Cowboys
 29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Andrew Booth Jr.,CB | Clemson,Tankathon,2022-01-08,Pick 29 - Kansas City Chiefs
@@ -979,99 +1075,3 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devin Lloyd,LB | Utah,NFL Spin Zone,2022-01-08,Pick 30 - Detroit Lions
 31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Jalen Wydermyer,TE | Texas A&MRARE,NFL Spin Zone,2022-01-08,Pick 31 - Tennessee Titans
 32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Drake London,WR | USC,NFL Spin Zone,2022-01-08,Pick 32 - Green Bay Packers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Aidan Hutchinson,EDGE | Michigan,Behind The Steel Curtain,2022-01-07,Pick 1 - Jacksonville Jaguars
-2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Behind The Steel Curtain,2022-01-07,Pick 2 - Detroit Lions
-3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Kyle Hamilton,S | Notre Dame,Behind The Steel Curtain,2022-01-07,Pick 3 - Houston Texans
-4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Derek Stingley Jr.,CB | LSUPOPULAR,Behind The Steel Curtain,2022-01-07,Pick 4 - New York Jets
-5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Evan Neal,OT | Alabama,Behind The Steel Curtain,2022-01-07,Pick 5 - New York Giants
-6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Andrew Booth Jr.,CB | Clemson,Behind The Steel Curtain,2022-01-07,Pick 6 - Carolina Panthers
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,David Ojabo,EDGE | Michigan,Behind The Steel Curtain,2022-01-07,Pick 7 - New York Jets
-8,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Nakobe Dean,LB | Georgia,Behind The Steel Curtain,2022-01-07,Pick 8 - New York Giants
-9,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Kenyon Green,IOL | Texas A&M,Behind The Steel Curtain,2022-01-07,Pick 9 - Washington Football Team
-10,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Jameson Williams,WR | Alabama,Behind The Steel Curtain,2022-01-07,Pick 10 - Atlanta Falcons
-11,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Kenny Pickett,QB | Pittsburgh,Behind The Steel Curtain,2022-01-07,Pick 11 - Denver Broncos
-12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,George Karlaftis,DL | Purdue,Behind The Steel Curtain,2022-01-07,Pick 12 - Minnesota Vikings
-13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Drake London,WR | USC,Behind The Steel Curtain,2022-01-07,Pick 13 - Cleveland Browns
-14,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devin Lloyd,LB | Utah,Behind The Steel Curtain,2022-01-07,Pick 14 - Philadelphia Eagles
-15,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Tyler Linderbaum,IOL | Iowa,Behind The Steel Curtain,2022-01-07,Pick 15 - Miami Dolphins
-16,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Ikem Ekwonu,IOL | NC State,Behind The Steel Curtain,2022-01-07,Pick 16 - Baltimore Ravens
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Ahmad Gardner,CB | Cincinnati,Behind The Steel Curtain,2022-01-07,Pick 17 - Pittsburgh Steelers
-18,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Garrett Wilson,WR | Ohio State,Behind The Steel Curtain,2022-01-07,Pick 18 - Las Vegas Raiders
-19,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Desmond Ridder,QB | Cincinnati,Behind The Steel Curtain,2022-01-07,Pick 19 - Detroit Lions
-20,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Davis,DL | Georgia,Behind The Steel Curtain,2022-01-07,Pick 20 - Los Angeles Chargers
-21,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Roger McCreary,CB | Auburn,Behind The Steel Curtain,2022-01-07,Pick 21 - Philadelphia Eagles
-22,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Malik Willis,QB | Liberty,Behind The Steel Curtain,2022-01-07,Pick 22 - New Orleans Saints
-23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jahan Dotson,WR | Penn State,Behind The Steel Curtain,2022-01-07,Pick 23 - New England Patriots
-24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Charles Cross,OT | Mississippi State,Behind The Steel Curtain,2022-01-07,Pick 24 - Arizona Cardinals
-25,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,DeMarvin Leal,DL | Texas A&M,Behind The Steel Curtain,2022-01-07,Pick 25 - Buffalo Bills
-26,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trevor Penning,OT | Northern Iowa,Behind The Steel Curtain,2022-01-07,Pick 26 - Cincinnati Bengals
-27,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Matt Corral,QB | Mississippi,Behind The Steel Curtain,2022-01-07,Pick 27 - Atlanta Falcons
-28,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Devonte Wyatt,DL | GeorgiaRARE,Behind The Steel Curtain,2022-01-07,Pick 28 - Tampa Bay Buccaneers
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Treylon Burks,WR | Arkansas,Behind The Steel Curtain,2022-01-07,Pick 29 - Kansas City Chiefs
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Travon Walker,DL | Georgia,Behind The Steel Curtain,2022-01-07,Pick 30 - Philadelphia Eagles
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Kaiir Elam,CB | Florida,Behind The Steel Curtain,2022-01-07,Pick 31 - Tennessee Titans
-32,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Carson Strong,QB | Nevada,Behind The Steel Curtain,2022-01-07,Pick 32 - Washington Football Team
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kayvon Thibodeaux,EDGE | OregonPOPULAR,Pro Football Network,2022-01-07,Pick 1 - Jacksonville Jaguars
-2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,David Ojabo,EDGE | Michigan,Pro Football Network,2022-01-07,Pick 2 - Detroit Lions
-3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Aidan Hutchinson,EDGE | Michigan,Pro Football Network,2022-01-07,Pick 3 - Houston Texans
-4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Ahmad Gardner,CB | Cincinnati,Pro Football Network,2022-01-07,Pick 4 - New York Jets
-5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Kenyon Green,IOL | Texas A&M,Pro Football Network,2022-01-07,Pick 5 - New York Giants
-6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Evan Neal,OT | Alabama,Pro Football Network,2022-01-07,Pick 6 - Carolina Panthers
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,Pro Football Network,2022-01-07,Pick 7 - New York Jets
-8,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Garrett Wilson,WR | Ohio State,Pro Football Network,2022-01-07,Pick 8 - New York Giants
-9,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Derek Stingley Jr.,CB | LSU,Pro Football Network,2022-01-07,Pick 9 - Philadelphia Eagles
-10,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,George Karlaftis,EDGE | Purdue,Pro Football Network,2022-01-07,Pick 10 - Atlanta Falcons
-11,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Devin Lloyd,LB | Utah,Pro Football Network,2022-01-07,Pick 11 - Denver Broncos
-12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Andrew Booth Jr.,CB | ClemsonPOPULAR,Pro Football Network,2022-01-07,Pick 12 - Minnesota Vikings
-13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,DeMarvin Leal,DL | Texas A&M,Pro Football Network,2022-01-07,Pick 13 - Cleveland Browns
-14,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Kenny Pickett,QB | Pittsburgh,Pro Football Network,2022-01-07,Pick 14 - Washington Football Team
-15,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,Pro Football Network,2022-01-07,Pick 15 - New Orleans Saints
-16,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Ikem Ekwonu,OT | NC State,Pro Football Network,2022-01-07,Pick 16 - Baltimore Ravens
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Matt Corral,QB | Mississippi,Pro Football Network,2022-01-07,Pick 17 - Pittsburgh Steelers
-18,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Chris Olave,WR | Ohio State,Pro Football Network,2022-01-07,Pick 18 - Las Vegas Raiders
-19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nakobe Dean,LB | Georgia,Pro Football Network,2022-01-07,Pick 19 - Philadelphia Eagles
-20,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jermaine Johnson,EDGE | Florida State,Pro Football Network,2022-01-07,Pick 20 - Los Angeles Chargers
-21,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Daxton Hill,S | Michigan,Pro Football Network,2022-01-07,Pick 21 - Philadelphia Eagles
-22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Tyler Linderbaum,IOL | Iowa,Pro Football Network,2022-01-07,Pick 22 - Miami Dolphins
-23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | Florida,Pro Football Network,2022-01-07,Pick 23 - New England Patriots
-24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Charles Cross,OT | Mississippi State,Pro Football Network,2022-01-07,Pick 24 - Arizona Cardinals
-25,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jordan Davis,DL | Georgia,Pro Football Network,2022-01-07,Pick 25 - Buffalo Bills
-26,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Trevor Penning,OT | Northern Iowa,Pro Football Network,2022-01-07,Pick 26 - Cincinnati Bengals
-27,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Lewis Cine,S | GeorgiaRARE,Pro Football Network,2022-01-07,Pick 27 - Dallas Cowboys
-28,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Drake London,WR | USC,Pro Football Network,2022-01-07,Pick 28 - Jacksonville Jaguars
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Treylon Burks,WR | Arkansas,Pro Football Network,2022-01-07,Pick 29 - Kansas City Chiefs
-30,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,David Bell,WR | Purdue,Pro Football Network,2022-01-07,Pick 30 - Detroit Lions
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Jahan Dotson,WR | Penn State,Pro Football Network,2022-01-07,Pick 31 - Tennessee Titans
-32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jalen Tolbert,WR | South AlabamaRARE,Pro Football Network,2022-01-07,Pick 32 - Green Bay Packers
-1,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Aidan Hutchinson,EDGE | Michigan,Last Word on Pro Football,2022-01-07,Pick 1 - Jacksonville Jaguars
-2,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kayvon Thibodeaux,EDGE | Oregon,Last Word on Pro Football,2022-01-07,Pick 2 - Detroit Lions
-3,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Derek Stingley Jr.,CB | LSU,Last Word on Pro Football,2022-01-07,Pick 3 - Houston Texans
-4,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Evan Neal,OT | Alabama,Last Word on Pro Football,2022-01-07,Pick 4 - New York Jets
-5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,George Karlaftis,EDGE | PurduePOPULAR,Last Word on Pro Football,2022-01-07,Pick 5 - New York Giants
-6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Matt Corral,QB | Mississippi,Last Word on Pro Football,2022-01-07,Pick 6 - Carolina Panthers
-7,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Kyle Hamilton,S | Notre Dame,Last Word on Pro Football,2022-01-07,Pick 7 - New York Jets
-8,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Ikem Ekwonu,OT | NC State,Last Word on Pro Football,2022-01-07,Pick 8 - New York Giants
-9,Washington Football Team,https://d9ioojyvhqpok.cloudfront.net/assets/logos/football_team.svg,Charles Cross,OT | Mississippi State,Last Word on Pro Football,2022-01-07,Pick 9 - Washington Football Team
-10,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Tyler Linderbaum,IOL | Iowa,Last Word on Pro Football,2022-01-07,Pick 10 - Atlanta Falcons
-11,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Kenny Pickett,QB | Pittsburgh,Last Word on Pro Football,2022-01-07,Pick 11 - Denver Broncos
-12,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,DeMarvin Leal,DL | Texas A&M,Last Word on Pro Football,2022-01-07,Pick 12 - Minnesota Vikings
-13,Cleveland Browns,https://d9ioojyvhqpok.cloudfront.net/assets/logos/browns.svg,Garrett Wilson,WR | Ohio State,Last Word on Pro Football,2022-01-07,Pick 13 - Cleveland Browns
-14,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devin Lloyd,LB | Utah,Last Word on Pro Football,2022-01-07,Pick 14 - Philadelphia Eagles
-15,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jameson Williams,WR | Alabama,Last Word on Pro Football,2022-01-07,Pick 15 - New Orleans Saints
-16,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Davis,DL | Georgia,Last Word on Pro Football,2022-01-07,Pick 16 - Baltimore Ravens
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Sam Howell,QB | North Carolina,Last Word on Pro Football,2022-01-07,Pick 17 - Pittsburgh Steelers
-18,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Kenyon Green,IOL | Texas A&M,Last Word on Pro Football,2022-01-07,Pick 18 - Las Vegas Raiders
-19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Andrew Booth Jr.,CB | Clemson,Last Word on Pro Football,2022-01-07,Pick 19 - Philadelphia Eagles
-20,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Nakobe Dean,LB | Georgia,Last Word on Pro Football,2022-01-07,Pick 20 - Los Angeles Chargers
-21,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,David Ojabo,EDGE | Michigan,Last Word on Pro Football,2022-01-07,Pick 21 - Philadelphia Eagles
-22,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Trevor Penning,OT | Northern Iowa,Last Word on Pro Football,2022-01-07,Pick 22 - Miami Dolphins
-23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Kaiir Elam,CB | Florida,Last Word on Pro Football,2022-01-07,Pick 23 - New England Patriots
-24,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Ahmad Gardner,CB | Cincinnati,Last Word on Pro Football,2022-01-07,Pick 24 - Arizona Cardinals
-25,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Chris Olave,WR | Ohio State,Last Word on Pro Football,2022-01-07,Pick 25 - Buffalo Bills
-26,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Bernhard Raimann,OT | Central MichiganRARE,Last Word on Pro Football,2022-01-07,Pick 26 - Cincinnati Bengals
-27,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Roger McCreary,CB | Auburn,Last Word on Pro Football,2022-01-07,Pick 27 - Dallas Cowboys
-28,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Trent McDuffie,CB | Washington,Last Word on Pro Football,2022-01-07,Pick 28 - Tampa Bay Buccaneers
-29,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Drake London,WR | USC,Last Word on Pro Football,2022-01-07,Pick 29 - Kansas City Chiefs
-30,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Treylon Burks,WR | Arkansas,Last Word on Pro Football,2022-01-07,Pick 30 - Detroit Lions
-31,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Zion Johnson,IOL | Boston College,Last Word on Pro Football,2022-01-07,Pick 31 - Tennessee Titans
-32,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jahan Dotson,WR | Penn State,Last Word on Pro Football,2022-01-07,Pick 32 - Green Bay Packers
