@@ -1,4 +1,66 @@
 pick,team,team_img,player,player_details,source,date,team_pick
+1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,Behind The Steel Curtain,2023-02-28,Pick 1 - Indianapolis Colts
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,Behind The Steel Curtain,2023-02-28,Pick 2 - Houston Texans
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,EDGE | Alabama,Behind The Steel Curtain,2023-02-28,Pick 3 - Arizona Cardinals
+4,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Behind The Steel Curtain,2023-02-28,Pick 4 - Chicago Bears
+5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Tyree Wilson,EDGE | Texas TechPOPULAR,Behind The Steel Curtain,2023-02-28,Pick 5 - Seattle Seahawks
+6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devon Witherspoon,CB | Illinois,Behind The Steel Curtain,2023-02-28,Pick 6 - Detroit Lions
+7,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Anthony Richardson,QB | Florida,Behind The Steel Curtain,2023-02-28,Pick 7 - Washington Commanders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Behind The Steel Curtain,2023-02-28,Pick 8 - Atlanta Falcons
+9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Bijan Robinson,RB | Texas,Behind The Steel Curtain,2023-02-28,Pick 9 - Carolina Panthers
+10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Bryan Bresee,DL | Clemson,Behind The Steel Curtain,2023-02-28,Pick 10 - Philadelphia Eagles
+11,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Will Levis,QB | Kentucky,Behind The Steel Curtain,2023-02-28,Pick 11 - Tampa Bay Buccaneers
+12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Lukas Van Ness,EDGE | Iowa,Behind The Steel Curtain,2023-02-28,Pick 12 - Houston Texans
+13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,Behind The Steel Curtain,2023-02-28,Pick 13 - New York Jets
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Joey Porter Jr.,CB | Penn State,Behind The Steel Curtain,2023-02-28,Pick 14 - New England Patriots
+15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Brian Branch,S | Alabama,Behind The Steel Curtain,2023-02-28,Pick 15 - Green Bay Packers
+16,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Christian Gonzalez,CB | Oregon,Behind The Steel Curtain,2023-02-28,Pick 16 - Las Vegas Raiders
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Trenton Simpson,LB | Clemson,Behind The Steel Curtain,2023-02-28,Pick 17 - Pittsburgh Steelers
+18,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Will McDonald IV,EDGE | Iowa StateRARE,Behind The Steel Curtain,2023-02-28,Pick 18 - Baltimore Ravens
+19,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Broderick Jones,OT | Georgia,Behind The Steel Curtain,2023-02-28,Pick 19 - Tennessee Titans
+20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Zay Flowers,WR | Boston College,Behind The Steel Curtain,2023-02-28,Pick 20 - Seattle Seahawks
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Paris Johnson Jr.,OT | Ohio State,Behind The Steel Curtain,2023-02-28,Pick 21 - Los Angeles Chargers
+22,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Michael Mayer,TE | Notre Dame,Behind The Steel Curtain,2023-02-28,Pick 22 - Detroit Lions
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,Behind The Steel Curtain,2023-02-28,Pick 23 - Minnesota Vikings
+24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Cody Mauch,IOL | North Dakota StateRARE,Behind The Steel Curtain,2023-02-28,Pick 24 - Jacksonville Jaguars
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Quentin Johnston,WR | TCU,Behind The Steel Curtain,2023-02-28,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Nolan Smith,EDGE | Georgia,Behind The Steel Curtain,2023-02-28,Pick 26 - Dallas Cowboys
+27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jalin Hyatt,WR | Tennessee,Behind The Steel Curtain,2023-02-28,Pick 27 - Buffalo Bills
+28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Antonio Johnson,S | Texas A&M,Behind The Steel Curtain,2023-02-28,Pick 28 - Cincinnati Bengals
+29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tuli Tuipulotu,DL | USCRARE,Behind The Steel Curtain,2023-02-28,Pick 29 - New Orleans Saints
+30,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jordan Addison,WR | USC,Behind The Steel Curtain,2023-02-28,Pick 30 - Arizona Cardinals
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jahmyr Gibbs,RB | Alabama,Behind The Steel Curtain,2023-02-28,Pick 31 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Bucs Wire,2023-02-28,Pick 1 - Chicago Bears
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Bucs Wire,2023-02-28,Pick 2 - Houston Texans
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Tyree Wilson,EDGE | Texas Tech,Bucs Wire,2023-02-28,Pick 3 - Arizona Cardinals
+4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio StatePOPULAR,Bucs Wire,2023-02-28,Pick 4 - Indianapolis Colts
+5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Will Anderson Jr.,EDGE | Alabama,Bucs Wire,2023-02-28,Pick 5 - Seattle Seahawks
+6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devon Witherspoon,CB | Illinois,Bucs Wire,2023-02-28,Pick 6 - Detroit Lions
+7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Will Levis,QB | KentuckyPOPULAR,Bucs Wire,2023-02-28,Pick 7 - Las Vegas Raiders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Bucs Wire,2023-02-28,Pick 8 - Atlanta Falcons
+9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Anthony Richardson,QB | FloridaPOPULAR,Bucs Wire,2023-02-28,Pick 9 - Carolina Panthers
+10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Christian Gonzalez,CB | Oregon,Bucs Wire,2023-02-28,Pick 10 - Philadelphia Eagles
+11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Bucs Wire,2023-02-28,Pick 11 - Tennessee Titans
+12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Lukas Van Ness,EDGE | Iowa,Bucs Wire,2023-02-28,Pick 12 - Houston Texans
+13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Paris Johnson Jr.,OT | Ohio StatePOPULAR,Bucs Wire,2023-02-28,Pick 13 - New York Jets
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Quentin Johnston,WR | TCU,Bucs Wire,2023-02-28,Pick 14 - New England Patriots
+15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Keion White,EDGE | Georgia Tech,Bucs Wire,2023-02-28,Pick 15 - Green Bay Packers
+16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,Bucs Wire,2023-02-28,Pick 16 - Washington Commanders
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,Bucs Wire,2023-02-28,Pick 17 - Pittsburgh Steelers
+18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bijan Robinson,RB | TexasPOPULAR,Bucs Wire,2023-02-28,Pick 18 - Detroit Lions
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Brian Branch,S | Alabama,Bucs Wire,2023-02-28,Pick 19 - Tampa Bay Buccaneers
+20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Drew Sanders,LB | Arkansas,Bucs Wire,2023-02-28,Pick 20 - Seattle Seahawks
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Bucs Wire,2023-02-28,Pick 21 - Los Angeles Chargers
+22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,Bucs Wire,2023-02-28,Pick 22 - Baltimore Ravens
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,Bucs Wire,2023-02-28,Pick 23 - Minnesota Vikings
+24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Bucs Wire,2023-02-28,Pick 24 - Jacksonville Jaguars
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,Bucs Wire,2023-02-28,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,Bucs Wire,2023-02-28,Pick 26 - Dallas Cowboys
+27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,Bucs Wire,2023-02-28,Pick 27 - Buffalo Bills
+28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Bucs Wire,2023-02-28,Pick 28 - Cincinnati Bengals
+29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,O'Cyrus Torrence,IOL | Florida,Bucs Wire,2023-02-28,Pick 29 - New Orleans Saints
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nolan Smith,EDGE | GeorgiaPOPULAR,Bucs Wire,2023-02-28,Pick 30 - Philadelphia Eagles
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Dawand Jones,OT | Ohio State,Bucs Wire,2023-02-28,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | AlabamaPOPULAR,USA Today,2023-02-28,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,USA Today,2023-02-28,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,USA Today,2023-02-28,Pick 3 - Arizona Cardinals
@@ -19,7 +81,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bryan Bresee,DL | Clemson,USA Today,2023-02-28,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kelee Ringo,CB | GeorgiaPOPULAR,USA Today,2023-02-28,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,John Michael Schmitz,IOL | Minnesota,USA Today,2023-02-28,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,USA Today,2023-02-28,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,USA Today,2023-02-28,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Nolan Smith,EDGE | Georgia,USA Today,2023-02-28,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Deonte Banks,CB | MarylandPOPULAR,USA Today,2023-02-28,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Luke Musgrave,TE | Oregon State,USA Today,2023-02-28,Pick 24 - Jacksonville Jaguars
@@ -28,7 +90,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,USA Today,2023-02-28,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,USA Today,2023-02-28,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,DL | IowaPOPULAR,USA Today,2023-02-28,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | PittsburghPOPULAR,USA Today,2023-02-28,Pick 30 - Philadelphia Eagles
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | Pittsburgh,USA Today,2023-02-28,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,B.J. Ojulari,DL | LSUPOPULAR,USA Today,2023-02-28,Pick 31 - Kansas City Chiefs
 1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,NBC Sports Philadelphia,2023-02-28,Pick 1 - Indianapolis Colts
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,NBC Sports Philadelphia,2023-02-28,Pick 2 - Houston Texans
@@ -61,6 +123,68 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Josh Downs,WR | North Carolina,NBC Sports Philadelphia,2023-02-28,Pick 30 - New Orleans Saints
 31,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Felix Anudike-Uzomah,EDGE | Kansas State,NBC Sports Philadelphia,2023-02-28,Pick 31 - Philadelphia Eagles
 32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,B.J. Ojulari,EDGE | LSU,NBC Sports Philadelphia,2023-02-28,Pick 32 - Kansas City Chiefs
+1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,Pro Football Network,2023-02-28,Pick 1 - Indianapolis Colts
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Anthony Richardson,QB | Florida,Pro Football Network,2023-02-28,Pick 2 - Houston Texans
+3,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,C.J. Stroud,QB | Ohio State,Pro Football Network,2023-02-28,Pick 3 - Carolina Panthers
+4,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Pro Football Network,2023-02-28,Pick 4 - Chicago Bears
+5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Will Anderson Jr.,EDGE | Alabama,Pro Football Network,2023-02-28,Pick 5 - Seattle Seahawks
+6,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | Northwestern,Pro Football Network,2023-02-28,Pick 6 - Tennessee Titans
+7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Paris Johnson Jr.,OT | Ohio State,Pro Football Network,2023-02-28,Pick 7 - Las Vegas Raiders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Pro Football Network,2023-02-28,Pick 8 - Atlanta Falcons
+9,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Christian Gonzalez,CB | Oregon,Pro Football Network,2023-02-28,Pick 9 - Arizona Cardinals
+10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devon Witherspoon,CB | IllinoisPOPULAR,Pro Football Network,2023-02-28,Pick 10 - Philadelphia Eagles
+11,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Brian Branch,S | Alabama,Pro Football Network,2023-02-28,Pick 11 - Detroit Lions
+12,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dawand Jones,OT | Ohio State,Pro Football Network,2023-02-28,Pick 12 - Cincinnati Bengals
+13,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,B.J. Ojulari,EDGE | LSU,Pro Football Network,2023-02-28,Pick 13 - Green Bay Packers
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Quentin Johnston,WR | TCU,Pro Football Network,2023-02-28,Pick 14 - New England Patriots
+15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,Pro Football Network,2023-02-28,Pick 15 - Green Bay Packers
+16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Will Levis,QB | Kentucky,Pro Football Network,2023-02-28,Pick 16 - Washington Commanders
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,Pro Football Network,2023-02-28,Pick 17 - Pittsburgh Steelers
+18,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Bryan Bresee,DL | Clemson,Pro Football Network,2023-02-28,Pick 18 - Washington Commanders
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Deonte Banks,CB | Maryland,Pro Football Network,2023-02-28,Pick 19 - Tampa Bay Buccaneers
+20,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jordan Addison,WR | USC,Pro Football Network,2023-02-28,Pick 20 - Buffalo Bills
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Zay Flowers,WR | Boston College,Pro Football Network,2023-02-28,Pick 21 - Los Angeles Chargers
+22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,Pro Football Network,2023-02-28,Pick 22 - Baltimore Ravens
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Joey Porter Jr.,CB | Penn State,Pro Football Network,2023-02-28,Pick 23 - Minnesota Vikings
+24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Clark Phillips III,CB | Utah,Pro Football Network,2023-02-28,Pick 24 - Jacksonville Jaguars
+25,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Tyree Wilson,EDGE | Texas Tech,Pro Football Network,2023-02-28,Pick 25 - Arizona Cardinals
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Bijan Robinson,RB | Texas,Pro Football Network,2023-02-28,Pick 26 - Dallas Cowboys
+27,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Kelee Ringo,CB | Georgia,Pro Football Network,2023-02-28,Pick 27 - Seattle Seahawks
+28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Pro Football Network,2023-02-28,Pick 28 - Cincinnati Bengals
+29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,EDGE | IowaPOPULAR,Pro Football Network,2023-02-28,Pick 29 - New Orleans Saints
+30,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,O'Cyrus Torrence,IOL | Florida,Pro Football Network,2023-02-28,Pick 30 - Los Angeles Rams
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Calijah Kancey,DL | Pittsburgh,Pro Football Network,2023-02-28,Pick 31 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,NFL.com,2023-02-28,Pick 1 - Chicago Bears
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,NFL.com,2023-02-28,Pick 2 - Houston Texans
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,EDGE | Alabama,NFL.com,2023-02-28,Pick 3 - Arizona Cardinals
+4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio StatePOPULAR,NFL.com,2023-02-28,Pick 4 - Indianapolis Colts
+5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Tyree Wilson,EDGE | Texas TechPOPULAR,NFL.com,2023-02-28,Pick 5 - Seattle Seahawks
+6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Myles Murphy,EDGE | Clemson,NFL.com,2023-02-28,Pick 6 - Detroit Lions
+7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Will Levis,QB | KentuckyPOPULAR,NFL.com,2023-02-28,Pick 7 - Las Vegas Raiders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Peter Skoronski,OT | Northwestern,NFL.com,2023-02-28,Pick 8 - Atlanta Falcons
+9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,O'Cyrus Torrence,IOL | Florida,NFL.com,2023-02-28,Pick 9 - Carolina Panthers
+10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Paris Johnson Jr.,OT | Ohio State,NFL.com,2023-02-28,Pick 10 - Philadelphia Eagles
+11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Broderick Jones,OT | Georgia,NFL.com,2023-02-28,Pick 11 - Tennessee Titans
+12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jordan Addison,WR | USC,NFL.com,2023-02-28,Pick 12 - Houston Texans
+13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Bryan Bresee,DL | Clemson,NFL.com,2023-02-28,Pick 13 - New York Jets
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,NFL.com,2023-02-28,Pick 14 - New England Patriots
+15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,NFL.com,2023-02-28,Pick 15 - Green Bay Packers
+16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Christian Gonzalez,CB | Oregon,NFL.com,2023-02-28,Pick 16 - Washington Commanders
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Joey Porter Jr.,CB | Penn State,NFL.com,2023-02-28,Pick 17 - Pittsburgh Steelers
+18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devon Witherspoon,CB | Illinois,NFL.com,2023-02-28,Pick 18 - Detroit Lions
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Keion White,EDGE | Georgia Tech,NFL.com,2023-02-28,Pick 19 - Tampa Bay Buccaneers
+20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Kelee Ringo,CB | Georgia,NFL.com,2023-02-28,Pick 20 - Seattle Seahawks
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Bijan Robinson,RB | Texas,NFL.com,2023-02-28,Pick 21 - Los Angeles Chargers
+22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,NFL.com,2023-02-28,Pick 22 - Baltimore Ravens
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,NFL.com,2023-02-28,Pick 23 - Minnesota Vikings
+24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dalton Kincaid,TE | UtahPOPULAR,NFL.com,2023-02-28,Pick 24 - Jacksonville Jaguars
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,NFL.com,2023-02-28,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Quentin Johnston,WR | TCU,NFL.com,2023-02-28,Pick 26 - Dallas Cowboys
+27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,NFL.com,2023-02-28,Pick 27 - Buffalo Bills
+28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Cam Smith,CB | South Carolina,NFL.com,2023-02-28,Pick 28 - Cincinnati Bengals
+29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jahmyr Gibbs,RB | Alabama,NFL.com,2023-02-28,Pick 29 - New Orleans Saints
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Lukas Van Ness,EDGE | Iowa,NFL.com,2023-02-28,Pick 30 - Philadelphia Eagles
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jalin Hyatt,WR | Tennessee,NFL.com,2023-02-28,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Yardbarker,2023-02-28,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,Yardbarker,2023-02-28,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,DL | Alabama,Yardbarker,2023-02-28,Pick 3 - Arizona Cardinals
@@ -81,7 +205,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kelee Ringo,CB | Georgia,Yardbarker,2023-02-28,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Lukas Van Ness,DL | Iowa,Yardbarker,2023-02-28,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Michael Mayer,TE | Notre Dame,Yardbarker,2023-02-28,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Yardbarker,2023-02-28,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Yardbarker,2023-02-28,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Cam Smith,CB | South Carolina,Yardbarker,2023-02-28,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Bryan Bresee,DL | Clemson,Yardbarker,2023-02-28,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,OT | Florida,Yardbarker,2023-02-28,Pick 24 - Jacksonville Jaguars
@@ -105,7 +229,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,IOL | NorthwesternPOPULAR,The Athletic,2023-02-28,Pick 11 - Tennessee Titans
 12,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Anthony Richardson,QB | Florida,The Athletic,2023-02-28,Pick 12 - Washington Commanders
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Broderick Jones,OT | Georgia,The Athletic,2023-02-28,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,The Athletic,2023-02-28,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,The Athletic,2023-02-28,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Brian Branch,S | Alabama,The Athletic,2023-02-28,Pick 15 - Green Bay Packers
 16,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Paris Johnson Jr.,OT | Ohio State,The Athletic,2023-02-28,Pick 16 - Houston Texans
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Lukas Van Ness,EDGE | Iowa,The Athletic,2023-02-28,Pick 17 - Pittsburgh Steelers
@@ -123,37 +247,6 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Mazi Smith,DL | MichiganRARE,The Athletic,2023-02-28,Pick 30 - New Orleans Saints
 31,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nolan Smith,EDGE | Georgia,The Athletic,2023-02-28,Pick 31 - Philadelphia Eagles
 32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,B.J. Ojulari,EDGE | LSU,The Athletic,2023-02-28,Pick 32 - Kansas City Chiefs
-1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,Buccaneers.com,2023-02-28,Pick 1 - Indianapolis Colts
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Will Levis,QB | Kentucky,Buccaneers.com,2023-02-28,Pick 2 - Houston Texans
-3,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,C.J. Stroud,QB | Ohio State,Buccaneers.com,2023-02-28,Pick 3 - Carolina Panthers
-4,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Buccaneers.com,2023-02-28,Pick 4 - Chicago Bears
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Will Anderson Jr.,EDGE | Alabama,Buccaneers.com,2023-02-28,Pick 5 - Seattle Seahawks
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Christian Gonzalez,CB | OregonPOPULAR,Buccaneers.com,2023-02-28,Pick 6 - Detroit Lions
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Paris Johnson Jr.,OT | Ohio State,Buccaneers.com,2023-02-28,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Buccaneers.com,2023-02-28,Pick 8 - Atlanta Falcons
-9,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Tyree Wilson,EDGE | Texas Tech,Buccaneers.com,2023-02-28,Pick 9 - Arizona Cardinals
-10,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Anthony Richardson,QB | Florida,Buccaneers.com,2023-02-28,Pick 10 - Washington Commanders
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Buccaneers.com,2023-02-28,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jaxon Smith-Njigba,WR | Ohio State,Buccaneers.com,2023-02-28,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Broderick Jones,OT | Georgia,Buccaneers.com,2023-02-28,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | Alabama,Buccaneers.com,2023-02-28,Pick 14 - New England Patriots
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Quentin Johnston,WR | TCU,Buccaneers.com,2023-02-28,Pick 15 - Green Bay Packers
-16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Joey Porter Jr.,CB | Penn State,Buccaneers.com,2023-02-28,Pick 16 - Philadelphia Eagles
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Devon Witherspoon,CB | Illinois,Buccaneers.com,2023-02-28,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Trenton Simpson,LB | Clemson,Buccaneers.com,2023-02-28,Pick 18 - Detroit Lions
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Emmanuel Forbes,CB | Mississippi State,Buccaneers.com,2023-02-28,Pick 19 - Tampa Bay Buccaneers
-20,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Addison,WR | USC,Buccaneers.com,2023-02-28,Pick 20 - Baltimore Ravens
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,Buccaneers.com,2023-02-28,Pick 21 - Los Angeles Chargers
-22,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Bryan Bresee,DL | Clemson,Buccaneers.com,2023-02-28,Pick 22 - Seattle Seahawks
-23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Keion White,EDGE | Georgia Tech,Buccaneers.com,2023-02-28,Pick 23 - Minnesota Vikings
-24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,IOL | Florida,Buccaneers.com,2023-02-28,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Cam Smith,CB | South CarolinaPOPULAR,Buccaneers.com,2023-02-28,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,Buccaneers.com,2023-02-28,Pick 26 - Dallas Cowboys
-27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,Buccaneers.com,2023-02-28,Pick 27 - Buffalo Bills
-28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Michael Mayer,TE | Notre Dame,Buccaneers.com,2023-02-28,Pick 28 - Cincinnati Bengals
-29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,EDGE | IowaPOPULAR,Buccaneers.com,2023-02-28,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | PittsburghPOPULAR,Buccaneers.com,2023-02-28,Pick 30 - Philadelphia Eagles
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Nolan Smith,EDGE | Georgia,Buccaneers.com,2023-02-28,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | AlabamaPOPULAR,Saturday Blitz,2023-02-28,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Saturday Blitz,2023-02-28,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,Saturday Blitz,2023-02-28,Pick 3 - Arizona Cardinals
@@ -185,6 +278,37 @@ pick,team,team_img,player,player_details,source,date,team_pick
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,B.J. Ojulari,EDGE | LSU,Saturday Blitz,2023-02-28,Pick 29 - New Orleans Saints
 30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Bijan Robinson,RB | Texas,Saturday Blitz,2023-02-28,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Nolan Smith,EDGE | Georgia,Saturday Blitz,2023-02-28,Pick 31 - Kansas City Chiefs
+1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,Buccaneers.com,2023-02-28,Pick 1 - Indianapolis Colts
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Will Levis,QB | Kentucky,Buccaneers.com,2023-02-28,Pick 2 - Houston Texans
+3,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,C.J. Stroud,QB | Ohio State,Buccaneers.com,2023-02-28,Pick 3 - Carolina Panthers
+4,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Buccaneers.com,2023-02-28,Pick 4 - Chicago Bears
+5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Will Anderson Jr.,EDGE | Alabama,Buccaneers.com,2023-02-28,Pick 5 - Seattle Seahawks
+6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Christian Gonzalez,CB | OregonPOPULAR,Buccaneers.com,2023-02-28,Pick 6 - Detroit Lions
+7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Paris Johnson Jr.,OT | Ohio State,Buccaneers.com,2023-02-28,Pick 7 - Las Vegas Raiders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Buccaneers.com,2023-02-28,Pick 8 - Atlanta Falcons
+9,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Tyree Wilson,EDGE | Texas Tech,Buccaneers.com,2023-02-28,Pick 9 - Arizona Cardinals
+10,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Anthony Richardson,QB | Florida,Buccaneers.com,2023-02-28,Pick 10 - Washington Commanders
+11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Buccaneers.com,2023-02-28,Pick 11 - Tennessee Titans
+12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jaxon Smith-Njigba,WR | Ohio State,Buccaneers.com,2023-02-28,Pick 12 - Houston Texans
+13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Broderick Jones,OT | Georgia,Buccaneers.com,2023-02-28,Pick 13 - New York Jets
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,Buccaneers.com,2023-02-28,Pick 14 - New England Patriots
+15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Quentin Johnston,WR | TCU,Buccaneers.com,2023-02-28,Pick 15 - Green Bay Packers
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Joey Porter Jr.,CB | Penn State,Buccaneers.com,2023-02-28,Pick 16 - Philadelphia Eagles
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Devon Witherspoon,CB | Illinois,Buccaneers.com,2023-02-28,Pick 17 - Pittsburgh Steelers
+18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Trenton Simpson,LB | Clemson,Buccaneers.com,2023-02-28,Pick 18 - Detroit Lions
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Emmanuel Forbes,CB | Mississippi State,Buccaneers.com,2023-02-28,Pick 19 - Tampa Bay Buccaneers
+20,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Addison,WR | USC,Buccaneers.com,2023-02-28,Pick 20 - Baltimore Ravens
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,Buccaneers.com,2023-02-28,Pick 21 - Los Angeles Chargers
+22,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Bryan Bresee,DL | Clemson,Buccaneers.com,2023-02-28,Pick 22 - Seattle Seahawks
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Keion White,EDGE | Georgia Tech,Buccaneers.com,2023-02-28,Pick 23 - Minnesota Vikings
+24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,IOL | Florida,Buccaneers.com,2023-02-28,Pick 24 - Jacksonville Jaguars
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Cam Smith,CB | South Carolina,Buccaneers.com,2023-02-28,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,Buccaneers.com,2023-02-28,Pick 26 - Dallas Cowboys
+27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,Buccaneers.com,2023-02-28,Pick 27 - Buffalo Bills
+28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Michael Mayer,TE | Notre Dame,Buccaneers.com,2023-02-28,Pick 28 - Cincinnati Bengals
+29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,EDGE | IowaPOPULAR,Buccaneers.com,2023-02-28,Pick 29 - New Orleans Saints
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | Pittsburgh,Buccaneers.com,2023-02-28,Pick 30 - Philadelphia Eagles
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Nolan Smith,EDGE | Georgia,Buccaneers.com,2023-02-28,Pick 31 - Kansas City Chiefs
 1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,CBS,2023-02-28,Pick 1 - Indianapolis Colts
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,CBS,2023-02-28,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,CBS,2023-02-28,Pick 3 - Arizona Cardinals
@@ -198,7 +322,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,CBS,2023-02-28,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,CBS,2023-02-28,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Paris Johnson Jr.,OT | Ohio StatePOPULAR,CBS,2023-02-28,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,CBS,2023-02-28,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,CBS,2023-02-28,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Brian Branch,S | Alabama,CBS,2023-02-28,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Christian Gonzalez,CB | Oregon,CBS,2023-02-28,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,CBS,2023-02-28,Pick 17 - Pittsburgh Steelers
@@ -209,8 +333,8 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Bijan Robinson,RB | Texas,CBS,2023-02-28,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kelee Ringo,CB | Georgia,CBS,2023-02-28,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dawand Jones,OT | Ohio State,CBS,2023-02-28,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,CBS,2023-02-28,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,CBS,2023-02-28,Pick 26 - Dallas Cowboys
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,CBS,2023-02-28,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,CBS,2023-02-28,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jaxon Smith-Njigba,WR | Ohio State,CBS,2023-02-28,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Michael Mayer,TE | Notre Dame,CBS,2023-02-28,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Keion White,DL | Georgia Tech,CBS,2023-02-28,Pick 29 - New Orleans Saints
@@ -247,6 +371,37 @@ pick,team,team_img,player,player_details,source,date,team_pick
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Drew Sanders,LB | Arkansas,Walter Football,2023-02-28,Pick 29 - New Orleans Saints
 30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,O'Cyrus Torrence,IOL | Florida,Walter Football,2023-02-28,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jaelyn Duncan,OT | MarylandRARE,Walter Football,2023-02-28,Pick 31 - Kansas City Chiefs
+1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio State,Gridiron Heroics,2023-02-27,Pick 1 - Indianapolis Colts
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Will Anderson Jr.,EDGE | Alabama,Gridiron Heroics,2023-02-27,Pick 2 - Houston Texans
+3,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jalen Carter,DL | Georgia,Gridiron Heroics,2023-02-27,Pick 3 - Detroit Lions
+4,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Tyree Wilson,EDGE | Texas Tech,Gridiron Heroics,2023-02-27,Pick 4 - Chicago Bears
+5,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Bryce Young,QB | Alabama,Gridiron Heroics,2023-02-27,Pick 5 - Carolina Panthers
+6,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Joey Porter Jr.,CB | Penn State,Gridiron Heroics,2023-02-27,Pick 6 - Arizona Cardinals
+7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Peter Skoronski,OT | Northwestern,Gridiron Heroics,2023-02-27,Pick 7 - Las Vegas Raiders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Jordan Addison,WR | USC,Gridiron Heroics,2023-02-27,Pick 8 - Atlanta Falcons
+9,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Myles Murphy,EDGE | Clemson,Gridiron Heroics,2023-02-27,Pick 9 - Seattle Seahawks
+10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devon Witherspoon,CB | IllinoisPOPULAR,Gridiron Heroics,2023-02-27,Pick 10 - Philadelphia Eagles
+11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Gridiron Heroics,2023-02-27,Pick 11 - Tennessee Titans
+12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Gridiron Heroics,2023-02-27,Pick 12 - Houston Texans
+13,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Anthony Richardson,QB | Florida,Gridiron Heroics,2023-02-27,Pick 13 - Minnesota Vikings
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,Gridiron Heroics,2023-02-27,Pick 14 - New England Patriots
+15,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Will Levis,QB | Kentucky,Gridiron Heroics,2023-02-27,Pick 15 - New Orleans Saints
+16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Christian Gonzalez,CB | Oregon,Gridiron Heroics,2023-02-27,Pick 16 - Washington Commanders
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,B.J. Ojulari,EDGE | LSU,Gridiron Heroics,2023-02-27,Pick 17 - Pittsburgh Steelers
+18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Deonte Banks,CB | Maryland,Gridiron Heroics,2023-02-27,Pick 18 - Detroit Lions
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Andre Carter II,EDGE | ArmyRARE,Gridiron Heroics,2023-02-27,Pick 19 - Tampa Bay Buccaneers
+20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Bryan Bresee,DL | Clemson,Gridiron Heroics,2023-02-27,Pick 20 - Seattle Seahawks
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jaxon Smith-Njigba,WR | Ohio State,Gridiron Heroics,2023-02-27,Pick 21 - Los Angeles Chargers
+22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jalin Hyatt,WR | Tennessee,Gridiron Heroics,2023-02-27,Pick 22 - Baltimore Ravens
+23,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Drew Sanders,LB | Arkansas,Gridiron Heroics,2023-02-27,Pick 23 - New York Jets
+24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,IOL | Florida,Gridiron Heroics,2023-02-27,Pick 24 - Jacksonville Jaguars
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,Gridiron Heroics,2023-02-27,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Trenton Simpson,LB | Clemson,Gridiron Heroics,2023-02-27,Pick 26 - Dallas Cowboys
+27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,Gridiron Heroics,2023-02-27,Pick 27 - Buffalo Bills
+28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Bijan Robinson,RB | Texas,Gridiron Heroics,2023-02-27,Pick 28 - Cincinnati Bengals
+29,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jack Campbell,LB | Iowa StateRARE,Gridiron Heroics,2023-02-27,Pick 29 - Green Bay Packers
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Cody Mauch,OT | North Dakota StateRARE,Gridiron Heroics,2023-02-27,Pick 30 - Philadelphia Eagles
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Broderick Jones,OT | Georgia,Gridiron Heroics,2023-02-27,Pick 31 - Kansas City Chiefs
 1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,NBC Sports Boston,2023-02-27,Pick 1 - Indianapolis Colts
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,NBC Sports Boston,2023-02-27,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,NBC Sports Boston,2023-02-27,Pick 3 - Arizona Cardinals
@@ -322,7 +477,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Broderick Jones,OT | Georgia,Sharp Football Analysis,2023-02-27,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Lukas Van Ness,EDGE | Iowa,Sharp Football Analysis,2023-02-27,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Anton Harrison,OT | Oklahoma,Sharp Football Analysis,2023-02-27,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | Alabama,Sharp Football Analysis,2023-02-27,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,Sharp Football Analysis,2023-02-27,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jordan Addison,WR | USC,Sharp Football Analysis,2023-02-27,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Peter Skoronski,IOL | Northwestern,Sharp Football Analysis,2023-02-27,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Joey Porter Jr.,CB | Penn State,Sharp Football Analysis,2023-02-27,Pick 17 - Pittsburgh Steelers
@@ -353,7 +508,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Sporting News,2023-02-27,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jordan Addison,WR | USC,Sporting News,2023-02-27,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Quentin Johnston,WR | TCU,Sporting News,2023-02-27,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | Alabama,Sporting News,2023-02-27,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,Sporting News,2023-02-27,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Myles Murphy,EDGE | Clemson,Sporting News,2023-02-27,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Cam Smith,CB | South Carolina,Sporting News,2023-02-27,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,Sporting News,2023-02-27,Pick 17 - Pittsburgh Steelers
@@ -462,7 +617,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,O'Cyrus Torrence,IOL | Florida,Pro Football Focus,2023-02-27,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Anton Harrison,OT | OklahomaPOPULAR,Pro Football Focus,2023-02-27,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Myles Murphy,EDGE | Clemson,Pro Football Focus,2023-02-27,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | PittsburghPOPULAR,Pro Football Focus,2023-02-27,Pick 30 - Philadelphia Eagles
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | Pittsburgh,Pro Football Focus,2023-02-27,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Will McDonald IV,EDGE | Iowa StateRARE,Pro Football Focus,2023-02-27,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,FTN Fantasy,2023-02-27,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,FTN Fantasy,2023-02-27,Pick 2 - Houston Texans
@@ -538,7 +693,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Fantasy Pros,2023-02-27,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Fantasy Pros,2023-02-27,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,Fantasy Pros,2023-02-27,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | Alabama,Fantasy Pros,2023-02-27,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,Fantasy Pros,2023-02-27,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,Fantasy Pros,2023-02-27,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,Fantasy Pros,2023-02-27,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Kelee Ringo,CB | Georgia,Fantasy Pros,2023-02-27,Pick 17 - Pittsburgh Steelers
@@ -550,7 +705,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,Fantasy Pros,2023-02-27,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dalton Kincaid,TE | UtahPOPULAR,Fantasy Pros,2023-02-27,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,Fantasy Pros,2023-02-27,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,Fantasy Pros,2023-02-27,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,Fantasy Pros,2023-02-27,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,O'Cyrus Torrence,IOL | Florida,Fantasy Pros,2023-02-27,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Broderick Jones,OT | Georgia,Fantasy Pros,2023-02-27,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,EDGE | IowaPOPULAR,Fantasy Pros,2023-02-27,Pick 29 - New Orleans Saints
@@ -647,7 +802,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Zay Flowers,WR | Boston College,Sportsnaut,2023-02-26,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Anton Harrison,OT | OklahomaPOPULAR,Sportsnaut,2023-02-26,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Tanner McKee,QB | StanfordRARE,Sportsnaut,2023-02-26,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nolan Smith,EDGE | Georgia,Sportsnaut,2023-02-26,Pick 30 - Philadelphia Eagles
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nolan Smith,EDGE | GeorgiaPOPULAR,Sportsnaut,2023-02-26,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Andre Carter II,EDGE | ArmyRARE,Sportsnaut,2023-02-26,Pick 31 - Kansas City Chiefs
 1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,CBS,2023-02-26,Pick 1 - Indianapolis Colts
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,CBS,2023-02-26,Pick 2 - Houston Texans
@@ -704,7 +859,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Cam Smith,CB | South Carolina,Belly Up Sports,2023-02-26,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Calijah Kancey,DL | Pittsburgh,Belly Up Sports,2023-02-26,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Belly Up Sports,2023-02-26,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,Belly Up Sports,2023-02-26,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,Belly Up Sports,2023-02-26,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Anton Harrison,OT | Oklahoma,Belly Up Sports,2023-02-26,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Drew Sanders,LB | Arkansas,Belly Up Sports,2023-02-26,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Antonio Johnson,S | Texas A&M,Belly Up Sports,2023-02-26,Pick 28 - Cincinnati Bengals
@@ -731,12 +886,12 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bijan Robinson,RB | TexasPOPULAR,Bucs Wire,2023-02-25,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Brian Branch,S | Alabama,Bucs Wire,2023-02-25,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Drew Sanders,LB | Arkansas,Bucs Wire,2023-02-25,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Bucs Wire,2023-02-25,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Bucs Wire,2023-02-25,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,Bucs Wire,2023-02-25,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,Bucs Wire,2023-02-25,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Bucs Wire,2023-02-25,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,Bucs Wire,2023-02-25,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South Carolina,Bucs Wire,2023-02-25,Pick 26 - Dallas Cowboys
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,Bucs Wire,2023-02-25,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,Bucs Wire,2023-02-25,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,Bucs Wire,2023-02-25,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Bucs Wire,2023-02-25,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,O'Cyrus Torrence,IOL | Florida,Bucs Wire,2023-02-25,Pick 29 - New Orleans Saints
@@ -840,7 +995,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bijan Robinson,RB | TexasPOPULAR,NFL Spin Zone,2023-02-25,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Will Levis,QB | Kentucky,NFL Spin Zone,2023-02-25,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,O'Cyrus Torrence,IOL | FloridaPOPULAR,NFL Spin Zone,2023-02-25,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,NFL Spin Zone,2023-02-25,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,NFL Spin Zone,2023-02-25,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kelee Ringo,CB | Georgia,NFL Spin Zone,2023-02-25,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Antonio Johnson,S | Texas A&M,NFL Spin Zone,2023-02-25,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Tyrique Stevenson,CB | Miami (FL)RARE,NFL Spin Zone,2023-02-25,Pick 24 - Jacksonville Jaguars
@@ -851,6 +1006,37 @@ pick,team,team_img,player,player_details,source,date,team_pick
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Isaiah Foskey,EDGE | Notre Dame,NFL Spin Zone,2023-02-25,Pick 29 - New Orleans Saints
 30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Trenton Simpson,LB | Clemson,NFL Spin Zone,2023-02-25,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,B.J. Ojulari,EDGE | LSUPOPULAR,NFL Spin Zone,2023-02-25,Pick 31 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | AlabamaPOPULAR,Tankathon,2023-02-25,Pick 1 - Chicago Bears
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Tankathon,2023-02-25,Pick 2 - Houston Texans
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,Tankathon,2023-02-25,Pick 3 - Arizona Cardinals
+4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio StatePOPULAR,Tankathon,2023-02-25,Pick 4 - Indianapolis Colts
+5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Will Levis,QB | Kentucky,Tankathon,2023-02-25,Pick 5 - Seattle Seahawks
+6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Christian Gonzalez,CB | OregonPOPULAR,Tankathon,2023-02-25,Pick 6 - Detroit Lions
+7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Anthony Richardson,QB | Florida,Tankathon,2023-02-25,Pick 7 - Las Vegas Raiders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Tyree Wilson,EDGE | Texas Tech,Tankathon,2023-02-25,Pick 8 - Atlanta Falcons
+9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Myles Murphy,EDGE | Clemson,Tankathon,2023-02-25,Pick 9 - Carolina Panthers
+10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devon Witherspoon,CB | IllinoisPOPULAR,Tankathon,2023-02-25,Pick 10 - Philadelphia Eagles
+11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Tankathon,2023-02-25,Pick 11 - Tennessee Titans
+12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Tankathon,2023-02-25,Pick 12 - Houston Texans
+13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,Tankathon,2023-02-25,Pick 13 - New York Jets
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Joey Porter Jr.,CB | Penn State,Tankathon,2023-02-25,Pick 14 - New England Patriots
+15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Broderick Jones,OT | Georgia,Tankathon,2023-02-25,Pick 15 - Green Bay Packers
+16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Brian Branch,S | Alabama,Tankathon,2023-02-25,Pick 16 - Washington Commanders
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Bryan Bresee,DL | Clemson,Tankathon,2023-02-25,Pick 17 - Pittsburgh Steelers
+18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Michael Mayer,TE | Notre Dame,Tankathon,2023-02-25,Pick 18 - Detroit Lions
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bijan Robinson,RB | Texas,Tankathon,2023-02-25,Pick 19 - Tampa Bay Buccaneers
+20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,O'Cyrus Torrence,IOL | FloridaPOPULAR,Tankathon,2023-02-25,Pick 20 - Seattle Seahawks
+22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Lukas Van Ness,DL | Iowa,Tankathon,2023-02-25,Pick 22 - Los Angeles Chargers
+23,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio State,Tankathon,2023-02-25,Pick 23 - Baltimore Ravens
+24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Cam Smith,CB | South Carolina,Tankathon,2023-02-25,Pick 24 - Minnesota Vikings
+25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jordan Addison,WR | USC,Tankathon,2023-02-25,Pick 25 - Jacksonville Jaguars
+26,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Trenton Simpson,LB | Clemson,Tankathon,2023-02-25,Pick 26 - New York Giants
+27,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Kelee Ringo,CB | Georgia,Tankathon,2023-02-25,Pick 27 - Dallas Cowboys
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Anton Harrison,OT | Oklahoma,Tankathon,2023-02-25,Pick 28 - Buffalo Bills
+29,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Tankathon,2023-02-25,Pick 29 - Cincinnati Bengals
+30,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Calijah Kancey,DL | Pittsburgh,Tankathon,2023-02-25,Pick 30 - New Orleans Saints
+31,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Antonio Johnson,S | Texas A&M,Tankathon,2023-02-25,Pick 31 - Philadelphia Eagles
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Keion White,EDGE | Georgia Tech,Tankathon,2023-02-25,Pick 32 - Kansas City Chiefs
 1,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Bryce Young,QB | Alabama,Falcons Wire,2023-02-24,Pick 1 - Carolina Panthers
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,Falcons Wire,2023-02-24,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,Falcons Wire,2023-02-24,Pick 3 - Arizona Cardinals
@@ -913,37 +1099,6 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Deonte Banks,CB | Maryland,Stacking The Board,2023-02-24,Pick 30 - New Orleans Saints
 31,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Kelee Ringo,CB | Georgia,Stacking The Board,2023-02-24,Pick 31 - Philadelphia Eagles
 32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jahmyr Gibbs,RB | Alabama,Stacking The Board,2023-02-24,Pick 32 - Kansas City Chiefs
-1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | AlabamaPOPULAR,Tankathon,2023-02-24,Pick 1 - Chicago Bears
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Tankathon,2023-02-24,Pick 2 - Houston Texans
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,Tankathon,2023-02-24,Pick 3 - Arizona Cardinals
-4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio StatePOPULAR,Tankathon,2023-02-24,Pick 4 - Indianapolis Colts
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Tyree Wilson,EDGE | Texas TechPOPULAR,Tankathon,2023-02-24,Pick 5 - Seattle Seahawks
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Christian Gonzalez,CB | OregonPOPULAR,Tankathon,2023-02-24,Pick 6 - Detroit Lions
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Will Levis,QB | KentuckyPOPULAR,Tankathon,2023-02-24,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Tankathon,2023-02-24,Pick 8 - Atlanta Falcons
-9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Anthony Richardson,QB | FloridaPOPULAR,Tankathon,2023-02-24,Pick 9 - Carolina Panthers
-10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devon Witherspoon,CB | IllinoisPOPULAR,Tankathon,2023-02-24,Pick 10 - Philadelphia Eagles
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Tankathon,2023-02-24,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Tankathon,2023-02-24,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,Tankathon,2023-02-24,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Joey Porter Jr.,CB | Penn State,Tankathon,2023-02-24,Pick 14 - New England Patriots
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Broderick Jones,OT | Georgia,Tankathon,2023-02-24,Pick 15 - Green Bay Packers
-16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Brian Branch,S | Alabama,Tankathon,2023-02-24,Pick 16 - Washington Commanders
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Bryan Bresee,DL | Clemson,Tankathon,2023-02-24,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Michael Mayer,TE | Notre Dame,Tankathon,2023-02-24,Pick 18 - Detroit Lions
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bijan Robinson,RB | Texas,Tankathon,2023-02-24,Pick 19 - Tampa Bay Buccaneers
-20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,O'Cyrus Torrence,IOL | FloridaPOPULAR,Tankathon,2023-02-24,Pick 20 - Seattle Seahawks
-22,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Lukas Van Ness,DL | Iowa,Tankathon,2023-02-24,Pick 22 - Los Angeles Chargers
-23,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio State,Tankathon,2023-02-24,Pick 23 - Baltimore Ravens
-24,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Cam Smith,CB | South Carolina,Tankathon,2023-02-24,Pick 24 - Minnesota Vikings
-25,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jordan Addison,WR | USC,Tankathon,2023-02-24,Pick 25 - Jacksonville Jaguars
-26,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Trenton Simpson,LB | Clemson,Tankathon,2023-02-24,Pick 26 - New York Giants
-27,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Kelee Ringo,CB | Georgia,Tankathon,2023-02-24,Pick 27 - Dallas Cowboys
-28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Anton Harrison,OT | Oklahoma,Tankathon,2023-02-24,Pick 28 - Buffalo Bills
-29,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Tankathon,2023-02-24,Pick 29 - Cincinnati Bengals
-30,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Calijah Kancey,DL | Pittsburgh,Tankathon,2023-02-24,Pick 30 - New Orleans Saints
-31,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Antonio Johnson,S | Texas A&M,Tankathon,2023-02-24,Pick 31 - Philadelphia Eagles
-32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Keion White,EDGE | Georgia Tech,Tankathon,2023-02-24,Pick 32 - Kansas City Chiefs
 1,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,CBS,2023-02-24,Pick 1 - Houston Texans
 2,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,CBS,2023-02-24,Pick 2 - Chicago Bears
 3,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Bryce Young,QB | Alabama,CBS,2023-02-24,Pick 3 - Carolina Panthers
@@ -968,7 +1123,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Brian Branch,S | Alabama,CBS,2023-02-24,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Calijah Kancey,DL | Pittsburgh,CBS,2023-02-24,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,IOL | Florida,CBS,2023-02-24,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,CBS,2023-02-24,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,CBS,2023-02-24,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Trenton Simpson,LB | Clemson,CBS,2023-02-24,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,CBS,2023-02-24,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Darnell Wright,IOL | Tennessee,CBS,2023-02-24,Pick 28 - Cincinnati Bengals
@@ -995,12 +1150,12 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Dalton Kincaid,TE | Utah,College Sports Wire,2023-02-24,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bryan Bresee,DL | Clemson,College Sports Wire,2023-02-24,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Drew Sanders,LB | Arkansas,College Sports Wire,2023-02-24,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,College Sports Wire,2023-02-24,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,College Sports Wire,2023-02-24,Pick 21 - Los Angeles Chargers
 22,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jalin Hyatt,WR | Tennessee,College Sports Wire,2023-02-24,Pick 22 - Buffalo Bills
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,College Sports Wire,2023-02-24,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Broderick Jones,OT | Georgia,College Sports Wire,2023-02-24,Pick 24 - Jacksonville Jaguars
 25,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jaxon Smith-Njigba,WR | Ohio State,College Sports Wire,2023-02-24,Pick 25 - Kansas City Chiefs
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South Carolina,College Sports Wire,2023-02-24,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,College Sports Wire,2023-02-24,Pick 26 - Dallas Cowboys
 27,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Bijan Robinson,RB | Texas,College Sports Wire,2023-02-24,Pick 27 - Baltimore Ravens
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Darnell Wright,OT | Tennessee,College Sports Wire,2023-02-24,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jahmyr Gibbs,RB | Alabama,College Sports Wire,2023-02-24,Pick 29 - New Orleans Saints
@@ -1019,7 +1174,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Yahoo Sports,2023-02-24,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jaxon Smith-Njigba,WR | Ohio State,Yahoo Sports,2023-02-24,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,Yahoo Sports,2023-02-24,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Yahoo Sports,2023-02-24,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Yahoo Sports,2023-02-24,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Quentin Johnston,WR | TCU,Yahoo Sports,2023-02-24,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,O'Cyrus Torrence,IOL | Florida,Yahoo Sports,2023-02-24,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Anton Harrison,OT | Oklahoma,Yahoo Sports,2023-02-24,Pick 17 - Pittsburgh Steelers
@@ -1050,7 +1205,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Fantasy Pros,2023-02-24,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Fantasy Pros,2023-02-24,Pick 12 - Houston Texans
 13,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Broderick Jones,OT | Georgia,Fantasy Pros,2023-02-24,Pick 13 - Green Bay Packers
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | Alabama,Fantasy Pros,2023-02-24,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,Fantasy Pros,2023-02-24,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,Fantasy Pros,2023-02-24,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Kelee Ringo,CB | Georgia,Fantasy Pros,2023-02-24,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Christian Gonzalez,CB | Oregon,Fantasy Pros,2023-02-24,Pick 17 - Pittsburgh Steelers
@@ -1093,7 +1248,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Zay Flowers,WR | Boston College,CBS,2023-02-23,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Bryan Bresee,DL | Clemson,CBS,2023-02-23,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Kelee Ringo,CB | Georgia,CBS,2023-02-23,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,CBS,2023-02-23,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,CBS,2023-02-23,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,O'Cyrus Torrence,IOL | Florida,CBS,2023-02-23,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,CBS,2023-02-23,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,EDGE | IowaPOPULAR,CBS,2023-02-23,Pick 29 - New Orleans Saints
@@ -1119,12 +1274,12 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bijan Robinson,RB | TexasPOPULAR,Draftwire,2023-02-23,Pick 18 - Detroit Lions
 19,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jordan Addison,WR | USC,Draftwire,2023-02-23,Pick 19 - Kansas City Chiefs
 20,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaxon Smith-Njigba,WR | Ohio State,Draftwire,2023-02-23,Pick 20 - New York Giants
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,Draftwire,2023-02-23,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,Draftwire,2023-02-23,Pick 21 - Los Angeles Chargers
 22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Keion White,EDGE | Georgia Tech,Draftwire,2023-02-23,Pick 22 - Philadelphia Eagles
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,Draftwire,2023-02-23,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Draftwire,2023-02-23,Pick 24 - Jacksonville Jaguars
 25,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Drew Sanders,LB | Arkansas,Draftwire,2023-02-23,Pick 25 - Seattle Seahawks
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South Carolina,Draftwire,2023-02-23,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,Draftwire,2023-02-23,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,Draftwire,2023-02-23,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Draftwire,2023-02-23,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,O'Cyrus Torrence,IOL | Florida,Draftwire,2023-02-23,Pick 29 - New Orleans Saints
@@ -1181,7 +1336,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bryan Bresee,DL | Clemson,Pro Football Network,2023-02-23,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kelee Ringo,CB | GeorgiaPOPULAR,Pro Football Network,2023-02-23,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Emmanuel Forbes,CB | Mississippi State,Pro Football Network,2023-02-23,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Pro Football Network,2023-02-23,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Pro Football Network,2023-02-23,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Cam Smith,CB | South Carolina,Pro Football Network,2023-02-23,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Josh Downs,WR | North Carolina,Pro Football Network,2023-02-23,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Brian Branch,S | Alabama,Pro Football Network,2023-02-23,Pick 24 - Jacksonville Jaguars
@@ -1236,7 +1391,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Quentin Johnston,WR | TCU,Drafttek,2023-02-23,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Joey Porter Jr.,CB | Penn State,Drafttek,2023-02-23,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brian Branch,S | Alabama,Drafttek,2023-02-23,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Drafttek,2023-02-23,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Drafttek,2023-02-23,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Paris Johnson Jr.,OT | Ohio State,Drafttek,2023-02-23,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Devon Witherspoon,CB | Illinois,Drafttek,2023-02-23,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Cam Smith,CB | South Carolina,Drafttek,2023-02-23,Pick 17 - Pittsburgh Steelers
@@ -1274,12 +1429,12 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Michael Mayer,TE | Notre Dame,CBS,2023-02-22,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Peter Skoronski,OT | Northwestern,CBS,2023-02-22,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,John Michael Schmitz,IOL | Minnesota,CBS,2023-02-22,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,CBS,2023-02-22,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,CBS,2023-02-22,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Joey Porter Jr.,CB | Penn State,CBS,2023-02-22,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jaxon Smith-Njigba,WR | Ohio State,CBS,2023-02-22,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jaelyn Duncan,OT | MarylandRARE,CBS,2023-02-22,Pick 24 - Jacksonville Jaguars
 25,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,DL | Clemson,CBS,2023-02-22,Pick 25 - Atlanta Falcons
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,CBS,2023-02-22,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,CBS,2023-02-22,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Broderick Jones,OT | Georgia,CBS,2023-02-22,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Emmanuel Forbes,CB | Mississippi State,CBS,2023-02-22,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Zay Flowers,WR | Boston College,CBS,2023-02-22,Pick 29 - New Orleans Saints
@@ -1305,12 +1460,12 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,O'Cyrus Torrence,IOL | Florida,M Live,2023-02-22,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bijan Robinson,RB | Texas,M Live,2023-02-22,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jaxon Smith-Njigba,WR | Ohio State,M Live,2023-02-22,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,M Live,2023-02-22,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,M Live,2023-02-22,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Quentin Johnston,WR | TCU,M Live,2023-02-22,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kelee Ringo,CB | Georgia,M Live,2023-02-22,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dalton Kincaid,TE | UtahPOPULAR,M Live,2023-02-22,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,M Live,2023-02-22,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South Carolina,M Live,2023-02-22,Pick 26 - Dallas Cowboys
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,M Live,2023-02-22,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,M Live,2023-02-22,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Trenton Simpson,LB | Clemson,M Live,2023-02-22,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Darnell Washington,TE | Georgia,M Live,2023-02-22,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,EDGE | IowaPOPULAR,M Live,2023-02-22,Pick 29 - New Orleans Saints
@@ -1367,7 +1522,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Brian Branch,CB | Alabama,UPI,2023-02-22,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,O'Cyrus Torrence,IOL | Florida,UPI,2023-02-22,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Lukas Van Ness,EDGE | Iowa,UPI,2023-02-22,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,UPI,2023-02-22,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,UPI,2023-02-22,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jalin Hyatt,WR | Tennessee,UPI,2023-02-22,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Christian Gonzalez,CB | Oregon,UPI,2023-02-22,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dalton Kincaid,TE | UtahPOPULAR,UPI,2023-02-22,Pick 24 - Jacksonville Jaguars
@@ -1391,7 +1546,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,4 For 4,2023-02-21,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,4 For 4,2023-02-21,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,4 For 4,2023-02-21,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,4 For 4,2023-02-21,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,4 For 4,2023-02-21,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,4 For 4,2023-02-21,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Devon Witherspoon,S | Illinois,4 For 4,2023-02-21,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,4 For 4,2023-02-21,Pick 17 - Pittsburgh Steelers
@@ -1402,8 +1557,8 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,4 For 4,2023-02-21,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kelee Ringo,S | Georgia,4 For 4,2023-02-21,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,IOL | Florida,4 For 4,2023-02-21,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,4 For 4,2023-02-21,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,4 For 4,2023-02-21,Pick 26 - Dallas Cowboys
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,4 For 4,2023-02-21,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,4 For 4,2023-02-21,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Keion White,EDGE | Georgia Tech,4 For 4,2023-02-21,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Clark Phillips III,S | Utah,4 For 4,2023-02-21,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Bijan Robinson,RB | Texas,4 For 4,2023-02-21,Pick 29 - New Orleans Saints
@@ -1438,7 +1593,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,CBS,2023-02-21,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Felix Anudike-Uzomah,EDGE | Kansas State,CBS,2023-02-21,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Nolan Smith,EDGE | Georgia,CBS,2023-02-21,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | PittsburghPOPULAR,CBS,2023-02-21,Pick 30 - Philadelphia Eagles
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | Pittsburgh,CBS,2023-02-21,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Zay Flowers,WR | Boston College,CBS,2023-02-21,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | AlabamaPOPULAR,Bucs Wire,2023-02-21,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Bucs Wire,2023-02-21,Pick 2 - Houston Texans
@@ -1453,19 +1608,19 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Bucs Wire,2023-02-21,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Bucs Wire,2023-02-21,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Paris Johnson Jr.,OT | Ohio StatePOPULAR,Bucs Wire,2023-02-21,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Bucs Wire,2023-02-21,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Bucs Wire,2023-02-21,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Keion White,EDGE | Georgia Tech,Bucs Wire,2023-02-21,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,Bucs Wire,2023-02-21,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,Bucs Wire,2023-02-21,Pick 17 - Pittsburgh Steelers
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bijan Robinson,RB | TexasPOPULAR,Bucs Wire,2023-02-21,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Brian Branch,S | Alabama,Bucs Wire,2023-02-21,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Michael Mayer,TE | Notre Dame,Bucs Wire,2023-02-21,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,Bucs Wire,2023-02-21,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,Bucs Wire,2023-02-21,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Zay Flowers,WR | Boston College,Bucs Wire,2023-02-21,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Emmanuel Forbes,CB | Mississippi State,Bucs Wire,2023-02-21,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Lukas Van Ness,DL | Iowa,Bucs Wire,2023-02-21,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaxon Smith-Njigba,WR | Ohio State,Bucs Wire,2023-02-21,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South Carolina,Bucs Wire,2023-02-21,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,Bucs Wire,2023-02-21,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,Bucs Wire,2023-02-21,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Bucs Wire,2023-02-21,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,O'Cyrus Torrence,IOL | Florida,Bucs Wire,2023-02-21,Pick 29 - New Orleans Saints
@@ -1484,7 +1639,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Broderick Jones,OT | Georgia,NBC Sports Philadelphia,2023-02-21,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,NBC Sports Philadelphia,2023-02-21,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Bryan Bresee,DL | Clemson,NBC Sports Philadelphia,2023-02-21,Pick 17 - Pittsburgh Steelers
@@ -1495,7 +1650,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Devon Witherspoon,CB | Illinois,NBC Sports Philadelphia,2023-02-21,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dalton Kincaid,TE | UtahPOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,NBC Sports Philadelphia,2023-02-21,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,NBC Sports Philadelphia,2023-02-21,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Lukas Van Ness,EDGE | Iowa,NBC Sports Philadelphia,2023-02-21,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,John Michael Schmitz,IOL | Minnesota,NBC Sports Philadelphia,2023-02-21,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Luke Musgrave,TE | Oregon State,NBC Sports Philadelphia,2023-02-21,Pick 28 - Cincinnati Bengals
@@ -1522,7 +1677,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Calijah Kancey,DL | Pittsburgh,Fantom Sports,2023-02-21,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bryan Bresee,DL | Clemson,Fantom Sports,2023-02-21,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Nolan Smith,EDGE | Georgia,Fantom Sports,2023-02-21,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Fantom Sports,2023-02-21,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Fantom Sports,2023-02-21,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Zay Flowers,WR | Boston College,Fantom Sports,2023-02-21,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jack Campbell,LB | IowaRARE,Fantom Sports,2023-02-21,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,IOL | Florida,Fantom Sports,2023-02-21,Pick 24 - Jacksonville Jaguars
@@ -1533,37 +1688,6 @@ pick,team,team_img,player,player_details,source,date,team_pick
 29,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Michael Mayer,TE | Notre Dame,Fantom Sports,2023-02-21,Pick 29 - Houston Texans
 30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Myles Murphy,EDGE | Clemson,Fantom Sports,2023-02-21,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Anton Harrison,OT | Oklahoma,Fantom Sports,2023-02-21,Pick 31 - Kansas City Chiefs
-1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,AtlantaFalcons.com,2023-02-21,Pick 1 - Chicago Bears
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,AtlantaFalcons.com,2023-02-21,Pick 2 - Houston Texans
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,EDGE | Alabama,AtlantaFalcons.com,2023-02-21,Pick 3 - Arizona Cardinals
-4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio StatePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 4 - Indianapolis Colts
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Myles Murphy,EDGE | Clemson,AtlantaFalcons.com,2023-02-21,Pick 5 - Seattle Seahawks
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devon Witherspoon,CB | Illinois,AtlantaFalcons.com,2023-02-21,Pick 6 - Detroit Lions
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Peter Skoronski,IOL | Northwestern,AtlantaFalcons.com,2023-02-21,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Tyree Wilson,EDGE | Texas Tech,AtlantaFalcons.com,2023-02-21,Pick 8 - Atlanta Falcons
-9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Will Levis,QB | Kentucky,AtlantaFalcons.com,2023-02-21,Pick 9 - Carolina Panthers
-10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Lukas Van Ness,EDGE | Iowa,AtlantaFalcons.com,2023-02-21,Pick 10 - Philadelphia Eagles
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,AtlantaFalcons.com,2023-02-21,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Broderick Jones,OT | Georgia,AtlantaFalcons.com,2023-02-21,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brian Branch,S | Alabama,AtlantaFalcons.com,2023-02-21,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,AtlantaFalcons.com,2023-02-21,Pick 14 - New England Patriots
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 15 - Green Bay Packers
-16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 16 - Washington Commanders
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Christian Gonzalez,CB | Oregon,AtlantaFalcons.com,2023-02-21,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bryan Bresee,DL | Clemson,AtlantaFalcons.com,2023-02-21,Pick 18 - Detroit Lions
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Anthony Richardson,QB | Florida,AtlantaFalcons.com,2023-02-21,Pick 19 - Tampa Bay Buccaneers
-20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Quentin Johnston,WR | TCU,AtlantaFalcons.com,2023-02-21,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Bijan Robinson,RB | Texas,AtlantaFalcons.com,2023-02-21,Pick 21 - Los Angeles Chargers
-22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 22 - Baltimore Ravens
-23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Cam Smith,CB | South Carolina,AtlantaFalcons.com,2023-02-21,Pick 23 - Minnesota Vikings
-24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Anton Harrison,OT | Oklahoma,AtlantaFalcons.com,2023-02-21,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,AtlantaFalcons.com,2023-02-21,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Deonte Banks,CB | Maryland,AtlantaFalcons.com,2023-02-21,Pick 26 - Dallas Cowboys
-27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,AtlantaFalcons.com,2023-02-21,Pick 27 - Buffalo Bills
-28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Darnell Washington,TE | Georgia,AtlantaFalcons.com,2023-02-21,Pick 28 - Cincinnati Bengals
-29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Keion White,EDGE | Georgia Tech,AtlantaFalcons.com,2023-02-21,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jahmyr Gibbs,RB | Alabama,AtlantaFalcons.com,2023-02-21,Pick 30 - Philadelphia Eagles
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Nolan Smith,EDGE | Georgia,AtlantaFalcons.com,2023-02-21,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Pro Football Network,2023-02-21,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Pro Football Network,2023-02-21,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,EDGE | Alabama,Pro Football Network,2023-02-21,Pick 3 - Arizona Cardinals
@@ -1584,7 +1708,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Luke Musgrave,TE | Oregon State,Pro Football Network,2023-02-21,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Will Levis,QB | Kentucky,Pro Football Network,2023-02-21,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Quentin Johnston,WR | TCU,Pro Football Network,2023-02-21,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Pro Football Network,2023-02-21,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Pro Football Network,2023-02-21,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Cam Smith,CB | South Carolina,Pro Football Network,2023-02-21,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,D.J. Turner,CB | MichiganRARE,Pro Football Network,2023-02-21,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Deonte Banks,CB | Maryland,Pro Football Network,2023-02-21,Pick 24 - Jacksonville Jaguars
@@ -1595,6 +1719,37 @@ pick,team,team_img,player,player_details,source,date,team_pick
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Mazi Smith,DL | MichiganRARE,Pro Football Network,2023-02-21,Pick 29 - New Orleans Saints
 30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jahmyr Gibbs,RB | Alabama,Pro Football Network,2023-02-21,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,B.J. Ojulari,EDGE | LSUPOPULAR,Pro Football Network,2023-02-21,Pick 31 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,AtlantaFalcons.com,2023-02-21,Pick 1 - Chicago Bears
+2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,AtlantaFalcons.com,2023-02-21,Pick 2 - Houston Texans
+3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,EDGE | Alabama,AtlantaFalcons.com,2023-02-21,Pick 3 - Arizona Cardinals
+4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio StatePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 4 - Indianapolis Colts
+5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Myles Murphy,EDGE | Clemson,AtlantaFalcons.com,2023-02-21,Pick 5 - Seattle Seahawks
+6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devon Witherspoon,CB | Illinois,AtlantaFalcons.com,2023-02-21,Pick 6 - Detroit Lions
+7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Peter Skoronski,IOL | Northwestern,AtlantaFalcons.com,2023-02-21,Pick 7 - Las Vegas Raiders
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Tyree Wilson,EDGE | Texas Tech,AtlantaFalcons.com,2023-02-21,Pick 8 - Atlanta Falcons
+9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Will Levis,QB | Kentucky,AtlantaFalcons.com,2023-02-21,Pick 9 - Carolina Panthers
+10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Lukas Van Ness,EDGE | Iowa,AtlantaFalcons.com,2023-02-21,Pick 10 - Philadelphia Eagles
+11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,AtlantaFalcons.com,2023-02-21,Pick 11 - Tennessee Titans
+12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Broderick Jones,OT | Georgia,AtlantaFalcons.com,2023-02-21,Pick 12 - Houston Texans
+13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brian Branch,S | Alabama,AtlantaFalcons.com,2023-02-21,Pick 13 - New York Jets
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,AtlantaFalcons.com,2023-02-21,Pick 14 - New England Patriots
+15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 15 - Green Bay Packers
+16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 16 - Washington Commanders
+17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Christian Gonzalez,CB | Oregon,AtlantaFalcons.com,2023-02-21,Pick 17 - Pittsburgh Steelers
+18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bryan Bresee,DL | Clemson,AtlantaFalcons.com,2023-02-21,Pick 18 - Detroit Lions
+19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Anthony Richardson,QB | Florida,AtlantaFalcons.com,2023-02-21,Pick 19 - Tampa Bay Buccaneers
+20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Quentin Johnston,WR | TCU,AtlantaFalcons.com,2023-02-21,Pick 20 - Seattle Seahawks
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Bijan Robinson,RB | Texas,AtlantaFalcons.com,2023-02-21,Pick 21 - Los Angeles Chargers
+22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,AtlantaFalcons.com,2023-02-21,Pick 22 - Baltimore Ravens
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Cam Smith,CB | South Carolina,AtlantaFalcons.com,2023-02-21,Pick 23 - Minnesota Vikings
+24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Anton Harrison,OT | Oklahoma,AtlantaFalcons.com,2023-02-21,Pick 24 - Jacksonville Jaguars
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,AtlantaFalcons.com,2023-02-21,Pick 25 - New York Giants
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Deonte Banks,CB | Maryland,AtlantaFalcons.com,2023-02-21,Pick 26 - Dallas Cowboys
+27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,S | Texas A&MPOPULAR,AtlantaFalcons.com,2023-02-21,Pick 27 - Buffalo Bills
+28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Darnell Washington,TE | Georgia,AtlantaFalcons.com,2023-02-21,Pick 28 - Cincinnati Bengals
+29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Keion White,EDGE | Georgia Tech,AtlantaFalcons.com,2023-02-21,Pick 29 - New Orleans Saints
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jahmyr Gibbs,RB | Alabama,AtlantaFalcons.com,2023-02-21,Pick 30 - Philadelphia Eagles
+31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Nolan Smith,EDGE | Georgia,AtlantaFalcons.com,2023-02-21,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,NFL.com,2023-02-21,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,NFL.com,2023-02-21,Pick 2 - Houston Texans
 3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Tyree Wilson,EDGE | Texas Tech,NFL.com,2023-02-21,Pick 3 - Arizona Cardinals
@@ -1619,7 +1774,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Brian Branch,CB | Alabama,NFL.com,2023-02-21,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Deonte Banks,CB | MarylandPOPULAR,NFL.com,2023-02-21,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Bryan Bresee,DL | Clemson,NFL.com,2023-02-21,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,NFL.com,2023-02-21,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,NFL.com,2023-02-21,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Keion White,EDGE | Georgia Tech,NFL.com,2023-02-21,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,O'Cyrus Torrence,IOL | Florida,NFL.com,2023-02-21,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Michael Mayer,TE | Notre Dame,NFL.com,2023-02-21,Pick 28 - Cincinnati Bengals
@@ -1651,7 +1806,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Cam Smith,CB | South Carolina,Buccaneers.com,2023-02-21,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Buccaneers.com,2023-02-21,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,Buccaneers.com,2023-02-21,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,Buccaneers.com,2023-02-21,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,Buccaneers.com,2023-02-21,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jordan Addison,WR | USC,Buccaneers.com,2023-02-21,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Deonte Banks,CB | Maryland,Buccaneers.com,2023-02-21,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Nolan Smith,EDGE | Georgia,Buccaneers.com,2023-02-21,Pick 29 - New Orleans Saints
@@ -1701,14 +1856,14 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Christian Gonzalez,CB | Oregon,33rd Team,2023-02-20,Pick 11 - Detroit Lions
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,33rd Team,2023-02-20,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Paris Johnson Jr.,OT | Ohio StatePOPULAR,33rd Team,2023-02-20,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | Alabama,33rd Team,2023-02-20,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Brian Branch,S | AlabamaPOPULAR,33rd Team,2023-02-20,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,33rd Team,2023-02-20,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Dalton Kincaid,TE | Utah,33rd Team,2023-02-20,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Joey Porter Jr.,CB | Penn State,33rd Team,2023-02-20,Pick 17 - Pittsburgh Steelers
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Trenton Simpson,LB | Clemson,33rd Team,2023-02-20,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jordan Addison,WR | USC,33rd Team,2023-02-20,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Emmanuel Forbes,CB | Mississippi State,33rd Team,2023-02-20,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,33rd Team,2023-02-20,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,33rd Team,2023-02-20,Pick 21 - Los Angeles Chargers
 22,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,33rd Team,2023-02-20,Pick 22 - Buffalo Bills
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Myles Murphy,EDGE | Clemson,33rd Team,2023-02-20,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kelee Ringo,CB | Georgia,33rd Team,2023-02-20,Pick 24 - Jacksonville Jaguars
@@ -1794,7 +1949,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Jaguars Wire,2023-02-20,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Jaguars Wire,2023-02-20,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,Jaguars Wire,2023-02-20,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Jaguars Wire,2023-02-20,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Jaguars Wire,2023-02-20,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jaxon Smith-Njigba,WR | Ohio State,Jaguars Wire,2023-02-20,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,Jaguars Wire,2023-02-20,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Devon Witherspoon,CB | Illinois,Jaguars Wire,2023-02-20,Pick 17 - Pittsburgh Steelers
@@ -1832,7 +1987,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Noah Sewell,LB | OregonRARE,Draft Utopia,2023-02-20,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Paris Johnson Jr.,OT | Ohio State,Draft Utopia,2023-02-20,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Bryan Bresee,DL | Clemson,Draft Utopia,2023-02-20,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Draft Utopia,2023-02-20,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Draft Utopia,2023-02-20,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jalin Hyatt,WR | Tennessee,Draft Utopia,2023-02-20,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,B.J. Ojulari,EDGE | LSU,Draft Utopia,2023-02-20,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,O'Cyrus Torrence,IOL | Florida,Draft Utopia,2023-02-20,Pick 24 - Jacksonville Jaguars
@@ -1856,7 +2011,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Quentin Johnston,WR | TCU,USA Today,2023-02-20,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Michael Mayer,TE | Notre Dame,USA Today,2023-02-20,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Paris Johnson Jr.,OT | Ohio StatePOPULAR,USA Today,2023-02-20,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,USA Today,2023-02-20,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,USA Today,2023-02-20,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Brian Branch,S | Alabama,USA Today,2023-02-20,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,USA Today,2023-02-20,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,USA Today,2023-02-20,Pick 17 - Pittsburgh Steelers
@@ -1868,7 +2023,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Nolan Smith,EDGE | Georgia,USA Today,2023-02-20,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dalton Kincaid,TE | UtahPOPULAR,USA Today,2023-02-20,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,USA Today,2023-02-20,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South Carolina,USA Today,2023-02-20,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,USA Today,2023-02-20,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,USA Today,2023-02-20,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Antonio Johnson,S | Texas A&M,USA Today,2023-02-20,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Lukas Van Ness,DL | IowaPOPULAR,USA Today,2023-02-20,Pick 29 - New Orleans Saints
@@ -2003,7 +2158,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bijan Robinson,RB | TexasPOPULAR,NFL Mocks,2023-02-18,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Calijah Kancey,DL | Pittsburgh,NFL Mocks,2023-02-18,Pick 19 - Tampa Bay Buccaneers
 20,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Mazi Smith,DL | MichiganRARE,NFL Mocks,2023-02-18,Pick 20 - Green Bay Packers
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,NFL Mocks,2023-02-18,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,NFL Mocks,2023-02-18,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,NFL Mocks,2023-02-18,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Cam Smith,CB | South Carolina,NFL Mocks,2023-02-18,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kelee Ringo,CB | Georgia,NFL Mocks,2023-02-18,Pick 24 - Jacksonville Jaguars
@@ -2027,7 +2182,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Pro Football Network,2023-02-18,Pick 11 - Tennessee Titans
 12,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | Georgia,Pro Football Network,2023-02-18,Pick 12 - Pittsburgh Steelers
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Peter Skoronski,OT | Northwestern,Pro Football Network,2023-02-18,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Pro Football Network,2023-02-18,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Pro Football Network,2023-02-18,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Quentin Johnston,WR | TCU,Pro Football Network,2023-02-18,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,O'Cyrus Torrence,IOL | Florida,Pro Football Network,2023-02-18,Pick 16 - Washington Commanders
 17,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,John Michael Schmitz,IOL | Minnesota,Pro Football Network,2023-02-18,Pick 17 - Houston Texans
@@ -2038,7 +2193,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,Pro Football Network,2023-02-18,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Devon Witherspoon,CB | Illinois,Pro Football Network,2023-02-18,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Luke Musgrave,TE | Oregon State,Pro Football Network,2023-02-18,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Cam Smith,CB | South CarolinaPOPULAR,Pro Football Network,2023-02-18,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Cam Smith,CB | South Carolina,Pro Football Network,2023-02-18,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Kelee Ringo,CB | Georgia,Pro Football Network,2023-02-18,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Michael Mayer,TE | Notre Dame,Pro Football Network,2023-02-18,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Anton Harrison,OT | OklahomaPOPULAR,Pro Football Network,2023-02-18,Pick 28 - Cincinnati Bengals
@@ -2105,7 +2260,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Antonio Johnson,CB | Texas A&MPOPULAR,Fantasy Pros,2023-02-18,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Anton Harrison,OT | OklahomaPOPULAR,Fantasy Pros,2023-02-18,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Bryan Bresee,DL | Clemson,Fantasy Pros,2023-02-18,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | PittsburghPOPULAR,Fantasy Pros,2023-02-18,Pick 30 - Philadelphia Eagles
+30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Calijah Kancey,DL | Pittsburgh,Fantasy Pros,2023-02-18,Pick 30 - Philadelphia Eagles
 31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jalin Hyatt,WR | Tennessee,Fantasy Pros,2023-02-18,Pick 31 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Browns Wire,2023-02-17,Pick 1 - Chicago Bears
 2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Browns Wire,2023-02-17,Pick 2 - Houston Texans
@@ -2120,7 +2275,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Browns Wire,2023-02-17,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Michael Mayer,TE | Notre Dame,Browns Wire,2023-02-17,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Broderick Jones,OT | Georgia,Browns Wire,2023-02-17,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Browns Wire,2023-02-17,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Browns Wire,2023-02-17,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Brian Branch,S | Alabama,Browns Wire,2023-02-17,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Deonte Banks,CB | Maryland,Browns Wire,2023-02-17,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Peter Skoronski,OT | Northwestern,Browns Wire,2023-02-17,Pick 17 - Pittsburgh Steelers
@@ -2224,7 +2379,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Bijan Robinson,RB | Texas,College Sports Wire,2023-02-17,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kelee Ringo,CB | Georgia,College Sports Wire,2023-02-17,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Cam Smith,CB | South Carolina,College Sports Wire,2023-02-17,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,College Sports Wire,2023-02-17,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,College Sports Wire,2023-02-17,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jaxon Smith-Njigba,WR | Ohio State,College Sports Wire,2023-02-17,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Dalton Kincaid,TE | Utah,College Sports Wire,2023-02-17,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dawand Jones,OT | Ohio State,College Sports Wire,2023-02-17,Pick 28 - Cincinnati Bengals
@@ -2423,11 +2578,11 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Siaki Ika,DL | Baylor,The Athletic,2023-02-17,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Emmanuel Forbes,CB | Mississippi State,The Athletic,2023-02-17,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Bryan Bresee,DL | Clemson,The Athletic,2023-02-17,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,The Athletic,2023-02-17,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,The Athletic,2023-02-17,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,The Athletic,2023-02-17,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Lukas Van Ness,DL | Iowa,The Athletic,2023-02-17,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,The Athletic,2023-02-17,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,The Athletic,2023-02-17,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,The Athletic,2023-02-17,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Bijan Robinson,RB | Texas,The Athletic,2023-02-17,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Branch,S | Alabama,The Athletic,2023-02-17,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,B.J. Ojulari,EDGE | LSU,The Athletic,2023-02-17,Pick 28 - Cincinnati Bengals
@@ -2454,11 +2609,11 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Isaiah Foskey,EDGE | Notre Dame,Fansided,2023-02-17,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Cam Smith,CB | South Carolina,Fansided,2023-02-17,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,O'Cyrus Torrence,IOL | FloridaPOPULAR,Fansided,2023-02-17,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Fansided,2023-02-17,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Fansided,2023-02-17,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,Fansided,2023-02-17,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Lukas Van Ness,LB | Iowa,Fansided,2023-02-17,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Zay Flowers,WR | Boston College,Fansided,2023-02-17,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,Fansided,2023-02-17,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,Fansided,2023-02-17,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Trenton Simpson,LB | Clemson,Fansided,2023-02-17,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,Fansided,2023-02-17,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Broderick Jones,OT | Georgia,Fansided,2023-02-17,Pick 28 - Cincinnati Bengals
@@ -2490,7 +2645,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bijan Robinson,RB | Texas,Draftwire,2023-02-16,Pick 23 - Detroit Lions
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Draftwire,2023-02-16,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaxon Smith-Njigba,WR | Ohio State,Draftwire,2023-02-16,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,Draftwire,2023-02-16,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,Draftwire,2023-02-16,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jahmyr Gibbs,RB | Alabama,Draftwire,2023-02-16,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Kelee Ringo,CB | Georgia,Draftwire,2023-02-16,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,O'Cyrus Torrence,IOL | Florida,Draftwire,2023-02-16,Pick 29 - New Orleans Saints
@@ -2516,7 +2671,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bryan Bresee,DL | Clemson,CBS,2023-02-16,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Broderick Jones,OT | Georgia,CBS,2023-02-16,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jordan Addison,WR | USC,CBS,2023-02-16,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,CBS,2023-02-16,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,CBS,2023-02-16,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Bijan Robinson,RB | Texas,CBS,2023-02-16,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kelee Ringo,CB | Georgia,CBS,2023-02-16,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dalton Kincaid,TE | UtahPOPULAR,CBS,2023-02-16,Pick 24 - Jacksonville Jaguars
@@ -2547,11 +2702,11 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bryan Bresee,DL | Clemson,Touchdown Wire,2023-02-16,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bijan Robinson,RB | Texas,Touchdown Wire,2023-02-16,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Keion White,DL | Georgia Tech,Touchdown Wire,2023-02-16,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,Touchdown Wire,2023-02-16,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,Touchdown Wire,2023-02-16,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jaxon Smith-Njigba,WR | Ohio StatePOPULAR,Touchdown Wire,2023-02-16,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kelee Ringo,CB | Georgia,Touchdown Wire,2023-02-16,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Clark Phillips III,CB | Utah,Touchdown Wire,2023-02-16,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,Touchdown Wire,2023-02-16,Pick 25 - New York Giants
+25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | TennesseePOPULAR,Touchdown Wire,2023-02-16,Pick 25 - New York Giants
 26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Kayshon Boutte,WR | LSURARE,Touchdown Wire,2023-02-16,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Anton Harrison,OT | Oklahoma,Touchdown Wire,2023-02-16,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dawand Jones,OT | Ohio State,Touchdown Wire,2023-02-16,Pick 28 - Cincinnati Bengals
@@ -2578,12 +2733,12 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devon Witherspoon,CB | Illinois,The Huddle Report,2023-02-16,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Trenton Simpson,LB | Clemson,The Huddle Report,2023-02-16,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Kelee Ringo,CB | Georgia,The Huddle Report,2023-02-16,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USC,The Huddle Report,2023-02-16,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jordan Addison,WR | USCPOPULAR,The Huddle Report,2023-02-16,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jalin Hyatt,WR | Tennessee,The Huddle Report,2023-02-16,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Brian Branch,S | Alabama,The Huddle Report,2023-02-16,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Antonio Johnson,S | Texas A&M,The Huddle Report,2023-02-16,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaxon Smith-Njigba,WR | Ohio State,The Huddle Report,2023-02-16,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South Carolina,The Huddle Report,2023-02-16,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Cam Smith,CB | South CarolinaPOPULAR,The Huddle Report,2023-02-16,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Drew Sanders,LB | Arkansas,The Huddle Report,2023-02-16,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Anton Harrison,OT | OklahomaPOPULAR,The Huddle Report,2023-02-16,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Anthony Richardson,QB | Florida,The Huddle Report,2023-02-16,Pick 29 - New Orleans Saints
@@ -2671,7 +2826,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Calijah Kancey,DL | Pittsburgh,Football Guys,2023-02-16,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bryan Bresee,DL | Clemson,Football Guys,2023-02-16,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Zay Flowers,WR | Boston College,Football Guys,2023-02-16,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,Football Guys,2023-02-16,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,Football Guys,2023-02-16,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Quentin Johnston,WR | TCU,Football Guys,2023-02-16,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Brian Branch,S | Alabama,Football Guys,2023-02-16,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Darnell Wright,OT | Tennessee,Football Guys,2023-02-16,Pick 24 - Jacksonville Jaguars
@@ -2702,12 +2857,12 @@ pick,team,team_img,player,player_details,source,date,team_pick
 18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Michael Mayer,TE | Notre Dame,CBS,2023-02-16,Pick 18 - Detroit Lions
 19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jaelyn Duncan,OT | MarylandRARE,CBS,2023-02-16,Pick 19 - Tampa Bay Buccaneers
 20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,John Michael Schmitz,IOL | Minnesota,CBS,2023-02-16,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | TennesseePOPULAR,CBS,2023-02-16,Pick 21 - Los Angeles Chargers
+21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jalin Hyatt,WR | Tennessee,CBS,2023-02-16,Pick 21 - Los Angeles Chargers
 22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Christian Gonzalez,CB | Oregon,CBS,2023-02-16,Pick 22 - Baltimore Ravens
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jaxon Smith-Njigba,WR | Ohio State,CBS,2023-02-16,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Brian Branch,S | Alabama,CBS,2023-02-16,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,O'Cyrus Torrence,IOL | Florida,CBS,2023-02-16,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,CBS,2023-02-16,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,CBS,2023-02-16,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Broderick Jones,OT | Georgia,CBS,2023-02-16,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Emmanuel Forbes,CB | Mississippi State,CBS,2023-02-16,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Bryan Bresee,DL | Clemson,CBS,2023-02-16,Pick 29 - New Orleans Saints
@@ -2850,7 +3005,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Camden News,2023-02-15,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Quentin Johnston,WR | TCUPOPULAR,Camden News,2023-02-15,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brian Branch,S | Alabama,Camden News,2023-02-15,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Camden News,2023-02-15,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Camden News,2023-02-15,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,Camden News,2023-02-15,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Devon Witherspoon,CB | Illinois,Camden News,2023-02-15,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,Camden News,2023-02-15,Pick 17 - Pittsburgh Steelers
@@ -2893,7 +3048,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Keion White,EDGE | Georgia Tech,Buccaneers.com,2023-02-15,Pick 23 - Minnesota Vikings
 24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Buccaneers.com,2023-02-15,Pick 24 - Jacksonville Jaguars
 25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Zay Flowers,WR | Boston College,Buccaneers.com,2023-02-15,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | ArkansasPOPULAR,Buccaneers.com,2023-02-15,Pick 26 - Dallas Cowboys
+26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Drew Sanders,LB | Arkansas,Buccaneers.com,2023-02-15,Pick 26 - Dallas Cowboys
 27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Bijan Robinson,RB | Texas,Buccaneers.com,2023-02-15,Pick 27 - Buffalo Bills
 28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Emmanuel Forbes,CB | Mississippi State,Buccaneers.com,2023-02-15,Pick 28 - Cincinnati Bengals
 29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Nolan Smith,EDGE | Georgia,Buccaneers.com,2023-02-15,Pick 29 - New Orleans Saints
@@ -2943,7 +3098,7 @@ pick,team,team_img,player,player_details,source,date,team_pick
 11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Bleeding Green Nation,2023-02-14,Pick 11 - Tennessee Titans
 12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jaxon Smith-Njigba,WR | Ohio State,Bleeding Green Nation,2023-02-14,Pick 12 - Houston Texans
 13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,O'Cyrus Torrence,IOL | Florida,Bleeding Green Nation,2023-02-14,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USCPOPULAR,Bleeding Green Nation,2023-02-14,Pick 14 - New England Patriots
+14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jordan Addison,WR | USC,Bleeding Green Nation,2023-02-14,Pick 14 - New England Patriots
 15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Devon Witherspoon,CB | Illinois,Bleeding Green Nation,2023-02-14,Pick 15 - Green Bay Packers
 16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Brian Branch,S | Alabama,Bleeding Green Nation,2023-02-14,Pick 16 - Washington Commanders
 17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Kelee Ringo,CB | Georgia,Bleeding Green Nation,2023-02-14,Pick 17 - Pittsburgh Steelers
@@ -3023,158 +3178,3 @@ pick,team,team_img,player,player_details,source,date,team_pick
 29,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Will McDonald IV,EDGE | Iowa StateRARE,Clutch Points,2023-02-14,Pick 29 - Pittsburgh Steelers
 30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Antonio Johnson,S | Texas A&M,Clutch Points,2023-02-14,Pick 30 - Philadelphia Eagles
 31,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Tanner McKee,QB | StanfordRARE,Clutch Points,2023-02-14,Pick 31 - Las Vegas Raiders
-1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | AlabamaPOPULAR,Football Outsiders,2023-02-14,Pick 1 - Chicago Bears
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Football Outsiders,2023-02-14,Pick 2 - Houston Texans
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,Football Outsiders,2023-02-14,Pick 3 - Arizona Cardinals
-4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Will Levis,QB | Kentucky,Football Outsiders,2023-02-14,Pick 4 - Indianapolis Colts
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Tyree Wilson,EDGE | Texas TechPOPULAR,Football Outsiders,2023-02-14,Pick 5 - Seattle Seahawks
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Joey Porter Jr.,CB | Penn State,Football Outsiders,2023-02-14,Pick 6 - Detroit Lions
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,C.J. Stroud,QB | Ohio State,Football Outsiders,2023-02-14,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Football Outsiders,2023-02-14,Pick 8 - Atlanta Falcons
-9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Anthony Richardson,QB | FloridaPOPULAR,Football Outsiders,2023-02-14,Pick 9 - Carolina Panthers
-10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devon Witherspoon,CB | IllinoisPOPULAR,Football Outsiders,2023-02-14,Pick 10 - Philadelphia Eagles
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Football Outsiders,2023-02-14,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jordan Addison,WR | USC,Football Outsiders,2023-02-14,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Paris Johnson Jr.,OT | Ohio StatePOPULAR,Football Outsiders,2023-02-14,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Dalton Kincaid,TE | Utah,Football Outsiders,2023-02-14,Pick 14 - New England Patriots
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Lukas Van Ness,EDGE | Iowa,Football Outsiders,2023-02-14,Pick 15 - Green Bay Packers
-16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Christian Gonzalez,CB | Oregon,Football Outsiders,2023-02-14,Pick 16 - Washington Commanders
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,Football Outsiders,2023-02-14,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Keion White,EDGE | Georgia Tech,Football Outsiders,2023-02-14,Pick 18 - Detroit Lions
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bijan Robinson,RB | Texas,Football Outsiders,2023-02-14,Pick 19 - Tampa Bay Buccaneers
-20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Drew Sanders,LB | Arkansas,Football Outsiders,2023-02-14,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Darnell Wright,OT | Tennessee,Football Outsiders,2023-02-14,Pick 21 - Los Angeles Chargers
-22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Quentin Johnston,WR | TCU,Football Outsiders,2023-02-14,Pick 22 - Baltimore Ravens
-23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Joe Tippmann,IOL | WisconsinRARE,Football Outsiders,2023-02-14,Pick 23 - Minnesota Vikings
-24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Emmanuel Forbes,CB | Mississippi State,Football Outsiders,2023-02-14,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jalin Hyatt,WR | Tennessee,Football Outsiders,2023-02-14,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Darnell Washington,TE | Georgia,Football Outsiders,2023-02-14,Pick 26 - Dallas Cowboys
-27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Branch,S | Alabama,Football Outsiders,2023-02-14,Pick 27 - Buffalo Bills
-28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,O'Cyrus Torrence,IOL | Florida,Football Outsiders,2023-02-14,Pick 28 - Cincinnati Bengals
-29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Calijah Kancey,DL | Pittsburgh,Football Outsiders,2023-02-14,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nolan Smith,EDGE | Georgia,Football Outsiders,2023-02-14,Pick 30 - Philadelphia Eagles
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Derick Hall,EDGE | Auburn,Football Outsiders,2023-02-14,Pick 31 - Kansas City Chiefs
-1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,C.J. Stroud,QB | Ohio State,Pro Football Network,2023-02-14,Pick 1 - Indianapolis Colts
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Bryce Young,QB | AlabamaPOPULAR,Pro Football Network,2023-02-14,Pick 2 - Houston Texans
-3,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Anthony Richardson,QB | Florida,Pro Football Network,2023-02-14,Pick 3 - Carolina Panthers
-4,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | Alabama,Pro Football Network,2023-02-14,Pick 4 - Chicago Bears
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Myles Murphy,EDGE | Clemson,Pro Football Network,2023-02-14,Pick 5 - Seattle Seahawks
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jalen Carter,DL | Georgia,Pro Football Network,2023-02-14,Pick 6 - Detroit Lions
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Will Levis,QB | KentuckyPOPULAR,Pro Football Network,2023-02-14,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Joey Porter Jr.,CB | Penn State,Pro Football Network,2023-02-14,Pick 8 - Atlanta Falcons
-9,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Christian Gonzalez,CB | Oregon,Pro Football Network,2023-02-14,Pick 9 - Arizona Cardinals
-10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devon Witherspoon,CB | IllinoisPOPULAR,Pro Football Network,2023-02-14,Pick 10 - Philadelphia Eagles
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Pro Football Network,2023-02-14,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Tyree Wilson,EDGE | Texas Tech,Pro Football Network,2023-02-14,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brian Branch,S | Alabama,Pro Football Network,2023-02-14,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Quentin Johnston,WR | TCU,Pro Football Network,2023-02-14,Pick 14 - New England Patriots
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jordan Addison,WR | USC,Pro Football Network,2023-02-14,Pick 15 - Green Bay Packers
-16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Cam Smith,CB | South Carolina,Pro Football Network,2023-02-14,Pick 16 - Washington Commanders
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Broderick Jones,OT | GeorgiaPOPULAR,Pro Football Network,2023-02-14,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kelee Ringo,CB | Georgia,Pro Football Network,2023-02-14,Pick 18 - Detroit Lions
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,O'Cyrus Torrence,IOL | Florida,Pro Football Network,2023-02-14,Pick 19 - Tampa Bay Buccaneers
-20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Bryan Bresee,DL | Clemson,Pro Football Network,2023-02-14,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Zay Flowers,WR | Boston College,Pro Football Network,2023-02-14,Pick 21 - Los Angeles Chargers
-22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Emmanuel Forbes,CB | Mississippi State,Pro Football Network,2023-02-14,Pick 22 - Baltimore Ravens
-23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,John Michael Schmitz,IOL | Minnesota,Pro Football Network,2023-02-14,Pick 23 - Minnesota Vikings
-24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Pro Football Network,2023-02-14,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Bijan Robinson,RB | Texas,Pro Football Network,2023-02-14,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jahmyr Gibbs,RB | Alabama,Pro Football Network,2023-02-14,Pick 26 - Dallas Cowboys
-27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,J.L. Skinner,S | Boise StateRARE,Pro Football Network,2023-02-14,Pick 27 - Buffalo Bills
-28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Dalton Kincaid,TE | Utah,Pro Football Network,2023-02-14,Pick 28 - Cincinnati Bengals
-29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Jaxon Smith-Njigba,WR | Ohio State,Pro Football Network,2023-02-14,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Trenton Simpson,LB | Clemson,Pro Football Network,2023-02-14,Pick 30 - Philadelphia Eagles
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Dawand Jones,OT | Ohio State,Pro Football Network,2023-02-14,Pick 31 - Kansas City Chiefs
-1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,College Football News,2023-02-14,Pick 1 - Chicago Bears
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Will Levis,QB | Kentucky,College Football News,2023-02-14,Pick 2 - Houston Texans
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,EDGE | Alabama,College Football News,2023-02-14,Pick 3 - Arizona Cardinals
-4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Bryce Young,QB | Alabama,College Football News,2023-02-14,Pick 4 - Indianapolis Colts
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,C.J. Stroud,QB | Ohio State,College Football News,2023-02-14,Pick 5 - Seattle Seahawks
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Tyree Wilson,EDGE | Texas Tech,College Football News,2023-02-14,Pick 6 - Detroit Lions
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Peter Skoronski,OT | Northwestern,College Football News,2023-02-14,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,College Football News,2023-02-14,Pick 8 - Atlanta Falcons
-9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Anthony Richardson,QB | FloridaPOPULAR,College Football News,2023-02-14,Pick 9 - Carolina Panthers
-10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Joey Porter Jr.,CB | Penn State,College Football News,2023-02-14,Pick 10 - Philadelphia Eagles
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,College Football News,2023-02-14,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Michael Mayer,TE | Notre Dame,College Football News,2023-02-14,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Broderick Jones,OT | Georgia,College Football News,2023-02-14,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Lukas Van Ness,DL | Iowa,College Football News,2023-02-14,Pick 14 - New England Patriots
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Bryan Bresee,DL | Clemson,College Football News,2023-02-14,Pick 15 - Green Bay Packers
-16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Kelee Ringo,CB | Georgia,College Football News,2023-02-14,Pick 16 - Washington Commanders
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Devon Witherspoon,CB | Illinois,College Football News,2023-02-14,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Christian Gonzalez,CB | Oregon,College Football News,2023-02-14,Pick 18 - Detroit Lions
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Bijan Robinson,RB | Texas,College Football News,2023-02-14,Pick 19 - Tampa Bay Buccaneers
-20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Siaki Ika,DL | Baylor,College Football News,2023-02-14,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,O'Cyrus Torrence,IOL | Florida,College Football News,2023-02-14,Pick 21 - Los Angeles Chargers
-22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Quentin Johnston,WR | TCU,College Football News,2023-02-14,Pick 22 - Baltimore Ravens
-23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Cam Smith,CB | South Carolina,College Football News,2023-02-14,Pick 23 - Minnesota Vikings
-24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Anton Harrison,OT | Oklahoma,College Football News,2023-02-14,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaxon Smith-Njigba,WR | Ohio State,College Football News,2023-02-14,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Addison,WR | USC,College Football News,2023-02-14,Pick 26 - Dallas Cowboys
-27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Branch,S | Alabama,College Football News,2023-02-14,Pick 27 - Buffalo Bills
-28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Jaelyn Duncan,OT | MarylandRARE,College Football News,2023-02-14,Pick 28 - Cincinnati Bengals
-29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,John Michael Schmitz,IOL | Minnesota,College Football News,2023-02-14,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Isaiah Foskey,EDGE | Notre Dame,College Football News,2023-02-14,Pick 30 - Philadelphia Eagles
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Dalton Kincaid,TE | Utah,College Football News,2023-02-14,Pick 31 - Kansas City Chiefs
-1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Will Anderson Jr.,EDGE | AlabamaPOPULAR,Fox Sports,2023-02-13,Pick 1 - Chicago Bears
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,Fox Sports,2023-02-13,Pick 2 - Houston Texans
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jalen Carter,DL | GeorgiaPOPULAR,Fox Sports,2023-02-13,Pick 3 - Arizona Cardinals
-4,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Will Levis,QB | Kentucky,Fox Sports,2023-02-13,Pick 4 - Indianapolis Colts
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Myles Murphy,EDGE | Clemson,Fox Sports,2023-02-13,Pick 5 - Seattle Seahawks
-6,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Bryce Young,QB | Alabama,Fox Sports,2023-02-13,Pick 6 - Detroit Lions
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Broderick Jones,OT | Georgia,Fox Sports,2023-02-13,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Tyree Wilson,EDGE | Texas Tech,Fox Sports,2023-02-13,Pick 8 - Atlanta Falcons
-9,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Bryan Bresee,DL | Clemson,Fox Sports,2023-02-13,Pick 9 - Carolina Panthers
-10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Devon Witherspoon,CB | IllinoisPOPULAR,Fox Sports,2023-02-13,Pick 10 - Philadelphia Eagles
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Peter Skoronski,OT | NorthwesternPOPULAR,Fox Sports,2023-02-13,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Nolan Smith,EDGE | Georgia,Fox Sports,2023-02-13,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Paris Johnson Jr.,OT | Ohio StatePOPULAR,Fox Sports,2023-02-13,Pick 13 - New York Jets
-14,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Zay Flowers,WR | Boston College,Fox Sports,2023-02-13,Pick 14 - New England Patriots
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Michael Mayer,TE | Notre DamePOPULAR,Fox Sports,2023-02-13,Pick 15 - Green Bay Packers
-16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,Fox Sports,2023-02-13,Pick 16 - Washington Commanders
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Anton Harrison,OT | Oklahoma,Fox Sports,2023-02-13,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Christian Gonzalez,CB | Oregon,Fox Sports,2023-02-13,Pick 18 - Detroit Lions
-19,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Lukas Van Ness,EDGE | Iowa,Fox Sports,2023-02-13,Pick 19 - Tampa Bay Buccaneers
-20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Brian Branch,S | Alabama,Fox Sports,2023-02-13,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Isaiah Foskey,EDGE | Notre Dame,Fox Sports,2023-02-13,Pick 21 - Los Angeles Chargers
-22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Cam Smith,CB | South Carolina,Fox Sports,2023-02-13,Pick 22 - Baltimore Ravens
-23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Kelee Ringo,CB | Georgia,Fox Sports,2023-02-13,Pick 23 - Minnesota Vikings
-24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Jordan Addison,WR | USC,Fox Sports,2023-02-13,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Jaxon Smith-Njigba,WR | Ohio State,Fox Sports,2023-02-13,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Dalton Kincaid,TE | Utah,Fox Sports,2023-02-13,Pick 26 - Dallas Cowboys
-27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Tuli Tuipulotu,DL | USCRARE,Fox Sports,2023-02-13,Pick 27 - Buffalo Bills
-28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Emmanuel Forbes,CB | Mississippi State,Fox Sports,2023-02-13,Pick 28 - Cincinnati Bengals
-29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Anthony Richardson,QB | Florida,Fox Sports,2023-02-13,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Laiatu Latu,EDGE | UCLAINELIGIBLE,Fox Sports,2023-02-13,Pick 30 - Philadelphia Eagles
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Cody Mauch,IOL | North Dakota StateRARE,Fox Sports,2023-02-13,Pick 31 - Kansas City Chiefs
-1,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Anthony Richardson,QB | Florida,Barstool Sports,2023-02-13,Pick 1 - Indianapolis Colts
-2,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,C.J. Stroud,QB | Ohio State,Barstool Sports,2023-02-13,Pick 2 - Houston Texans
-3,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Will Anderson Jr.,EDGE | Alabama,Barstool Sports,2023-02-13,Pick 3 - Arizona Cardinals
-4,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jalen Carter,DL | Georgia,Barstool Sports,2023-02-13,Pick 4 - Chicago Bears
-5,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Tyree Wilson,EDGE | Texas TechPOPULAR,Barstool Sports,2023-02-13,Pick 5 - Seattle Seahawks
-6,Carolina Panthers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/panthers.svg,Bryce Young,QB | Alabama,Barstool Sports,2023-02-13,Pick 6 - Carolina Panthers
-7,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Christian Gonzalez,CB | Oregon,Barstool Sports,2023-02-13,Pick 7 - Las Vegas Raiders
-8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Myles Murphy,EDGE | ClemsonPOPULAR,Barstool Sports,2023-02-13,Pick 8 - Atlanta Falcons
-9,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Devon Witherspoon,CB | Illinois,Barstool Sports,2023-02-13,Pick 9 - Detroit Lions
-10,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nolan Smith,EDGE | Georgia,Barstool Sports,2023-02-13,Pick 10 - Philadelphia Eagles
-11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Paris Johnson Jr.,OT | Ohio State,Barstool Sports,2023-02-13,Pick 11 - Tennessee Titans
-12,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Peter Skoronski,OT | Northwestern,Barstool Sports,2023-02-13,Pick 12 - Houston Texans
-13,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Broderick Jones,OT | Georgia,Barstool Sports,2023-02-13,Pick 13 - New York Jets
-14,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Will Levis,QB | Kentucky,Barstool Sports,2023-02-13,Pick 14 - Tampa Bay Buccaneers
-15,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jordan Addison,WR | USC,Barstool Sports,2023-02-13,Pick 15 - Green Bay Packers
-16,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Joey Porter Jr.,CB | Penn StatePOPULAR,Barstool Sports,2023-02-13,Pick 16 - Washington Commanders
-17,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jaxon Smith-Njigba,WR | Ohio State,Barstool Sports,2023-02-13,Pick 17 - Pittsburgh Steelers
-18,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Cam Smith,CB | South Carolina,Barstool Sports,2023-02-13,Pick 18 - Detroit Lions
-19,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Quentin Johnston,WR | TCU,Barstool Sports,2023-02-13,Pick 19 - New England Patriots
-20,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Calijah Kancey,DL | Pittsburgh,Barstool Sports,2023-02-13,Pick 20 - Seattle Seahawks
-21,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Bryan Bresee,DL | Clemson,Barstool Sports,2023-02-13,Pick 21 - Los Angeles Chargers
-22,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Josh Downs,WR | North Carolina,Barstool Sports,2023-02-13,Pick 22 - Baltimore Ravens
-23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Brian Branch,S | Alabama,Barstool Sports,2023-02-13,Pick 23 - Minnesota Vikings
-24,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Michael Mayer,TE | Notre Dame,Barstool Sports,2023-02-13,Pick 24 - Jacksonville Jaguars
-25,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,John Michael Schmitz,IOL | Minnesota,Barstool Sports,2023-02-13,Pick 25 - New York Giants
-26,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Emmanuel Forbes,CB | Mississippi State,Barstool Sports,2023-02-13,Pick 26 - Dallas Cowboys
-27,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,O'Cyrus Torrence,IOL | Florida,Barstool Sports,2023-02-13,Pick 27 - Buffalo Bills
-28,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Darnell Washington,TE | Georgia,Barstool Sports,2023-02-13,Pick 28 - Cincinnati Bengals
-29,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Zay Flowers,WR | Boston College,Barstool Sports,2023-02-13,Pick 29 - New Orleans Saints
-30,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Jammie Robinson,S | Florida StateRARE,Barstool Sports,2023-02-13,Pick 30 - Philadelphia Eagles
-31,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Lukas Van Ness,EDGE | Iowa,Barstool Sports,2023-02-13,Pick 31 - Kansas City Chiefs
