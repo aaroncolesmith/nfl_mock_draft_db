@@ -127,6 +127,38 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Morgan,OT | ArizonaPOPULAR,CBS,2024-04-25,Pick 30 - Baltimore Ravens
 31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Darius Robinson,EDGE | Missouri,CBS,2024-04-25,Pick 31 - San Francisco 49Ers
 32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Kingsley Suamataia,OT | BYU,CBS,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Draft Utopia,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Draft Utopia,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Draft Utopia,2024-04-25,Pick 3 - New England Patriots
+4,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Draft Utopia,2024-04-25,Pick 4 - Minnesota Vikings
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Marvin Harrison Jr.,WR | Ohio State,Draft Utopia,2024-04-25,Pick 5 - Los Angeles Chargers
+6,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Malik Nabers,WR | LSU,Draft Utopia,2024-04-25,Pick 6 - Arizona Cardinals
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Draft Utopia,2024-04-25,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Laiatu Latu,EDGE | UCLA,Draft Utopia,2024-04-25,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Dallas Turner,EDGE | Alabama,Draft Utopia,2024-04-25,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Draft Utopia,2024-04-25,Pick 10 - New York Jets
+11,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | Washington,Draft Utopia,2024-04-25,Pick 11 - New York Giants
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Quinyon Mitchell,CB | Toledo,Draft Utopia,2024-04-25,Pick 12 - Philadelphia Eagles
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Olumuyiwa Fashanu,OT | Penn State,Draft Utopia,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,J.C. Latham,OT | Alabama,Draft Utopia,2024-04-25,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Terrion Arnold,CB | Alabama,Draft Utopia,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,Draft Utopia,2024-04-25,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Nate Wiggins,CB | Clemson,Draft Utopia,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Amarius Mims,OT | Georgia,Draft Utopia,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Byron Murphy,DL | Texas,Draft Utopia,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Brian Thomas Jr.,WR | LSU,Draft Utopia,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jackson Powers-Johnson,IOL | Oregon,Draft Utopia,2024-04-25,Pick 21 - Miami Dolphins
+22,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,Draft Utopia,2024-04-25,Pick 22 - Denver Broncos
+23,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Darius Robinson,EDGE | Missouri,Draft Utopia,2024-04-25,Pick 23 - Arizona Cardinals
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Taliese Fuaga,OT | Oregon State,Draft Utopia,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,Draft Utopia,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,Draft Utopia,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Graham Barton,IOL | Duke,Draft Utopia,2024-04-25,Pick 27 - New York Giants
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Xavier Worthy,WR | Texas,Draft Utopia,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,Draft Utopia,2024-04-25,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Demeioun Robinson,EDGE | Penn State,Draft Utopia,2024-04-25,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jer'Zhan Newton,DL | Illinois,Draft Utopia,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Kingsley Suamataia,OT | BYU,Draft Utopia,2024-04-25,Pick 32 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,USA Today,2024-04-25,Pick 1 - Chicago Bears
 2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,USA Today,2024-04-25,Pick 2 - Washington Commanders
 3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,USA Today,2024-04-25,Pick 3 - New England Patriots
@@ -255,6 +287,38 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Amarius Mims,OT | Georgia,Draft Utopia,2024-04-25,Pick 30 - Baltimore Ravens
 31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Kamren Kinchens,S | Miami (FL)RARE,Draft Utopia,2024-04-25,Pick 31 - San Francisco 49Ers
 32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Worthy,WR | TexasPOPULAR,Draft Utopia,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,0-Tech Draft,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Drake Maye,QB | North Carolina,0-Tech Draft,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jayden Daniels,QB | LSU,0-Tech Draft,2024-04-25,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,0-Tech Draft,2024-04-25,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Malik Nabers,WR | LSUPOPULAR,0-Tech Draft,2024-04-25,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,0-Tech Draft,2024-04-25,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,0-Tech Draft,2024-04-25,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,0-Tech Draft,2024-04-25,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jared Verse,EDGE | Florida State,0-Tech Draft,2024-04-25,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,0-Tech Draft,2024-04-25,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,0-Tech Draft,2024-04-25,Pick 11 - Minnesota Vikings
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Laiatu Latu,EDGE | UCLA,0-Tech Draft,2024-04-25,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Byron Murphy,DL | Texas,0-Tech Draft,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,0-Tech Draft,2024-04-25,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Quinyon Mitchell,CB | ToledoPOPULAR,0-Tech Draft,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,0-Tech Draft,2024-04-25,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,0-Tech Draft,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Taliese Fuaga,OT | Oregon State,0-Tech Draft,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jer'Zhan Newton,DL | Illinois,0-Tech Draft,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jackson Powers-Johnson,IOL | Oregon,0-Tech Draft,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,J.C. Latham,OT | Alabama,0-Tech Draft,2024-04-25,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Kool-Aid McKinstry,CB | Alabama,0-Tech Draft,2024-04-25,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Demeioun Robinson,EDGE | Penn State,0-Tech Draft,2024-04-25,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Amarius Mims,OT | Georgia,0-Tech Draft,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,0-Tech Draft,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Nate Wiggins,CB | Clemson,0-Tech Draft,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Graham Barton,IOL | Duke,0-Tech Draft,2024-04-25,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,0-Tech Draft,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Darius Robinson,EDGE | MissouriPOPULAR,0-Tech Draft,2024-04-25,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Adonai Mitchell,WR | Texas,0-Tech Draft,2024-04-25,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jordan Morgan,OT | Arizona,0-Tech Draft,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,0-Tech Draft,2024-04-25,Pick 32 - Kansas City Chiefs
 1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,The Ringer,2024-04-25,Pick 1 - Chicago Bears
 2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,The Ringer,2024-04-25,Pick 2 - Washington Commanders
 3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,J.J. McCarthy,QB | Michigan,The Ringer,2024-04-25,Pick 3 - New England Patriots
@@ -1023,3 +1087,963 @@ pick,team,team_img,player,player_details,source,date,team_pick
 30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kool-Aid McKinstry,CB | Alabama,NFL Draft Lounge,2024-04-25,Pick 30 - Baltimore Ravens
 31,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | Washington,NFL Draft Lounge,2024-04-25,Pick 31 - Las Vegas Raiders
 32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jordan Morgan,OT | Arizona,NFL Draft Lounge,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Pro Football Focus,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Pro Football Focus,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Pro Football Focus,2024-04-25,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Pro Football Focus,2024-04-25,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,Pro Football Focus,2024-04-25,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Pro Football Focus,2024-04-25,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Pro Football Focus,2024-04-25,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Pro Football Focus,2024-04-25,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,Pro Football Focus,2024-04-25,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,Pro Football Focus,2024-04-25,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,Pro Football Focus,2024-04-25,Pick 11 - Minnesota Vikings
+12,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Troy Fautanu,OT | Washington,Pro Football Focus,2024-04-25,Pick 12 - Los Angeles Rams
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | WashingtonPOPULAR,Pro Football Focus,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Pro Football Focus,2024-04-25,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,Pro Football Focus,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Taliese Fuaga,OT | Oregon State,Pro Football Focus,2024-04-25,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,Pro Football Focus,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Amarius Mims,OT | Georgia,Pro Football Focus,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Laiatu Latu,EDGE | UCLA,Pro Football Focus,2024-04-25,Pick 19 - Denver Broncos
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,Pro Football Focus,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jer'Zhan Newton,DL | Illinois,Pro Football Focus,2024-04-25,Pick 21 - Arizona Cardinals
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Quinyon Mitchell,CB | Toledo,Pro Football Focus,2024-04-25,Pick 22 - Philadelphia Eagles
+23,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,Pro Football Focus,2024-04-25,Pick 23 - Baltimore Ravens
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Morgan,OT | Arizona,Pro Football Focus,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,Pro Football Focus,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,Pro Football Focus,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Xavier Worthy,WR | Texas,Pro Football Focus,2024-04-25,Pick 27 - Miami Dolphins
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,Pro Football Focus,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Demeioun Robinson,EDGE | Penn State,Pro Football Focus,2024-04-25,Pick 29 - Detroit Lions
+30,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Braden Fiske,DL | Florida State,Pro Football Focus,2024-04-25,Pick 30 - Minnesota Vikings
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Xavier Legette,WR | South Carolina,Pro Football Focus,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Adonai Mitchell,WR | Texas,Pro Football Focus,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Draft Sharks,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Draft Sharks,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Draft Sharks,2024-04-25,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Draft Sharks,2024-04-25,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Draft Sharks,2024-04-25,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Draft Sharks,2024-04-25,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Draft Sharks,2024-04-25,Pick 7 - Tennessee Titans
+8,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,Draft Sharks,2024-04-25,Pick 8 - New York Jets
+9,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn State,Draft Sharks,2024-04-25,Pick 9 - New Orleans Saints
+10,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | Alabama,Draft Sharks,2024-04-25,Pick 10 - Atlanta Falcons
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,Draft Sharks,2024-04-25,Pick 11 - Los Angeles Chargers
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Brock Bowers,TE | Georgia,Draft Sharks,2024-04-25,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Taliese Fuaga,OT | Oregon State,Draft Sharks,2024-04-25,Pick 13 - Las Vegas Raiders
+14,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jared Verse,EDGE | Florida State,Draft Sharks,2024-04-25,Pick 14 - Chicago Bears
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Quinyon Mitchell,CB | ToledoPOPULAR,Draft Sharks,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Byron Murphy,DL | Texas,Draft Sharks,2024-04-25,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,Draft Sharks,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Troy Fautanu,OT | Washington,Draft Sharks,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Laiatu Latu,EDGE | UCLAPOPULAR,Draft Sharks,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,Draft Sharks,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jer'Zhan Newton,DL | IllinoisPOPULAR,Draft Sharks,2024-04-25,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Amarius Mims,OT | Georgia,Draft Sharks,2024-04-25,Pick 22 - Philadelphia Eagles
+23,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | Washington,Draft Sharks,2024-04-25,Pick 23 - Las Vegas Raiders
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Guyton,OT | OklahomaPOPULAR,Draft Sharks,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,Draft Sharks,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Demeioun Robinson,EDGE | Penn StatePOPULAR,Draft Sharks,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Darius Robinson,EDGE | Missouri,Draft Sharks,2024-04-25,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,Draft Sharks,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,Draft Sharks,2024-04-25,Pick 29 - Detroit Lions
+30,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,Draft Sharks,2024-04-25,Pick 30 - Denver Broncos
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Xavier Worthy,WR | Texas,Draft Sharks,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Adonai Mitchell,WR | Texas,Draft Sharks,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,The Draft Network,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,The Draft Network,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,The Draft Network,2024-04-25,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,The Draft Network,2024-04-25,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,The Draft Network,2024-04-25,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,The Draft Network,2024-04-25,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,The Draft Network,2024-04-25,Pick 7 - Tennessee Titans
+8,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,The Draft Network,2024-04-25,Pick 8 - New York Jets
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,The Draft Network,2024-04-25,Pick 9 - Chicago Bears
+10,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | Alabama,The Draft Network,2024-04-25,Pick 10 - Atlanta Falcons
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,The Draft Network,2024-04-25,Pick 11 - Los Angeles Chargers
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Terrion Arnold,CB | Alabama,The Draft Network,2024-04-25,Pick 12 - Philadelphia Eagles
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Taliese Fuaga,OT | Oregon State,The Draft Network,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,The Draft Network,2024-04-25,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,The Draft Network,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,The Draft Network,2024-04-25,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,The Draft Network,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Kool-Aid McKinstry,CB | Alabama,The Draft Network,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Laiatu Latu,EDGE | UCLAPOPULAR,The Draft Network,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Amarius Mims,OT | Georgia,The Draft Network,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jer'Zhan Newton,DL | IllinoisPOPULAR,The Draft Network,2024-04-25,Pick 21 - Miami Dolphins
+22,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,The Draft Network,2024-04-25,Pick 22 - Denver Broncos
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Brian Thomas Jr.,WR | LSU,The Draft Network,2024-04-25,Pick 23 - Los Angeles Chargers
+24,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Adonai Mitchell,WR | Texas,The Draft Network,2024-04-25,Pick 24 - Kansas City Chiefs
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Graham Barton,IOL | Duke,The Draft Network,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,The Draft Network,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Nate Wiggins,CB | Clemson,The Draft Network,2024-04-25,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Xavier Worthy,WR | Texas,The Draft Network,2024-04-25,Pick 28 - Buffalo Bills
+29,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Patrick Paul,OT | HoustonRARE,The Draft Network,2024-04-25,Pick 29 - Washington Commanders
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Morgan,OT | ArizonaPOPULAR,The Draft Network,2024-04-25,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Roger Rosengarten,OT | WashingtonRARE,The Draft Network,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jackson Powers-Johnson,IOL | Oregon,The Draft Network,2024-04-25,Pick 32 - Dallas Cowboys
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Underdog Fantasy,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Underdog Fantasy,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Underdog Fantasy,2024-04-25,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Underdog Fantasy,2024-04-25,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,Underdog Fantasy,2024-04-25,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,Underdog Fantasy,2024-04-25,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Underdog Fantasy,2024-04-25,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Malik Nabers,WR | LSU,Underdog Fantasy,2024-04-25,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,Underdog Fantasy,2024-04-25,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Taliese Fuaga,OT | Oregon State,Underdog Fantasy,2024-04-25,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,Underdog Fantasy,2024-04-25,Pick 11 - Minnesota Vikings
+12,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,Underdog Fantasy,2024-04-25,Pick 12 - Indianapolis Colts
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,Underdog Fantasy,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Underdog Fantasy,2024-04-25,Pick 14 - New Orleans Saints
+15,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Dallas Turner,EDGE | Alabama,Underdog Fantasy,2024-04-25,Pick 15 - Denver Broncos
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Cooper DeJean,CB | Iowa,Underdog Fantasy,2024-04-25,Pick 16 - Seattle Seahawks
+17,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Laiatu Latu,EDGE | UCLA,Underdog Fantasy,2024-04-25,Pick 17 - Arizona Cardinals
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Quinyon Mitchell,CB | Toledo,Underdog Fantasy,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Xavier Worthy,WR | Texas,Underdog Fantasy,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,Underdog Fantasy,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jared Verse,EDGE | Florida State,Underdog Fantasy,2024-04-25,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Amarius Mims,OT | Georgia,Underdog Fantasy,2024-04-25,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jer'Zhan Newton,DL | Illinois,Underdog Fantasy,2024-04-25,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Troy Fautanu,OT | Washington,Underdog Fantasy,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Tyler Guyton,OT | Oklahoma,Underdog Fantasy,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Demeioun Robinson,EDGE | Penn StatePOPULAR,Underdog Fantasy,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kool-Aid McKinstry,CB | Alabama,Underdog Fantasy,2024-04-25,Pick 27 - Jacksonville Jaguars
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,Underdog Fantasy,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Darius Robinson,EDGE | MissouriPOPULAR,Underdog Fantasy,2024-04-25,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Morgan,OT | ArizonaPOPULAR,Underdog Fantasy,2024-04-25,Pick 30 - Baltimore Ravens
+31,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | Washington,Underdog Fantasy,2024-04-25,Pick 31 - Las Vegas Raiders
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Kingsley Suamataia,OT | BYU,Underdog Fantasy,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,4 For 4,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,4 For 4,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,J.J. McCarthy,QB | Michigan,4 For 4,2024-04-25,Pick 3 - New England Patriots
+4,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Drake Maye,QB | North Carolina,4 For 4,2024-04-25,Pick 4 - Minnesota Vikings
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Marvin Harrison Jr.,WR | Ohio State,4 For 4,2024-04-25,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,4 For 4,2024-04-25,Pick 6 - New York Giants
+7,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Malik Nabers,WR | LSU,4 For 4,2024-04-25,Pick 7 - Arizona Cardinals
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Laiatu Latu,EDGE | UCLA,4 For 4,2024-04-25,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,4 For 4,2024-04-25,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Joe Alt,OT | Notre Dame,4 For 4,2024-04-25,Pick 10 - New York Jets
+11,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,J.C. Latham,OT | Alabama,4 For 4,2024-04-25,Pick 11 - Tennessee Titans
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Dallas Turner,EDGE | Alabama,4 For 4,2024-04-25,Pick 12 - Denver Broncos
+14,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,4 For 4,2024-04-25,Pick 14 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,4 For 4,2024-04-25,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,4 For 4,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jared Verse,EDGE | Florida State,4 For 4,2024-04-25,Pick 16 - Seattle Seahawks
+17,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Taliese Fuaga,OT | Oregon State,4 For 4,2024-04-25,Pick 17 - Philadelphia Eagles
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Quinyon Mitchell,CB | Toledo,4 For 4,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Xavier Worthy,WR | Texas,4 For 4,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,4 For 4,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Troy Fautanu,OT | Washington,4 For 4,2024-04-25,Pick 21 - Miami Dolphins
+22,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Kool-Aid McKinstry,CB | Alabama,4 For 4,2024-04-25,Pick 22 - Jacksonville Jaguars
+23,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Cooper DeJean,CB | Iowa,4 For 4,2024-04-25,Pick 23 - Arizona Cardinals
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Guyton,OT | OklahomaPOPULAR,4 For 4,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Amarius Mims,OT | GeorgiaPOPULAR,4 For 4,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Demeioun Robinson,EDGE | Penn StatePOPULAR,4 For 4,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jackson Powers-Johnson,IOL | Oregon,4 For 4,2024-04-25,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,4 For 4,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Darius Robinson,EDGE | MissouriPOPULAR,4 For 4,2024-04-25,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Morgan,OT | ArizonaPOPULAR,4 For 4,2024-04-25,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Adonai Mitchell,WR | Texas,4 For 4,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Kingsley Suamataia,OT | BYU,4 For 4,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Bleacher Report,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Bleacher Report,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Bleacher Report,2024-04-25,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Bleacher Report,2024-04-25,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Malik Nabers,WR | LSUPOPULAR,Bleacher Report,2024-04-25,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,Bleacher Report,2024-04-25,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Bleacher Report,2024-04-25,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Quinyon Mitchell,CB | Toledo,Bleacher Report,2024-04-25,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,Bleacher Report,2024-04-25,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Bleacher Report,2024-04-25,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,Bleacher Report,2024-04-25,Pick 11 - Minnesota Vikings
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Dallas Turner,EDGE | Alabama,Bleacher Report,2024-04-25,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,J.C. Latham,OT | Alabama,Bleacher Report,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Troy Fautanu,OT | Washington,Bleacher Report,2024-04-25,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brian Thomas Jr.,WR | LSU,Bleacher Report,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jared Verse,EDGE | Florida State,Bleacher Report,2024-04-25,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,Bleacher Report,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Taliese Fuaga,OT | Oregon State,Bleacher Report,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Olumuyiwa Fashanu,OT | Penn State,Bleacher Report,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,Bleacher Report,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Amarius Mims,OT | Georgia,Bleacher Report,2024-04-25,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Tyler Guyton,OT | Oklahoma,Bleacher Report,2024-04-25,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Laiatu Latu,EDGE | UCLA,Bleacher Report,2024-04-25,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Xavier Worthy,WR | Texas,Bleacher Report,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,Bleacher Report,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jackson Powers-Johnson,IOL | Oregon,Bleacher Report,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Demeioun Robinson,EDGE | Penn State,Bleacher Report,2024-04-25,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,Bleacher Report,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,Bleacher Report,2024-04-25,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Patrick Paul,OT | HoustonRARE,Bleacher Report,2024-04-25,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Xavier Legette,WR | South Carolina,Bleacher Report,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Jer'Zhan Newton,DL | Illinois,Bleacher Report,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Underdog Fantasy,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Underdog Fantasy,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Underdog Fantasy,2024-04-25,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Underdog Fantasy,2024-04-25,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Malik Nabers,WR | LSUPOPULAR,Underdog Fantasy,2024-04-25,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,Underdog Fantasy,2024-04-25,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Underdog Fantasy,2024-04-25,Pick 7 - Tennessee Titans
+8,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Underdog Fantasy,2024-04-25,Pick 8 - Minnesota Vikings
+9,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,Underdog Fantasy,2024-04-25,Pick 9 - Indianapolis Colts
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,J.C. Latham,OT | Alabama,Underdog Fantasy,2024-04-25,Pick 10 - New York Jets
+11,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | Alabama,Underdog Fantasy,2024-04-25,Pick 11 - Atlanta Falcons
+12,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Taliese Fuaga,OT | Oregon State,Underdog Fantasy,2024-04-25,Pick 12 - Cincinnati Bengals
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,Underdog Fantasy,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Underdog Fantasy,2024-04-25,Pick 14 - New Orleans Saints
+15,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | Texas,Underdog Fantasy,2024-04-25,Pick 15 - Chicago Bears
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Quinyon Mitchell,CB | Toledo,Underdog Fantasy,2024-04-25,Pick 16 - Philadelphia Eagles
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Brian Thomas Jr.,WR | LSU,Underdog Fantasy,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Laiatu Latu,EDGE | UCLA,Underdog Fantasy,2024-04-25,Pick 18 - Denver Broncos
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Xavier Worthy,WR | Texas,Underdog Fantasy,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Troy Fautanu,OT | Washington,Underdog Fantasy,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Amarius Mims,OT | Georgia,Underdog Fantasy,2024-04-25,Pick 21 - Green Bay Packers
+22,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Cooper DeJean,CB | Iowa,Underdog Fantasy,2024-04-25,Pick 22 - Seattle Seahawks
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Nate Wiggins,CB | ClemsonPOPULAR,Underdog Fantasy,2024-04-25,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Graham Barton,IOL | Duke,Underdog Fantasy,2024-04-25,Pick 24 - Dallas Cowboys
+25,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jared Verse,EDGE | Florida State,Underdog Fantasy,2024-04-25,Pick 25 - Miami Dolphins
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jackson Powers-Johnson,IOL | Oregon,Underdog Fantasy,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jordan Morgan,OT | Arizona,Underdog Fantasy,2024-04-25,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Demeioun Robinson,EDGE | Penn State,Underdog Fantasy,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,Underdog Fantasy,2024-04-25,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,Underdog Fantasy,2024-04-25,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jer'Zhan Newton,DL | Illinois,Underdog Fantasy,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Patrick Paul,OT | HoustonRARE,Underdog Fantasy,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Philly Voice,2024-04-25,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Philly Voice,2024-04-25,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Philly Voice,2024-04-25,Pick 3 - New England Patriots
+4,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,J.J. McCarthy,QB | Michigan,Philly Voice,2024-04-25,Pick 4 - New York Giants
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Marvin Harrison Jr.,WR | Ohio State,Philly Voice,2024-04-25,Pick 5 - Los Angeles Chargers
+6,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Rome Odunze,WR | Washington,Philly Voice,2024-04-25,Pick 6 - Arizona Cardinals
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Philly Voice,2024-04-25,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Philly Voice,2024-04-25,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Malik Nabers,WR | LSU,Philly Voice,2024-04-25,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Taliese Fuaga,OT | Oregon State,Philly Voice,2024-04-25,Pick 10 - New York Jets
+11,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,J.C. Latham,OT | Alabama,Philly Voice,2024-04-25,Pick 11 - New England Patriots
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | OregonPOPULAR,Philly Voice,2024-04-25,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,Philly Voice,2024-04-25,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Philly Voice,2024-04-25,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,Philly Voice,2024-04-25,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,Philly Voice,2024-04-25,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,Philly Voice,2024-04-25,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Laiatu Latu,EDGE | UCLA,Philly Voice,2024-04-25,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Byron Murphy,DL | Texas,Philly Voice,2024-04-25,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jackson Powers-Johnson,IOL | Oregon,Philly Voice,2024-04-25,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Graham Barton,IOL | Duke,Philly Voice,2024-04-25,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Amarius Mims,OT | Georgia,Philly Voice,2024-04-25,Pick 22 - Philadelphia Eagles
+23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Michael Penix Jr.,QB | Washington,Philly Voice,2024-04-25,Pick 23 - New England Patriots
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Guyton,OT | OklahomaPOPULAR,Philly Voice,2024-04-25,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,Philly Voice,2024-04-25,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,Philly Voice,2024-04-25,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Demeioun Robinson,EDGE | Penn State,Philly Voice,2024-04-25,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,Philly Voice,2024-04-25,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Darius Robinson,EDGE | MissouriPOPULAR,Philly Voice,2024-04-25,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Morgan,OT | ArizonaPOPULAR,Philly Voice,2024-04-25,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jer'Zhan Newton,DL | Illinois,Philly Voice,2024-04-25,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Worthy,WR | TexasPOPULAR,Philly Voice,2024-04-25,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Denver Sports,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Denver Sports,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Denver Sports,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Denver Sports,2024-04-24,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Joe Alt,OT | Notre Dame,Denver Sports,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Denver Sports,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Amarius Mims,OT | Georgia,Denver Sports,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Denver Sports,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rome Odunze,WR | Washington,Denver Sports,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Denver Sports,2024-04-24,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,Denver Sports,2024-04-24,Pick 11 - Minnesota Vikings
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | OregonPOPULAR,Denver Sports,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Quinyon Mitchell,CB | Toledo,Denver Sports,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Denver Sports,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Terrion Arnold,CB | Alabama,Denver Sports,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,J.C. Latham,OT | Alabama,Denver Sports,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Brian Thomas Jr.,WR | LSU,Denver Sports,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Troy Fautanu,OT | Washington,Denver Sports,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Darius Robinson,EDGE | Missouri,Denver Sports,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Taliese Fuaga,OT | Oregon State,Denver Sports,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Laiatu Latu,EDGE | UCLA,Denver Sports,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Cooper DeJean,CB | IowaPOPULAR,Denver Sports,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jared Verse,EDGE | Florida State,Denver Sports,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Guyton,OT | OklahomaPOPULAR,Denver Sports,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Nate Wiggins,CB | Clemson,Denver Sports,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Demeioun Robinson,EDGE | Penn StatePOPULAR,Denver Sports,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Kool-Aid McKinstry,CB | AlabamaPOPULAR,Denver Sports,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Keon Coleman,WR | Florida State,Denver Sports,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Adonai Mitchell,WR | Texas,Denver Sports,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Jordan Morgan,OT | ArizonaPOPULAR,Denver Sports,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jackson Powers-Johnson,IOL | Oregon,Denver Sports,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Worthy,WR | TexasPOPULAR,Denver Sports,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Bucs Nation,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Bucs Nation,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Bucs Nation,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Bucs Nation,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Bucs Nation,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Bucs Nation,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Bucs Nation,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Bucs Nation,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,Bucs Nation,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Bucs Nation,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Rome Odunze,WR | Washington,Bucs Nation,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Michael Penix Jr.,QB | Washington,Bucs Nation,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,Bucs Nation,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Bucs Nation,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Quinyon Mitchell,CB | ToledoPOPULAR,Bucs Nation,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jared Verse,EDGE | Florida State,Bucs Nation,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Graham Barton,IOL | Duke,Bucs Nation,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Taliese Fuaga,OT | Oregon State,Bucs Nation,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Laiatu Latu,EDGE | UCLAPOPULAR,Bucs Nation,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Brian Thomas Jr.,WR | LSU,Bucs Nation,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Troy Fautanu,OT | Washington,Bucs Nation,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Cooper DeJean,CB | IowaPOPULAR,Bucs Nation,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jer'Zhan Newton,DL | Illinois,Bucs Nation,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,J.C. Latham,OT | Alabama,Bucs Nation,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Amarius Mims,OT | GeorgiaPOPULAR,Bucs Nation,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Demeioun Robinson,EDGE | Penn StatePOPULAR,Bucs Nation,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Kool-Aid McKinstry,CB | AlabamaPOPULAR,Bucs Nation,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,Bucs Nation,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Nate Wiggins,CB | Clemson,Bucs Nation,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,Bucs Nation,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jordan Morgan,OT | Arizona,Bucs Nation,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Worthy,WR | TexasPOPULAR,Bucs Nation,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Sports Gambling Podcast,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Sports Gambling Podcast,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Marvin Harrison Jr.,WR | Ohio State,Sports Gambling Podcast,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Malik Nabers,WR | LSU,Sports Gambling Podcast,2024-04-24,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Joe Alt,OT | Notre Dame,Sports Gambling Podcast,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Drake Maye,QB | North Carolina,Sports Gambling Podcast,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,J.C. Latham,OT | Alabama,Sports Gambling Podcast,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Byron Murphy,DL | Texas,Sports Gambling Podcast,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rome Odunze,WR | Washington,Sports Gambling Podcast,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Taliese Fuaga,OT | Oregon State,Sports Gambling Podcast,2024-04-24,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,Sports Gambling Podcast,2024-04-24,Pick 11 - Minnesota Vikings
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Terrion Arnold,CB | Alabama,Sports Gambling Podcast,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Quinyon Mitchell,CB | Toledo,Sports Gambling Podcast,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Sports Gambling Podcast,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,Sports Gambling Podcast,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,Sports Gambling Podcast,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Brian Thomas Jr.,WR | LSU,Sports Gambling Podcast,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Jer'Zhan Newton,DL | Illinois,Sports Gambling Podcast,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Dallas Turner,EDGE | Alabama,Sports Gambling Podcast,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Cooper DeJean,CB | Iowa,Sports Gambling Podcast,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Laiatu Latu,EDGE | UCLA,Sports Gambling Podcast,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Amarius Mims,OT | Georgia,Sports Gambling Podcast,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jared Verse,EDGE | Florida State,Sports Gambling Podcast,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Graham Barton,IOL | Duke,Sports Gambling Podcast,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kingsley Suamataia,OT | BYU,Sports Gambling Podcast,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Nate Wiggins,CB | Clemson,Sports Gambling Podcast,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jordan Morgan,OT | Arizona,Sports Gambling Podcast,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,Sports Gambling Podcast,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,Sports Gambling Podcast,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Demeioun Robinson,EDGE | Penn State,Sports Gambling Podcast,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Tyler Guyton,OT | Oklahoma,Sports Gambling Podcast,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ennis Rakestraw Jr.,CB | Missouri,Sports Gambling Podcast,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Saints Wire,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Drake Maye,QB | North Carolina,Saints Wire,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jayden Daniels,QB | LSU,Saints Wire,2024-04-24,Pick 3 - New England Patriots
+4,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Saints Wire,2024-04-24,Pick 4 - Minnesota Vikings
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Marvin Harrison Jr.,WR | Ohio State,Saints Wire,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Saints Wire,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Saints Wire,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Saints Wire,2024-04-24,Pick 8 - Atlanta Falcons
+9,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Rome Odunze,WR | Washington,Saints Wire,2024-04-24,Pick 9 - Indianapolis Colts
+10,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Taliese Fuaga,OT | Oregon State,Saints Wire,2024-04-24,Pick 10 - Las Vegas Raiders
+11,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Quinyon Mitchell,CB | Toledo,Saints Wire,2024-04-24,Pick 11 - Arizona Cardinals
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Laiatu Latu,EDGE | UCLA,Saints Wire,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Olumuyiwa Fashanu,OT | Penn State,Saints Wire,2024-04-24,Pick 13 - Las Vegas Raiders
+14,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Brock Bowers,TE | Georgia,Saints Wire,2024-04-24,Pick 14 - Cincinnati Bengals
+15,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jer'Zhan Newton,DL | Illinois,Saints Wire,2024-04-24,Pick 15 - Chicago Bears
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jared Verse,EDGE | Florida State,Saints Wire,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Cooper DeJean,CB | Iowa,Saints Wire,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Troy Fautanu,OT | Washington,Saints Wire,2024-04-24,Pick 18 - New Orleans Saints
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Byron Murphy,DL | Texas,Saints Wire,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Amarius Mims,OT | Georgia,Saints Wire,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Terrion Arnold,CB | Alabama,Saints Wire,2024-04-24,Pick 21 - Dallas Cowboys
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nate Wiggins,CB | Clemson,Saints Wire,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jackson Powers-Johnson,IOL | Oregon,Saints Wire,2024-04-24,Pick 23 - Arizona Cardinals
+24,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Graham Barton,IOL | Duke,Saints Wire,2024-04-24,Pick 24 - Miami Dolphins
+25,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,Saints Wire,2024-04-24,Pick 25 - Buffalo Bills
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kool-Aid McKinstry,CB | Alabama,Saints Wire,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Adonai Mitchell,WR | Texas,Saints Wire,2024-04-24,Pick 27 - Arizona Cardinals
+28,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,J.C. Latham,OT | Alabama,Saints Wire,2024-04-24,Pick 28 - Green Bay Packers
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Demeioun Robinson,EDGE | Penn State,Saints Wire,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Patrick Paul,OT | HoustonRARE,Saints Wire,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Tyler Guyton,OT | Oklahoma,Saints Wire,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Troy Franklin,WR | Oregon,Saints Wire,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Denver Gazette,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Denver Gazette,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Denver Gazette,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Denver Gazette,2024-04-24,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.J. McCarthy,QB | Michigan,Denver Gazette,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,Denver Gazette,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Denver Gazette,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Denver Gazette,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Malik Nabers,WR | LSU,Denver Gazette,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Denver Gazette,2024-04-24,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Byron Murphy,DL | Texas,Denver Gazette,2024-04-24,Pick 11 - Minnesota Vikings
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | OregonPOPULAR,Denver Gazette,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | WashingtonPOPULAR,Denver Gazette,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,J.C. Latham,OT | Alabama,Denver Gazette,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Terrion Arnold,CB | Alabama,Denver Gazette,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,Denver Gazette,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,Denver Gazette,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Taliese Fuaga,OT | Oregon State,Denver Gazette,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Laiatu Latu,EDGE | UCLAPOPULAR,Denver Gazette,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Jared Verse,EDGE | Florida State,Denver Gazette,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Brian Thomas Jr.,WR | LSU,Denver Gazette,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nate Wiggins,CB | Clemson,Denver Gazette,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Demeioun Robinson,EDGE | Penn State,Denver Gazette,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Graham Barton,IOL | Duke,Denver Gazette,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Olumuyiwa Fashanu,OT | Penn State,Denver Gazette,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Amarius Mims,OT | Georgia,Denver Gazette,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Kool-Aid McKinstry,CB | AlabamaPOPULAR,Denver Gazette,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Xavier Worthy,WR | Texas,Denver Gazette,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Cooper DeJean,CB | Iowa,Denver Gazette,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,Denver Gazette,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Darius Robinson,EDGE | Missouri,Denver Gazette,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,Denver Gazette,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,NBC Sports,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,NBC Sports,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,NBC Sports,2024-04-24,Pick 3 - New England Patriots
+4,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,NBC Sports,2024-04-24,Pick 4 - Minnesota Vikings
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Marvin Harrison Jr.,WR | Ohio State,NBC Sports,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,NBC Sports,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,NBC Sports,2024-04-24,Pick 7 - Tennessee Titans
+8,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Rome Odunze,WR | Washington,NBC Sports,2024-04-24,Pick 8 - Arizona Cardinals
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Dallas Turner,EDGE | Alabama,NBC Sports,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Taliese Fuaga,OT | Oregon State,NBC Sports,2024-04-24,Pick 10 - New York Jets
+11,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Laiatu Latu,EDGE | UCLA,NBC Sports,2024-04-24,Pick 11 - Atlanta Falcons
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Brock Bowers,TE | Georgia,NBC Sports,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,NBC Sports,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,NBC Sports,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Quinyon Mitchell,CB | ToledoPOPULAR,NBC Sports,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,NBC Sports,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Brian Thomas Jr.,WR | LSU,NBC Sports,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,J.C. Latham,OT | AlabamaPOPULAR,NBC Sports,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Byron Murphy,DL | Texas,NBC Sports,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,NBC Sports,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jared Verse,EDGE | Florida State,NBC Sports,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Amarius Mims,OT | Georgia,NBC Sports,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Nate Wiggins,CB | Clemson,NBC Sports,2024-04-24,Pick 23 - Arizona Cardinals
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Xavier Worthy,WR | Texas,NBC Sports,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,NBC Sports,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jackson Powers-Johnson,IOL | Oregon,NBC Sports,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jer'Zhan Newton,DL | Illinois,NBC Sports,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,NBC Sports,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,NBC Sports,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,NBC Sports,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jordan Morgan,OT | Arizona,NBC Sports,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,NBC Sports,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Denver Post,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Denver Post,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Denver Post,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Denver Post,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Denver Post,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Denver Post,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Denver Post,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Denver Post,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rome Odunze,WR | Washington,Denver Post,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Olumuyiwa Fashanu,OT | Penn State,Denver Post,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,Denver Post,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Brock Bowers,TE | Georgia,Denver Post,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | WashingtonPOPULAR,Denver Post,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Taliese Fuaga,OT | Oregon State,Denver Post,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Quinyon Mitchell,CB | ToledoPOPULAR,Denver Post,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,Denver Post,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,Denver Post,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Amarius Mims,OT | Georgia,Denver Post,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Laiatu Latu,EDGE | UCLAPOPULAR,Denver Post,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,Denver Post,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Byron Murphy,DL | Texas,Denver Post,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nate Wiggins,CB | Clemson,Denver Post,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Brian Thomas Jr.,WR | LSU,Denver Post,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jackson Powers-Johnson,IOL | Oregon,Denver Post,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,Denver Post,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,Denver Post,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jer'Zhan Newton,DL | Illinois,Denver Post,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,Denver Post,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Demeioun Robinson,EDGE | Penn State,Denver Post,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,Denver Post,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Kool-Aid McKinstry,CB | Alabama,Denver Post,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,Denver Post,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,NBC Sports,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,NBC Sports,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,NBC Sports,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,NBC Sports,2024-04-24,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,NBC Sports,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,NBC Sports,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,NBC Sports,2024-04-24,Pick 7 - Tennessee Titans
+8,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,J.J. McCarthy,QB | Michigan,NBC Sports,2024-04-24,Pick 8 - Denver Broncos
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rome Odunze,WR | Washington,NBC Sports,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Taliese Fuaga,OT | Oregon State,NBC Sports,2024-04-24,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Michael Penix Jr.,QB | Washington,NBC Sports,2024-04-24,Pick 11 - Minnesota Vikings
+12,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | Alabama,NBC Sports,2024-04-24,Pick 12 - Atlanta Falcons
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Quinyon Mitchell,CB | Toledo,NBC Sports,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,NBC Sports,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,NBC Sports,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,NBC Sports,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,NBC Sports,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Byron Murphy,DL | Texas,NBC Sports,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Brian Thomas Jr.,WR | LSU,NBC Sports,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Amarius Mims,OT | Georgia,NBC Sports,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jared Verse,EDGE | Florida State,NBC Sports,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nate Wiggins,CB | Clemson,NBC Sports,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jer'Zhan Newton,DL | Illinois,NBC Sports,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Guyton,OT | OklahomaPOPULAR,NBC Sports,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,NBC Sports,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Laiatu Latu,EDGE | UCLA,NBC Sports,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Kool-Aid McKinstry,CB | AlabamaPOPULAR,NBC Sports,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Xavier Legette,WR | South Carolina,NBC Sports,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Demeioun Robinson,EDGE | Penn State,NBC Sports,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Graham Barton,IOL | Duke,NBC Sports,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Mike Sainristil,CB | Michigan,NBC Sports,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Adonai Mitchell,WR | Texas,NBC Sports,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,VSIN,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,VSIN,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,VSIN,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,VSIN,2024-04-24,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,VSIN,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,VSIN,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,VSIN,2024-04-24,Pick 7 - Tennessee Titans
+8,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,VSIN,2024-04-24,Pick 8 - New York Jets
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,VSIN,2024-04-24,Pick 9 - Chicago Bears
+10,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,VSIN,2024-04-24,Pick 10 - Indianapolis Colts
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,VSIN,2024-04-24,Pick 11 - Minnesota Vikings
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Laiatu Latu,EDGE | UCLA,VSIN,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,VSIN,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Taliese Fuaga,OT | Oregon State,VSIN,2024-04-24,Pick 14 - New Orleans Saints
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | Alabama,VSIN,2024-04-24,Pick 15 - Atlanta Falcons
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,VSIN,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,VSIN,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Olumuyiwa Fashanu,OT | Penn State,VSIN,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Graham Barton,IOL | Duke,VSIN,2024-04-24,Pick 19 - Philadelphia Eagles
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Amarius Mims,OT | Georgia,VSIN,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Tyler Guyton,OT | Oklahoma,VSIN,2024-04-24,Pick 21 - Miami Dolphins
+22,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jared Verse,EDGE | Florida State,VSIN,2024-04-24,Pick 22 - Los Angeles Rams
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Brian Thomas Jr.,WR | LSU,VSIN,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jordan Morgan,OT | Arizona,VSIN,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kool-Aid McKinstry,CB | Alabama,VSIN,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Demeioun Robinson,EDGE | Penn StatePOPULAR,VSIN,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Darius Robinson,EDGE | Missouri,VSIN,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Ladd McConkey,WR | Georgia,VSIN,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jer'Zhan Newton,DL | Illinois,VSIN,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Cooper DeJean,CB | Iowa,VSIN,2024-04-24,Pick 30 - Baltimore Ravens
+31,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Kingsley Suamataia,OT | BYU,VSIN,2024-04-24,Pick 31 - Washington Commanders
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Legette,WR | South Carolina,VSIN,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,NFL.com,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,NFL.com,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,NFL.com,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,NFL.com,2024-04-24,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,NFL.com,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,NFL.com,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,NFL.com,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,NFL.com,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Olumuyiwa Fashanu,OT | Penn State,NFL.com,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,NFL.com,2024-04-24,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | MichiganPOPULAR,NFL.com,2024-04-24,Pick 11 - Minnesota Vikings
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Taliese Fuaga,OT | Oregon State,NFL.com,2024-04-24,Pick 12 - Philadelphia Eagles
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | WashingtonPOPULAR,NFL.com,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Troy Fautanu,OT | Washington,NFL.com,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,NFL.com,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Terrion Arnold,CB | Alabama,NFL.com,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,NFL.com,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Byron Murphy,DL | Texas,NFL.com,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Amarius Mims,OT | Georgia,NFL.com,2024-04-24,Pick 19 - Washington Commanders
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Tyler Guyton,OT | Oklahoma,NFL.com,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jer'Zhan Newton,DL | IllinoisPOPULAR,NFL.com,2024-04-24,Pick 21 - Miami Dolphins
+22,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,NFL.com,2024-04-24,Pick 22 - Denver Broncos
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Demeioun Robinson,EDGE | Penn State,NFL.com,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Graham Barton,IOL | Duke,NFL.com,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,NFL.com,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,NFL.com,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Laiatu Latu,EDGE | UCLA,NFL.com,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,NFL.com,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,NFL.com,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Nate Wiggins,CB | Clemson,NFL.com,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Xavier Worthy,WR | Texas,NFL.com,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Adonai Mitchell,WR | Texas,NFL.com,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,CBS,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,CBS,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,CBS,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,CBS,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,CBS,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,CBS,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,CBS,2024-04-24,Pick 7 - Tennessee Titans
+8,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Rome Odunze,WR | Washington,CBS,2024-04-24,Pick 8 - Indianapolis Colts
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,CBS,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,CBS,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,CBS,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Dallas Turner,EDGE | Alabama,CBS,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Taliese Fuaga,OT | Oregon State,CBS,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,CBS,2024-04-24,Pick 14 - New Orleans Saints
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Laiatu Latu,EDGE | UCLA,CBS,2024-04-24,Pick 15 - Atlanta Falcons
+16,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Quinyon Mitchell,CB | Toledo,CBS,2024-04-24,Pick 16 - Philadelphia Eagles
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,CBS,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Troy Fautanu,OT | Washington,CBS,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jared Verse,EDGE | Florida State,CBS,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Graham Barton,IOL | DukePOPULAR,CBS,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Amarius Mims,OT | Georgia,CBS,2024-04-24,Pick 21 - Miami Dolphins
+22,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,CBS,2024-04-24,Pick 22 - Buffalo Bills
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Cooper DeJean,CB | Iowa,CBS,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Guyton,OT | OklahomaPOPULAR,CBS,2024-04-24,Pick 24 - Dallas Cowboys
+25,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Demeioun Robinson,EDGE | Penn State,CBS,2024-04-24,Pick 25 - Arizona Cardinals
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Darius Robinson,EDGE | Missouri,CBS,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jordan Morgan,OT | Arizona,CBS,2024-04-24,Pick 27 - Green Bay Packers
+28,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jackson Powers-Johnson,IOL | Oregon,CBS,2024-04-24,Pick 28 - Seattle Seahawks
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,CBS,2024-04-24,Pick 29 - Detroit Lions
+30,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | Washington,CBS,2024-04-24,Pick 30 - Las Vegas Raiders
+31,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Jer'Zhan Newton,DL | Illinois,CBS,2024-04-24,Pick 31 - Houston Texans
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Worthy,WR | TexasPOPULAR,CBS,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Sporting News,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Sporting News,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,J.J. McCarthy,QB | Michigan,Sporting News,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Sporting News,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Drake Maye,QB | North Carolina,Sporting News,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,Sporting News,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Sporting News,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Byron Murphy,DL | Texas,Sporting News,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Malik Nabers,WR | LSU,Sporting News,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Sporting News,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,Sporting News,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Amarius Mims,OT | Georgia,Sporting News,2024-04-24,Pick 12 - Philadelphia Eagles
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,Sporting News,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Sporting News,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brian Thomas Jr.,WR | LSU,Sporting News,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Cooper DeJean,CB | Iowa,Sporting News,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,Sporting News,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Troy Fautanu,OT | Washington,Sporting News,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Laiatu Latu,EDGE | UCLAPOPULAR,Sporting News,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Taliese Fuaga,OT | Oregon State,Sporting News,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Graham Barton,IOL | Duke,Sporting News,2024-04-24,Pick 21 - Miami Dolphins
+22,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,Sporting News,2024-04-24,Pick 22 - Denver Broncos
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Adonai Mitchell,WR | Texas,Sporting News,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Zach Frazier,IOL | West Virginia,Sporting News,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kool-Aid McKinstry,CB | Alabama,Sporting News,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Dallas Turner,EDGE | Alabama,Sporting News,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Jackson Powers-Johnson,IOL | Oregon,Sporting News,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Keon Coleman,WR | Florida State,Sporting News,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Jared Verse,EDGE | Florida State,Sporting News,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Demeioun Robinson,EDGE | Penn State,Sporting News,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Tyler Guyton,OT | Oklahoma,Sporting News,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,Sporting News,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Cards Wire,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Cards Wire,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Cards Wire,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Cards Wire,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Cards Wire,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Cards Wire,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Cards Wire,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Laiatu Latu,EDGE | UCLA,Cards Wire,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rome Odunze,WR | Washington,Cards Wire,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Cards Wire,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Olumuyiwa Fashanu,OT | Penn State,Cards Wire,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Dallas Turner,EDGE | Alabama,Cards Wire,2024-04-24,Pick 12 - Arizona Cardinals
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Quinyon Mitchell,CB | Toledo,Cards Wire,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Taliese Fuaga,OT | Oregon State,Cards Wire,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Terrion Arnold,CB | Alabama,Cards Wire,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jared Verse,EDGE | Florida State,Cards Wire,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Cooper DeJean,CB | Iowa,Cards Wire,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Troy Fautanu,OT | Washington,Cards Wire,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Byron Murphy,DL | Texas,Cards Wire,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,J.C. Latham,OT | Alabama,Cards Wire,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jer'Zhan Newton,DL | IllinoisPOPULAR,Cards Wire,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nate Wiggins,CB | Clemson,Cards Wire,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Demeioun Robinson,EDGE | Penn State,Cards Wire,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Amarius Mims,OT | Georgia,Cards Wire,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Graham Barton,IOL | Duke,Cards Wire,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Zach Frazier,IOL | West Virginia,Cards Wire,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,Cards Wire,2024-04-24,Pick 27 - Denver Broncos
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,Cards Wire,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,Cards Wire,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Brian Thomas Jr.,WR | LSU,Cards Wire,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Darius Robinson,EDGE | Missouri,Cards Wire,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Worthy,WR | GeorgiaPOPULAR,Cards Wire,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Patriots Wire,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Patriots Wire,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Patriots Wire,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Patriots Wire,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Patriots Wire,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Patriots Wire,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Patriots Wire,2024-04-24,Pick 7 - Tennessee Titans
+8,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,Patriots Wire,2024-04-24,Pick 8 - Indianapolis Colts
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Byron Murphy,DL | TexasPOPULAR,Patriots Wire,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,Patriots Wire,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Taliese Fuaga,OT | Oregon State,Patriots Wire,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Olumuyiwa Fashanu,OT | Penn State,Patriots Wire,2024-04-24,Pick 12 - Pittsburgh Steelers
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,J.C. Latham,OT | Alabama,Patriots Wire,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Brian Thomas Jr.,WR | LSU,Patriots Wire,2024-04-24,Pick 14 - New Orleans Saints
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | Alabama,Patriots Wire,2024-04-24,Pick 15 - Atlanta Falcons
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jackson Powers-Johnson,IOL | Oregon,Patriots Wire,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,Patriots Wire,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Troy Fautanu,OT | Washington,Patriots Wire,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Laiatu Latu,EDGE | UCLAPOPULAR,Patriots Wire,2024-04-24,Pick 19 - Los Angeles Rams
+20,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,Patriots Wire,2024-04-24,Pick 20 - Denver Broncos
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Graham Barton,IOL | Duke,Patriots Wire,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Cooper DeJean,CB | IowaPOPULAR,Patriots Wire,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Adonai Mitchell,WR | Texas,Patriots Wire,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Terrion Arnold,CB | Alabama,Patriots Wire,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Amarius Mims,OT | GeorgiaPOPULAR,Patriots Wire,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,Patriots Wire,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Nate Wiggins,CB | Clemson,Patriots Wire,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Troy Franklin,WR | Oregon,Patriots Wire,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Marshawn Kneeland,EDGE | Western MichiganRARE,Patriots Wire,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Kool-Aid McKinstry,CB | Alabama,Patriots Wire,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jordan Morgan,OT | Arizona,Patriots Wire,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Worthy,WR | TexasPOPULAR,Patriots Wire,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Haas Football,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Haas Football,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Haas Football,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Haas Football,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Haas Football,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,Haas Football,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Haas Football,2024-04-24,Pick 7 - Tennessee Titans
+8,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Malik Nabers,WR | LSU,Haas Football,2024-04-24,Pick 8 - Jacksonville Jaguars
+9,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Taliese Fuaga,OT | Oregon State,Haas Football,2024-04-24,Pick 9 - Pittsburgh Steelers
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Haas Football,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,Haas Football,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Dallas Turner,EDGE | Alabama,Haas Football,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Byron Murphy,DL | Texas,Haas Football,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Troy Fautanu,OT | Washington,Haas Football,2024-04-24,Pick 14 - New Orleans Saints
+15,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Olumuyiwa Fashanu,OT | Penn State,Haas Football,2024-04-24,Pick 15 - Los Angeles Rams
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Cooper DeJean,CB | Iowa,Haas Football,2024-04-24,Pick 16 - Seattle Seahawks
+17,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Quinyon Mitchell,CB | Toledo,Haas Football,2024-04-24,Pick 17 - Atlanta Falcons
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Brian Thomas Jr.,WR | LSU,Haas Football,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Terrion Arnold,CB | Alabama,Haas Football,2024-04-24,Pick 19 - Indianapolis Colts
+20,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Jared Verse,EDGE | Florida State,Haas Football,2024-04-24,Pick 20 - Chicago Bears
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jer'Zhan Newton,DL | IllinoisPOPULAR,Haas Football,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Amarius Mims,OT | Georgia,Haas Football,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Adonai Mitchell,WR | Texas,Haas Football,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Demeioun Robinson,EDGE | Penn State,Haas Football,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Edgerrin Cooper,LB | Texas A&M,Haas Football,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Laiatu Latu,EDGE | UCLA,Haas Football,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Kool-Aid McKinstry,CB | AlabamaPOPULAR,Haas Football,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Xavier Worthy,WR | Texas,Haas Football,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Nate Wiggins,CB | Clemson,Haas Football,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Graham Barton,IOL | Duke,Haas Football,2024-04-24,Pick 30 - Baltimore Ravens
+31,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | Washington,Haas Football,2024-04-24,Pick 31 - Las Vegas Raiders
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,Haas Football,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,AtlantaFalcons.com,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,J.J. McCarthy,QB | Michigan,AtlantaFalcons.com,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,AtlantaFalcons.com,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,AtlantaFalcons.com,2024-04-24,Pick 4 - Arizona Cardinals
+5,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Malik Nabers,WR | LSUPOPULAR,AtlantaFalcons.com,2024-04-24,Pick 5 - Los Angeles Chargers
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,AtlantaFalcons.com,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,AtlantaFalcons.com,2024-04-24,Pick 7 - Tennessee Titans
+8,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Jayden Daniels,QB | LSU,AtlantaFalcons.com,2024-04-24,Pick 8 - Denver Broncos
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Brock Bowers,TE | Georgia,AtlantaFalcons.com,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brian Thomas Jr.,WR | LSU,AtlantaFalcons.com,2024-04-24,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Dallas Turner,EDGE | Alabama,AtlantaFalcons.com,2024-04-24,Pick 11 - Minnesota Vikings
+12,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Byron Murphy,DL | Texas,AtlantaFalcons.com,2024-04-24,Pick 12 - Atlanta Falcons
+13,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Laiatu Latu,EDGE | UCLA,AtlantaFalcons.com,2024-04-24,Pick 13 - Jacksonville Jaguars
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,AtlantaFalcons.com,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Terrion Arnold,CB | Alabama,AtlantaFalcons.com,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Jared Verse,EDGE | Florida State,AtlantaFalcons.com,2024-04-24,Pick 16 - Seattle Seahawks
+17,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Quinyon Mitchell,CB | Toledo,AtlantaFalcons.com,2024-04-24,Pick 17 - Las Vegas Raiders
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,J.C. Latham,OT | AlabamaPOPULAR,AtlantaFalcons.com,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Demeioun Robinson,EDGE | Penn State,AtlantaFalcons.com,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Taliese Fuaga,OT | Oregon State,AtlantaFalcons.com,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Graham Barton,IOL | Duke,AtlantaFalcons.com,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Troy Fautanu,OT | Washington,AtlantaFalcons.com,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jackson Powers-Johnson,IOL | Oregon,AtlantaFalcons.com,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Amarius Mims,OT | Georgia,AtlantaFalcons.com,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Jer'Zhan Newton,DL | Illinois,AtlantaFalcons.com,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Nate Wiggins,CB | Clemson,AtlantaFalcons.com,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Adonai Mitchell,WR | Texas,AtlantaFalcons.com,2024-04-24,Pick 27 - Arizona Cardinals
+28,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | Washington,AtlantaFalcons.com,2024-04-24,Pick 28 - Las Vegas Raiders
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,AtlantaFalcons.com,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Xavier Worthy,WR | Texas,AtlantaFalcons.com,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Ennis Rakestraw Jr.,CB | Missouri,AtlantaFalcons.com,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,AtlantaFalcons.com,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,NBC Sports Boston,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,NBC Sports Boston,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,NBC Sports Boston,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,NBC Sports Boston,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,NBC Sports Boston,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,NBC Sports Boston,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,NBC Sports Boston,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Byron Murphy,DL | Texas,NBC Sports Boston,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Malik Nabers,WR | LSU,NBC Sports Boston,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Troy Fautanu,OT | Washington,NBC Sports Boston,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,NBC Sports Boston,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Taliese Fuaga,OT | Oregon State,NBC Sports Boston,2024-04-24,Pick 12 - Philadelphia Eagles
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | WashingtonPOPULAR,NBC Sports Boston,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,NBC Sports Boston,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,NBC Sports Boston,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Dallas Turner,EDGE | Alabama,NBC Sports Boston,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,NBC Sports Boston,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Amarius Mims,OT | Georgia,NBC Sports Boston,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Brian Thomas Jr.,WR | LSU,NBC Sports Boston,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Quinyon Mitchell,CB | Toledo,NBC Sports Boston,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Graham Barton,IOL | Duke,NBC Sports Boston,2024-04-24,Pick 21 - Miami Dolphins
+22,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Bo Nix,QB | Oregon,NBC Sports Boston,2024-04-24,Pick 22 - Denver Broncos
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jer'Zhan Newton,DL | Illinois,NBC Sports Boston,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Adonai Mitchell,WR | Texas,NBC Sports Boston,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Cooper DeJean,CB | Iowa,NBC Sports Boston,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Laiatu Latu,EDGE | UCLA,NBC Sports Boston,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Nate Wiggins,CB | Clemson,NBC Sports Boston,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Jared Verse,EDGE | Florida State,NBC Sports Boston,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Demeioun Robinson,EDGE | Penn State,NBC Sports Boston,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,NBC Sports Boston,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Jordan Morgan,OT | Arizona,NBC Sports Boston,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Legette,WR | South Carolina,NBC Sports Boston,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 2 - Washington Commanders
+3,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Drake Maye,QB | North Carolina,NBC Sports Philadelphia,2024-04-24,Pick 3 - Minnesota Vikings
+4,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,J.J. McCarthy,QB | Michigan,NBC Sports Philadelphia,2024-04-24,Pick 4 - Denver Broncos
+5,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio State,NBC Sports Philadelphia,2024-04-24,Pick 5 - Arizona Cardinals
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,NBC Sports Philadelphia,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Olumuyiwa Fashanu,OT | Penn State,NBC Sports Philadelphia,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,NBC Sports Philadelphia,2024-04-24,Pick 10 - New York Jets
+11,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Laiatu Latu,EDGE | UCLA,NBC Sports Philadelphia,2024-04-24,Pick 11 - New England Patriots
+12,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Taliese Fuaga,OT | Oregon State,NBC Sports Philadelphia,2024-04-24,Pick 12 - Los Angeles Chargers
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Quinyon Mitchell,CB | Toledo,NBC Sports Philadelphia,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,J.C. Latham,OT | Alabama,NBC Sports Philadelphia,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Brock Bowers,TE | Georgia,NBC Sports Philadelphia,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Brian Thomas Jr.,WR | LSU,NBC Sports Philadelphia,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Byron Murphy,DL | Texas,NBC Sports Philadelphia,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Terrion Arnold,CB | Alabama,NBC Sports Philadelphia,2024-04-24,Pick 19 - Philadelphia Eagles
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Zach Frazier,IOL | West Virginia,NBC Sports Philadelphia,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jer'Zhan Newton,DL | IllinoisPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 21 - Miami Dolphins
+22,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Jared Verse,EDGE | Florida State,NBC Sports Philadelphia,2024-04-24,Pick 22 - Los Angeles Rams
+23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Cooper DeJean,CB | Iowa,NBC Sports Philadelphia,2024-04-24,Pick 23 - New England Patriots
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Graham Barton,IOL | Duke,NBC Sports Philadelphia,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Amarius Mims,OT | GeorgiaPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Nate Wiggins,CB | Clemson,NBC Sports Philadelphia,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Demeioun Robinson,EDGE | Penn State,NBC Sports Philadelphia,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kool-Aid McKinstry,CB | Alabama,NBC Sports Philadelphia,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Tyler Guyton,OT | Oklahoma,NBC Sports Philadelphia,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Ladd McConkey,WR | GeorgiaPOPULAR,NBC Sports Philadelphia,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Michael Penix Jr.,QB | Washington,NBC Sports Philadelphia,2024-04-24,Pick 32 - Las Vegas Raiders
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Still Curtain,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Still Curtain,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,Still Curtain,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,Still Curtain,2024-04-24,Pick 4 - Arizona Cardinals
+5,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,J.J. McCarthy,QB | Michigan,Still Curtain,2024-04-24,Pick 5 - Minnesota Vikings
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,Still Curtain,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Still Curtain,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,Still Curtain,2024-04-24,Pick 8 - Atlanta Falcons
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Laiatu Latu,EDGE | UCLA,Still Curtain,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Rome Odunze,WR | Washington,Still Curtain,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Brock Bowers,TE | Georgia,Still Curtain,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Michael Penix Jr.,QB | Washington,Still Curtain,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Taliese Fuaga,OT | Oregon State,Still Curtain,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Still Curtain,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Quinyon Mitchell,CB | ToledoPOPULAR,Still Curtain,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,Still Curtain,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Terrion Arnold,CB | AlabamaPOPULAR,Still Curtain,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,J.C. Latham,OT | AlabamaPOPULAR,Still Curtain,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Byron Murphy,DL | Texas,Still Curtain,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Amarius Mims,OT | Georgia,Still Curtain,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jer'Zhan Newton,DL | IllinoisPOPULAR,Still Curtain,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Cooper DeJean,CB | IowaPOPULAR,Still Curtain,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Brian Thomas Jr.,WR | LSU,Still Curtain,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Graham Barton,IOL | Duke,Still Curtain,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Tyler Guyton,OT | Oklahoma,Still Curtain,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Jared Verse,EDGE | Florida State,Still Curtain,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Kool-Aid McKinstry,CB | AlabamaPOPULAR,Still Curtain,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,Still Curtain,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Demeioun Robinson,EDGE | Penn State,Still Curtain,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Nate Wiggins,CB | Clemson,Still Curtain,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Troy Franklin,WR | Oregon,Still Curtain,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Ladd McConkey,WR | Georgia,Still Curtain,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,CBS,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,CBS,2024-04-24,Pick 2 - Washington Commanders
+3,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Drake Maye,QB | North CarolinaPOPULAR,CBS,2024-04-24,Pick 3 - New England Patriots
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,CBS,2024-04-24,Pick 4 - Arizona Cardinals
+5,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,J.J. McCarthy,QB | Michigan,CBS,2024-04-24,Pick 5 - New York Giants
+6,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Olumuyiwa Fashanu,OT | Penn State,CBS,2024-04-24,Pick 6 - Los Angeles Chargers
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,CBS,2024-04-24,Pick 7 - Tennessee Titans
+8,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Malik Nabers,WR | LSU,CBS,2024-04-24,Pick 8 - Indianapolis Colts
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Rome Odunze,WR | Washington,CBS,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,CBS,2024-04-24,Pick 10 - New York Jets
+11,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Bo Nix,QB | Oregon,CBS,2024-04-24,Pick 11 - Minnesota Vikings
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Dallas Turner,EDGE | Alabama,CBS,2024-04-24,Pick 12 - Denver Broncos
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Taliese Fuaga,OT | Oregon State,CBS,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,J.C. Latham,OT | Alabama,CBS,2024-04-24,Pick 14 - New Orleans Saints
+15,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Byron Murphy,DL | Texas,CBS,2024-04-24,Pick 15 - Atlanta Falcons
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Laiatu Latu,EDGE | UCLA,CBS,2024-04-24,Pick 16 - Seattle Seahawks
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Quinyon Mitchell,CB | Toledo,CBS,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Amarius Mims,OT | Georgia,CBS,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Troy Fautanu,OT | Washington,CBS,2024-04-24,Pick 19 - Los Angeles Rams
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Brian Thomas Jr.,WR | LSU,CBS,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jared Verse,EDGE | Florida State,CBS,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Terrion Arnold,CB | Alabama,CBS,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Jer'Zhan Newton,DL | Illinois,CBS,2024-04-24,Pick 23 - Minnesota Vikings
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Xavier Worthy,WR | Texas,CBS,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Kool-Aid McKinstry,CB | Alabama,CBS,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Darius Robinson,EDGE | Missouri,CBS,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Graham Barton,IOL | Duke,CBS,2024-04-24,Pick 27 - Arizona Cardinals
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Adonai Mitchell,WR | TexasPOPULAR,CBS,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Demeioun Robinson,EDGE | Penn State,CBS,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Marshawn Kneeland,EDGE | Western MichiganRARE,CBS,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Tyler Guyton,OT | Oklahoma,CBS,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Xavier Legette,WR | South Carolina,CBS,2024-04-24,Pick 32 - Kansas City Chiefs
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,Fantasy Pros,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,Fantasy Pros,2024-04-24,Pick 2 - Washington Commanders
+3,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Drake Maye,QB | North Carolina,Fantasy Pros,2024-04-24,Pick 3 - Minnesota Vikings
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Malik Nabers,WR | LSU,Fantasy Pros,2024-04-24,Pick 4 - Arizona Cardinals
+5,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Marvin Harrison Jr.,WR | Ohio State,Fantasy Pros,2024-04-24,Pick 5 - New England Patriots
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Rome Odunze,WR | WashingtonPOPULAR,Fantasy Pros,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,Fantasy Pros,2024-04-24,Pick 7 - Tennessee Titans
+8,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,J.J. McCarthy,QB | Michigan,Fantasy Pros,2024-04-24,Pick 8 - Las Vegas Raiders
+9,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Brian Thomas Jr.,WR | LSU,Fantasy Pros,2024-04-24,Pick 9 - Chicago Bears
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,Brock Bowers,TE | GeorgiaPOPULAR,Fantasy Pros,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,J.C. Latham,OT | Alabama,Fantasy Pros,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Troy Fautanu,OT | Washington,Fantasy Pros,2024-04-24,Pick 12 - Denver Broncos
+13,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Terrion Arnold,CB | Alabama,Fantasy Pros,2024-04-24,Pick 13 - Atlanta Falcons
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,Fantasy Pros,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Adonai Mitchell,WR | Texas,Fantasy Pros,2024-04-24,Pick 15 - Indianapolis Colts
+16,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Byron Murphy,DL | Texas,Fantasy Pros,2024-04-24,Pick 16 - Tampa Bay Buccaneers
+17,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Dallas Turner,EDGE | Alabama,Fantasy Pros,2024-04-24,Pick 17 - Jacksonville Jaguars
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Quinyon Mitchell,CB | Toledo,Fantasy Pros,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Ladd McConkey,WR | Georgia,Fantasy Pros,2024-04-24,Pick 19 - Los Angeles Rams
+20,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Laiatu Latu,EDGE | UCLA,Fantasy Pros,2024-04-24,Pick 20 - Arizona Cardinals
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Jared Verse,EDGE | Florida State,Fantasy Pros,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Taliese Fuaga,OT | Oregon State,Fantasy Pros,2024-04-24,Pick 22 - Philadelphia Eagles
+23,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Jer'Zhan Newton,DL | Illinois,Fantasy Pros,2024-04-24,Pick 23 - Los Angeles Chargers
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Jackson Powers-Johnson,IOL | Oregon,Fantasy Pros,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Graham Barton,IOL | Duke,Fantasy Pros,2024-04-24,Pick 25 - Green Bay Packers
+26,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Cooper DeJean,CB | Iowa,Fantasy Pros,2024-04-24,Pick 26 - Seattle Seahawks
+27,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Tyler Guyton,OT | Oklahoma,Fantasy Pros,2024-04-24,Pick 27 - Pittsburgh Steelers
+28,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Michael Penix Jr.,QB | Washington,Fantasy Pros,2024-04-24,Pick 28 - New York Giants
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Kingsley Suamataia,OT | BYU,Fantasy Pros,2024-04-24,Pick 29 - Detroit Lions
+30,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Marshawn Kneeland,EDGE | Western MichiganRARE,Fantasy Pros,2024-04-24,Pick 30 - Detroit Lions
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Kris Jenkins,DL | Michigan,Fantasy Pros,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Houston Texans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/texans.svg,Edgerrin Cooper,LB | Texas A&M,Fantasy Pros,2024-04-24,Pick 32 - Houston Texans
+1,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Caleb Williams,QB | USCPOPULAR,CBS,2024-04-24,Pick 1 - Chicago Bears
+2,Washington Commanders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/commanders.svg,Jayden Daniels,QB | LSUPOPULAR,CBS,2024-04-24,Pick 2 - Washington Commanders
+3,Minnesota Vikings,https://d9ioojyvhqpok.cloudfront.net/assets/logos/vikings.svg,Drake Maye,QB | North Carolina,CBS,2024-04-24,Pick 3 - Minnesota Vikings
+4,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Marvin Harrison Jr.,WR | Ohio StatePOPULAR,CBS,2024-04-24,Pick 4 - Arizona Cardinals
+5,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,J.J. McCarthy,QB | Michigan,CBS,2024-04-24,Pick 5 - New England Patriots
+6,New York Giants,https://d9ioojyvhqpok.cloudfront.net/assets/logos/giants_alt.svg,Malik Nabers,WR | LSU,CBS,2024-04-24,Pick 6 - New York Giants
+7,Tennessee Titans,https://d9ioojyvhqpok.cloudfront.net/assets/logos/titans.svg,Joe Alt,OT | Notre DamePOPULAR,CBS,2024-04-24,Pick 7 - Tennessee Titans
+8,Atlanta Falcons,https://d9ioojyvhqpok.cloudfront.net/assets/logos/falcons.svg,Dallas Turner,EDGE | AlabamaPOPULAR,CBS,2024-04-24,Pick 8 - Atlanta Falcons
+9,Jacksonville Jaguars,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jaguars.svg,Rome Odunze,WR | Washington,CBS,2024-04-24,Pick 9 - Jacksonville Jaguars
+10,New York Jets,https://d9ioojyvhqpok.cloudfront.net/assets/logos/jets.svg,J.C. Latham,OT | Alabama,CBS,2024-04-24,Pick 10 - New York Jets
+11,Los Angeles Chargers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chargers.svg,Brock Bowers,TE | Georgia,CBS,2024-04-24,Pick 11 - Los Angeles Chargers
+12,Arizona Cardinals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cardinals.svg,Laiatu Latu,EDGE | UCLA,CBS,2024-04-24,Pick 12 - Arizona Cardinals
+13,Las Vegas Raiders,https://d9ioojyvhqpok.cloudfront.net/assets/logos/raiders.svg,Terrion Arnold,CB | Alabama,CBS,2024-04-24,Pick 13 - Las Vegas Raiders
+14,New Orleans Saints,https://d9ioojyvhqpok.cloudfront.net/assets/logos/saints.svg,Olumuyiwa Fashanu,OT | Penn StatePOPULAR,CBS,2024-04-24,Pick 14 - New Orleans Saints
+15,Indianapolis Colts,https://d9ioojyvhqpok.cloudfront.net/assets/logos/colts.svg,Quinyon Mitchell,CB | ToledoPOPULAR,CBS,2024-04-24,Pick 15 - Indianapolis Colts
+16,Seattle Seahawks,https://d9ioojyvhqpok.cloudfront.net/assets/logos/seahawks.svg,Troy Fautanu,OT | WashingtonPOPULAR,CBS,2024-04-24,Pick 16 - Seattle Seahawks
+17,Los Angeles Rams,https://d9ioojyvhqpok.cloudfront.net/assets/logos/rams.svg,Byron Murphy,DL | Texas,CBS,2024-04-24,Pick 17 - Los Angeles Rams
+18,Cincinnati Bengals,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bengals.svg,Jer'Zhan Newton,DL | Illinois,CBS,2024-04-24,Pick 18 - Cincinnati Bengals
+19,Chicago Bears,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bears.svg,Demeioun Robinson,EDGE | Penn State,CBS,2024-04-24,Pick 19 - Chicago Bears
+20,Pittsburgh Steelers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/steelers.svg,Cooper DeJean,CB | Iowa,CBS,2024-04-24,Pick 20 - Pittsburgh Steelers
+21,Miami Dolphins,https://d9ioojyvhqpok.cloudfront.net/assets/logos/dolphins.svg,Taliese Fuaga,OT | Oregon State,CBS,2024-04-24,Pick 21 - Miami Dolphins
+22,Philadelphia Eagles,https://d9ioojyvhqpok.cloudfront.net/assets/logos/eagles.svg,Nate Wiggins,CB | Clemson,CBS,2024-04-24,Pick 22 - Philadelphia Eagles
+23,New England Patriots,https://d9ioojyvhqpok.cloudfront.net/assets/logos/patriots.svg,Jared Verse,EDGE | Florida State,CBS,2024-04-24,Pick 23 - New England Patriots
+24,Dallas Cowboys,https://d9ioojyvhqpok.cloudfront.net/assets/logos/cowboys.svg,Tyler Guyton,OT | OklahomaPOPULAR,CBS,2024-04-24,Pick 24 - Dallas Cowboys
+25,Green Bay Packers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/packers.svg,Darius Robinson,EDGE | Missouri,CBS,2024-04-24,Pick 25 - Green Bay Packers
+26,Tampa Bay Buccaneers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bucs.svg,Kool-Aid McKinstry,CB | Alabama,CBS,2024-04-24,Pick 26 - Tampa Bay Buccaneers
+27,Denver Broncos,https://d9ioojyvhqpok.cloudfront.net/assets/logos/broncos.svg,Michael Penix Jr.,QB | Washington,CBS,2024-04-24,Pick 27 - Denver Broncos
+28,Buffalo Bills,https://d9ioojyvhqpok.cloudfront.net/assets/logos/bills.svg,Brian Thomas Jr.,WR | LSU,CBS,2024-04-24,Pick 28 - Buffalo Bills
+29,Detroit Lions,https://d9ioojyvhqpok.cloudfront.net/assets/logos/lions.svg,Marshawn Kneeland,EDGE | Western MichiganRARE,CBS,2024-04-24,Pick 29 - Detroit Lions
+30,Baltimore Ravens,https://d9ioojyvhqpok.cloudfront.net/assets/logos/ravens.svg,Amarius Mims,OT | Georgia,CBS,2024-04-24,Pick 30 - Baltimore Ravens
+31,San Francisco 49Ers,https://d9ioojyvhqpok.cloudfront.net/assets/logos/niners.svg,Kingsley Suamataia,OT | BYU,CBS,2024-04-24,Pick 31 - San Francisco 49Ers
+32,Kansas City Chiefs,https://d9ioojyvhqpok.cloudfront.net/assets/logos/chiefs.svg,Patrick Paul,OT | HoustonRARE,CBS,2024-04-24,Pick 32 - Kansas City Chiefs
